@@ -1,0 +1,20 @@
+# Edukasi Praktis
+
+> Blog tentang tips, rekomendasi, dan panduan praktis untuk guru, sekolah, dan madrasah.
+
+## Site Information
+- **Topic:** Teknologi pendidikan, peralatan sekolah, produktivitas guru
+- **Language:** Indonesian (Bahasa Indonesia)
+- **Audience:** Guru, admin sekolah, kepala sekolah, operator madrasah
+- **Content type:** Artikel panduan, rekomendasi produk, tips praktis
+
+## Content Guidelines
+- Artikel ditulis dalam Bahasa Indonesia
+- Setiap artikel mencakup: pendahuluan, rekomendasi/step, tips, penutup
+- Harga produk dalam Rupiah (Rp)
+- Konten di-update secara berkala
+
+## Sections
+- /posts/ — semua artikel
+- /about/ — tentang blog
+- /contact/ — kontak

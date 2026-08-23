@@ -1,0 +1,78 @@
+baseURL: https://blog-cuan.pages.dev
+languageCode: id-id
+title: Edukasi Praktis
+theme: PaperMod
+pagination:
+  pageSize: 10
+enableRobotsTXT: true
+enableGitInfo: true
+
+params:
+  env: production
+  title: Edukasi Praktis
+  description: "Tips, rekomendasi, dan panduan praktis untuk guru, sekolah, dan madrasah — teknologi, peralatan, dan solusi sehari-hari."
+  keywords: [edukasi, sekolah, madrasah, teknologi pendidikan, guru, printer sekolah, laptop guru]
+  author: "Edukasi Praktis"
+  defaultTheme: light
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowToc: true
+  TocOpen: true
+  
+  homeInfoParams:
+    Title: "Edukasi Praktis"
+    Content: "Tips, rekomendasi, dan panduan praktis untuk guru, sekolah, dan madrasah."
+  
+  socialIcons:
+    - name: "rss"
+      url: "/index.xml"
+  
+  # SEO
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: true
+  
+  editPost:
+    URL: ""
+    Text: ""
+    appendFilePath: false
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      autoHeadingID: true
+
+menu:
+  main:
+    - name: "Artikel"
+      url: "/posts/"
+      weight: 1
+    - name: "Tentang"
+      url: "/about/"
+      weight: 2
+    - name: "Kontak"
+      url: "/contact/"
+      weight: 3
+
+# Sitemap
+sitemap:
+  changefreq: daily
+  priority: 0.5
+
+# Output formats
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# Minify
+minify:
+  minifyOutput: true
