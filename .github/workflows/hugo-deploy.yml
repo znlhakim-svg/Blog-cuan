@@ -14,10 +14,6 @@ concurrency:
   group: pages
   cancel-in-progress: false
 
-defaults:
-  run:
-    working-directory: blog-cuan
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -36,12 +32,11 @@ jobs:
 
       - name: Build
         run: hugo --minify --gc
-        working-directory: blog-cuan
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: blog-cuan/public
+          path: public
 
   deploy:
     environment:
