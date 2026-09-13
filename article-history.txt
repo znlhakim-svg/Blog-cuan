@@ -26,3 +26,4 @@
 2026-09-10 | NotebookLM untuk Guru 2026: Cara Ubah PDF & Materi Pelajaran Jadi Bahan Ajar Interaktif (Gratis) | teknologi pendidikan
 2026-09-11 | Koreksi Soal Otomatis untuk Guru 2026: Google Forms + AI, Hemat Waktu Berjam-jam | tips administrasi sekolah
 2026-09-12 | Persiapan ANBK & Ujian Berbasis Komputer 2026: Checklist Teknis, Peran Proktor-Teknisi, dan Tips Anti-Gagal | teknologi pendidikan
+2026-09-13 | Panduan Membangun Jaringan WiFi Sekolah & Madrasah 2026: Biar Tidak Lemot Saat Ujian Online | peralatan sekolah
