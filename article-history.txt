@@ -28,3 +28,4 @@
 2026-09-12 | Persiapan ANBK & Ujian Berbasis Komputer 2026: Checklist Teknis, Peran Proktor-Teknisi, dan Tips Anti-Gagal | teknologi pendidikan
 2026-09-13 | Panduan Membangun Jaringan WiFi Sekolah & Madrasah 2026: Biar Tidak Lemot Saat Ujian Online | peralatan sekolah
 2026-09-14 | Panduan Memilih Mesin Absensi Sekolah & Madrasah 2026: Fingerprint, Wajah, atau Tetap Manual? | peralatan sekolah
+2026-09-15 | Mail Merge untuk Sekolah 2026: Cara Cetak Sertifikat, Piagam & Surat Massal Ratusan Lembar Tanpa Copy-Paste | tips administrasi sekolah
