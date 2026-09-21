@@ -1,6 +1,6 @@
 ---
 title: "Panduan Memilih Sound System Sekolah & Madrasah 2026: Watt, Speaker, Mikrofon & Kisaran Harga"
-date: "2026-09-21 T09:00:00+07:00"
+date: "2026-09-21T09:00:00+07:00"
 draft: false
 description: "Panduan praktis memilih sound system sekolah dan madrasah 2026: cara menghitung kebutuhan watt, jenis speaker (corong, column, plafon), mikrofon wireless anti-putus, plus kisaran harga di Indonesia."
 tags: ["peralatan sekolah", "sound system", "audio sekolah", "madrasah"]
