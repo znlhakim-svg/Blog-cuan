@@ -101,3 +101,5 @@ Menariknya, membeli **paket lengkap** dari satu merek biasanya lebih hemat 10–
 Sound system sekolah bukan soal membeli yang paling mahal, tapi soal **menyesuaikan daya, jenis speaker, dan mikrofon dengan kondisi sekolah Anda**. Mulai dari hitungan watt, tentukan zona pemasangan, pilih mikrofon wireless UHF yang stabil, lalu lengkapi dengan aksesori pelindung.
 
 Satu saran penutup: jangan belanja sistem audio hanya berdasarkan spesifikasi di brosur. Kejelasan suara pidato dan ketahanan alat saat dipakai setiap hari jauh lebih penting daripada angka watt yang besar di kotak pembungkus. Sistem yang sederhana tapi terpasang benar akan jauh lebih bermanfaat — dan lebih jarang rusak — daripada sistem mahal yang tidak sesuai kebutuhan.
+
+Terakhir, jangan lupakan sumber dayanya. Sound system sebagus apa pun tetap tidak berguna kalau listrik di lapangan turun-naik atau tiba-tiba padam di tengah upacara. Pastikan amplifier mendapat jalur listrik yang memadai, dan pertimbangkan pelindung tegangan seperti stabilizer atau AVR untuk menjaga perangkat audio sekolah Anda tetap awet.
