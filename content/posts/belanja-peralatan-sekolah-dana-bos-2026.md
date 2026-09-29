@@ -1,6 +1,6 @@
 ---
 title: "Panduan Belanja Peralatan Sekolah Pakai Dana BOS 2026: Komponen yang Boleh, Batas Persentase & Cara Menyusun RAB"
-date: "2026-09-30T09:00:00+07:00"
+date: "2026-09-30T05:40:00+07:00"
 draft: false
 description: "Panduan lengkap belanja peralatan sekolah pakai Dana BOS 2026 sesuai Permendikdasmen No. 8 Tahun 2026: komponen yang boleh dibiayai, batas persentase, larangan, dan cara menyusun RAB yang aman saat diperiksa."
 tags: ["dana bos", "administrasi sekolah", "pengadaan sekolah", "madrasah", "peralatan sekolah"]
