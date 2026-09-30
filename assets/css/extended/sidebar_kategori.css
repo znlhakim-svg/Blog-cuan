@@ -79,6 +79,26 @@
 }
 
 /* Layar lebar: artikel di kiri, kategori di kanan */
+/* Layar sempit (HP): kategori muncul SEBELUM daftar artikel.
+   Kalau ditaruh setelahnya, pengunjung harus menggulir 10 artikel dulu
+   baru bisa melihat kategori — itu yang bikin sidebar terasa "hilang". */
+@media (max-width: 1023px) {
+  .isi-dengan-sidebar {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .kolom-utama {
+    order: 2;
+  }
+
+  .sidebar-kategori {
+    order: 1;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+}
+
 @media (min-width: 1024px) {
   .isi-dengan-sidebar {
     display: grid;
