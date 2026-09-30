@@ -54,12 +54,15 @@ menu:
     - name: "Artikel"
       url: "/posts/"
       weight: 1
+    - name: "Aplikasi"
+      url: "/aplikasi/"
+      weight: 2
     - name: "Tentang"
       url: "/about/"
-      weight: 2
+      weight: 3
     - name: "Kontak"
       url: "/contact/"
-      weight: 3
+      weight: 4
 
 # Sitemap
 sitemap:
