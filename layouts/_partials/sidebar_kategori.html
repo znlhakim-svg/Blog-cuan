@@ -1,0 +1,38 @@
+{{- /* Sidebar kategori: tampil di samping daftar artikel & halaman artikel.
+       CATATAN PENTING: tema PaperMod memasang <main> sebagai wadah flex/grid
+       tersendiri serta membungkus artikel dalam .post-single / daftar artikel.
+       Jadi sidebar TIDAK boleh dijadikan anak langsung <main> — dia harus
+       diletakkan dalam pembungkus grid sendiri bersama isi halaman.
+       Solusi yang dipakai: baseof lokal memasang .isi-dengan-sidebar yang
+       membungkus {{ block "main" }} + aside ini, lalu grid dua kolom dipasang
+       di pembungkus itu. */ -}}
+{{- $sembunyi := slice "produk" -}}
+<aside class="sidebar-kategori">
+  <div class="sidebar-kotak">
+    <h3 class="sidebar-judul">Kategori</h3>
+    <ul class="sidebar-daftar">
+      {{- range site.Taxonomies.categories.ByCount }}
+      {{- $nama := .Page.Title }}
+      {{- if not (in $sembunyi (lower $nama)) }}
+      <li class="sidebar-item">
+        <a href="{{ .Page.RelPermalink }}">
+          <span class="sidebar-nama">{{ $nama }}</span>
+          <span class="sidebar-jumlah">{{ .Count }}</span>
+        </a>
+      </li>
+      {{- end }}
+      {{- end }}
+    </ul>
+  </div>
+
+  <div class="sidebar-kotak">
+    <h3 class="sidebar-judul">Artikel Terbaru</h3>
+    <ul class="sidebar-daftar">
+      {{- range first 6 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+      <li class="sidebar-item sidebar-teks">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+      {{- end }}
+    </ul>
+  </div>
+</aside>

@@ -1,0 +1,48 @@
+{{- /* baseof lokal: menambahkan sidebar kategori di samping isi halaman.
+       Isi blok utama sengaja disalin utuh dari tema supaya tidak ada yang hilang.
+
+       CARA KERJA SIDEBAR:
+       Tema menaruh <main class="main"> sebagai wadah tersendiri. Karena itu
+       sidebar tidak bisa langsung jadi anak <main> dan berharap sejajar —
+       .main punya gaya sendiri. Jadi di sini dibuat pembungkus
+       .isi-dengan-sidebar yang menampung {{ block "main" }} + sidebar,
+       dan grid dua kolom dipasang pada pembungkus itu.
+
+       Kalau sidebar tidak muncul di layar, yang salah hampir pasti CSS grid
+       pembungkus ini — bukan isi sidebar-nya. */ -}}
+{{- if lt hugo.Version "0.146.0" }}
+{{- errorf "=> hugo v0.146.0 or greater is required for hugo-PaperMod to build" }}
+{{- end -}}
+
+<!DOCTYPE html>
+{{- $theme := site.Params.defaultTheme | default "auto" }}
+{{- if eq $theme "dark" }}
+<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}" data-theme="dark">
+{{- else if eq $theme "light" }}
+<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}" data-theme="light">
+{{- else }}
+<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}" data-theme="auto">
+{{- end }}
+
+<head>
+    {{- partial "head.html" . }}
+</head>
+
+{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) }}
+<body class="list" id="top">
+{{- else }}
+<body id="top">
+{{- end }}
+    {{ partialCached "header.html" . .Page -}}
+    <main class="main">
+        <div class="isi-dengan-sidebar">
+            <div class="kolom-utama">
+                {{- block "main" . }}{{ end }}
+            </div>
+            {{- partial "sidebar_kategori.html" . }}
+        </div>
+    </main>
+    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+</body>
+
+</html>

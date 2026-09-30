@@ -1,0 +1,95 @@
+/* Gaya sidebar kategori — dimuat lewat extend_head.html supaya langsung
+   tersedia dan tidak bergantung pada urutan render partial.
+   Keyword "PENTING" di atas dipakai agar file ini mudah dicari. */
+
+.isi-dengan-sidebar {
+  display: block;
+}
+
+.kolom-utama {
+  min-width: 0;
+}
+
+.sidebar-kategori {
+  font-size: 14px;
+  margin-top: 24px;
+}
+
+.sidebar-kotak {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  margin-bottom: 16px;
+}
+
+.sidebar-judul {
+  font-size: 15px;
+  font-weight: 700;
+  margin: 0 0 10px 0;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+  color: var(--primary);
+}
+
+.sidebar-daftar {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar-item {
+  margin: 0;
+}
+
+.sidebar-item a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 0;
+  text-decoration: none;
+  color: var(--primary);
+  line-height: 1.4;
+}
+
+.sidebar-item a:hover {
+  color: var(--tertiary);
+}
+
+.sidebar-nama {
+  flex: 1;
+}
+
+.sidebar-jumlah {
+  background: var(--tertiary);
+  color: var(--entry);
+  font-size: 12px;
+  font-weight: 600;
+  padding: 1px 8px;
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+
+.sidebar-teks a {
+  display: block;
+  padding: 6px 0;
+  font-size: 13.5px;
+  line-height: 1.45;
+}
+
+/* Layar lebar: artikel di kiri, kategori di kanan */
+@media (min-width: 1024px) {
+  .isi-dengan-sidebar {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 300px;
+    gap: 36px;
+    align-items: start;
+  }
+
+  .sidebar-kategori {
+    margin-top: 0;
+    position: sticky;
+    top: 24px;
+  }
+}
