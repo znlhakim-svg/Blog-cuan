@@ -45,3 +45,4 @@
 2026-09-28 | Panduan Memilih Paket Internet Sekolah & Madrasah 2026: Hitung Kebutuhan, Bandingkan Harga, Hemat Anggaran | peralatan sekolah
 2026-09-29 | Panduan Memilih Mesin Fotokopi untuk Sekolah & Madrasah 2026: Beli, Sewa, atau Pakai Jasa Luar? | peralatan sekolah
 2026-09-30 | Panduan Belanja Peralatan Sekolah Pakai Dana BOS 2026: Komponen yang Boleh, Batas Persentase & Cara Menyusun RAB | tips administrasi sekolah
+2026-09-30 | Koding dan AI Masuk Sekolah 2026: Panduan Praktis Guru Tanpa Latar Belakang IT | teknologi pendidikan
