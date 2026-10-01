@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://blog.radar9.my.id/sitemap.xml
+Sitemap: https://radar9.my.id/sitemap.xml

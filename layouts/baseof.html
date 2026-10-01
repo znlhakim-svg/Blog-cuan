@@ -26,6 +26,11 @@
 
 <head>
     {{- partial "head.html" . }}
+    {{- /* Kode AdSense -- ID Penayang ca-pub-3250681057078387. Wajib ada di tiap
+           halaman supaya Google bisa memverifikasi kepemilikan radar9.my.id.
+           Jangan hapus: kalau hilang, status peninjauan AdSense kembali gagal. */ -}}
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3250681057078387"
+         crossorigin="anonymous"></script>
 </head>
 
 {{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) }}
