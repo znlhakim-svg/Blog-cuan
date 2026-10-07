@@ -45,6 +45,11 @@ Kelola administrasi madrasah/sekolah dalam **satu file Excel** yang rapi, lengka
 
 Cocok untuk: **TU madrasah/sekolah, guru, bendahara, operator.**
 
+**Beli langsung di Kreavo** — pembayaran QRIS/GoPay/transfer bank, dana ditahan sistem sampai Anda setuju:
+👉 **[Beli Template di Kreavo](https://www.kreavo.id/toko/olah_naskah_arab)**
+
+Atau pesan lewat email (lihat bagian bawah halaman ini).
+
 ---
 
 ## Jaminan & Kontak

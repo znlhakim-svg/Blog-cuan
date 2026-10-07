@@ -176,6 +176,9 @@ Tidak ada kewajiban lanjut. Yang Anda dapat lebih dulu adalah gambaran jelas: na
 **Cara menghubungi:**
 Kirim email ke **jasa@radar9.my.id** dengan subjek **"Olah Naskah Kitab"**, atau lihat halaman **[Kontak](/contact/)**.
 
+**Atau pesan langsung, bayar aman lewat Kreavo** (dana ditahan sistem sampai Anda setuju hasilnya):
+👉 **[Pesan Jasa di Kreavo](https://www.kreavo.id/toko/olah_naskah_arab?tipe=jasa)** — Rp50.000 untuk tahap awal, sisanya menyesuaikan paket.
+
 Sertakan:
 - jenis naskah (tulisan tangan, PDF, Word, atau foto),
 - perkiraan jumlah halaman atau bab,

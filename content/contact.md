@@ -24,7 +24,8 @@ Kirim email dengan subjek **"Pesan Template Excel"** dan sertakan:
 
 **Harga: Rp25.000** — file dikirim setelah pembayaran dikonfirmasi.
 
-[Lihat detail produk →](/produk-template-excel-madrasah-2026/)
+**Beli langsung (aman, dana ditahan sistem sampai Anda setuju hasilnya):**
+[Beli di Kreavo →](https://www.kreavo.id/toko/olah_naskah_arab)
 
 ---
 
@@ -32,7 +33,7 @@ Kirim email dengan subjek **"Pesan Template Excel"** dan sertakan:
 
 Punya naskah kitab, PDF, atau dokumen yang ingin dijadikan **aplikasi Android**? Kami bantu dari pemindaian sampai jadi aplikasi yang bisa dipakai di HP.
 
-[Lihat detail layanan →](/jasa-olah-naskah/)
+[Lihat detail layanan →](/jasa-olah-naskah/) · [Pesan jasa di Kreavo →](https://www.kreavo.id/toko/olah_naskah_arab?tipe=jasa)
 
 ---
 
