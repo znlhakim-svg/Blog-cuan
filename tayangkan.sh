@@ -34,6 +34,16 @@ def main():
     rc, out = sh("/snap/bin/hugo --gc --minify 2>&1 | tail -8", cwd=BLOG, env=env)
     print(out.strip() or f"(rc={rc})")
 
+    # Build GAGAL kalau Hugo balas "ERROR" — jangan lanjut dan jangan klaim tayang.
+    # Pernah terjadi: menu bernama "Produk" ambigu (bentrok kategori `produk`) membuat
+    # build error, tapi skrip lama tetap melaporkan seolah sukses.
+    if "ERROR" in out or "error building site" in out:
+        print("!! BUILD GAGAL — halaman BARU tidak akan tayang. Perbaiki dulu penyebabnya:")
+        for baris in out.splitlines():
+            if "ERROR" in baris or "error building site" in baris:
+                print("   " + baris.strip()[:300])
+        sys.exit(1)
+
     jumlah = len([f for f in os.listdir(f"{BLOG}/content/posts") if f.endswith(".md")])
     print(f"total artikel: {jumlah}")
 

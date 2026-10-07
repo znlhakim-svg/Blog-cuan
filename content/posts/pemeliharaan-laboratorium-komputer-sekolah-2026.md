@@ -1,6 +1,6 @@
 ---
 title: "Panduan Pemeliharaan Laboratorium Komputer Sekolah 2026: Jadwal Perawatan, Anti-Debul & Kunci Sukses ANBK"
-date: "2026-10-07T18:38:00+07:00"
+date: "2026-10-07T17:57:00+07:00"
 draft: false
 description: "Cara merawat laboratorium komputer sekolah dan madrasah 2026: jadwal pembersihan, pengaturan software, keamanan, dan tips agar lab selalu siap untuk ANBK serta TKA."
 tags: ["laboratorium komputer", "pemeliharaan peralatan", "peralatan sekolah", "anbk", "teknologi pendidikan"]

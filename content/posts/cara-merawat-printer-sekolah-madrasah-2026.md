@@ -1,6 +1,6 @@
 ---
 title: "Cara Merawat Printer Sekolah & Madrasah 2026: Awet Bertahun-tahun, Hemat Tinta & Hindari Kerusakan Umum"
-date: "2026-10-07T18:32:00+07:00"
+date: "2026-10-07T17:48:00+07:00"
 draft: false
 description: "Panduan merawat printer sekolah dan madrasah 2026: jadwal perawatan, cara hemat tinta, mengatasi hasil bergaris, dan memperpanjang usia printer agar tidak cepat rusak."
 tags: ["peralatan sekolah", "printer", "pemeliharaan peralatan", "administrasi sekolah", "hemat anggaran"]

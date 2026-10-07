@@ -1,6 +1,6 @@
 ---
 title: "Scan Dokumen Pakai HP untuk Arsip Sekolah 2026: Ubah Tumpukan Surat Jadi Arsip Digital Rapi"
-date: "2026-10-07T18:44:00+07:00"
+date: "2026-10-07T17:54:00+07:00"
 draft: false
 description: "Cara membuat arsip dokumen sekolah digital dengan scan pakai HP 2026: aplikasi gratis, pengaturan hasil terbaik, penamaan berkas, OCR, dan penyimpanan aman."
 tags: ["arsip digital", "scan dokumen", "administrasi sekolah", "tata usaha sekolah", "digitalisasi"]

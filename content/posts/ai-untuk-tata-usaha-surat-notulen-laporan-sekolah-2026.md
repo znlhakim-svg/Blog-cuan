@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Tata Usaha Sekolah 2026: Cara Cepat Bikin Surat Dinas, Notulen Rapat & Laporan Kegiatan"
-date: "2026-10-07T18:30:00+07:00"
+date: "2026-10-07T17:30:00+07:00"
 draft: false
 description: "Panduan praktis memakai AI untuk pekerjaan tata usaha sekolah 2026: menyusun surat dinas, notulen rapat, dan laporan kegiatan tanpa salah format, lengkap dengan contoh prompt."
 tags: ["ai untuk guru", "tata usaha sekolah", "administrasi sekolah", "surat dinas", "notulen rapat", "produktivitas"]

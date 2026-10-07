@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Membuat Laporan Kegiatan Sekolah 2026: Contoh Prompt, Format & Cara Verifikasi Hasilnya"
-date: "2026-10-07T18:48:00+07:00"
+date: "2026-10-07T18:00:00+07:00"
 draft: false
 description: "Panduan memakai AI untuk menyusun laporan kegiatan sekolah 2026: struktur baku laporan, contoh prompt lengkap, verifikasi data, dan etika penggunaan AI di dokumen resmi."
 tags: ["ai untuk guru", "laporan kegiatan", "administrasi sekolah", "produktivitas", "tata usaha sekolah"]

@@ -1,6 +1,6 @@
 ---
 title: "Absensi & Kartu Pelajar Digital Sekolah 2026: Bikin Sistem QR Code Sendiri Tanpa Langganan"
-date: "2026-10-07T18:36:00+07:00"
+date: "2026-10-07T17:27:00+07:00"
 draft: false
 description: "Panduan membuat sistem absensi dan kartu pelajar digital sekolah 2026 dengan QR code gratis: tools, langkah pembuatan, cara scan harian, dan pelaporan otomatis."
 tags: ["absensi sekolah", "kartu pelajar", "qr code", "digitalisasi sekolah", "administrasi sekolah"]

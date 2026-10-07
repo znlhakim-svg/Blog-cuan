@@ -1,6 +1,6 @@
 ---
 title: "Komputer Bekas/Refurbished untuk Madrasah 2026: Layak atau Tidak? Panduan Beli dengan Aman"
-date: "2026-10-07T18:46:00+07:00"
+date: "2026-10-07T17:39:00+07:00"
 draft: false
 description: "Panduan membeli komputer bekas atau refurbished untuk sekolah dan madrasah 2026: merek yang layak, spesifikasi minimal, cara cek kondisi, harga wajar, dan risiko yang harus dihindari."
 tags: ["peralatan sekolah", "komputer bekas", "laboratorium komputer", "dana bos", "tips hemat"]

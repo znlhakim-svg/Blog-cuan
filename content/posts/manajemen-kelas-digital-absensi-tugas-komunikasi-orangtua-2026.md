@@ -1,6 +1,6 @@
 ---
 title: "Manajemen Kelas Digital 2026: Cara Guru Mengelola Absensi, Tugas & Komunikasi Orang Tua dalam Satu Alur"
-date: "2026-10-07T18:52:00+07:00"
+date: "2026-10-07T17:36:00+07:00"
 draft: false
 description: "Panduan manajemen kelas digital untuk guru 2026: menyatukan absensi, distribusi tugas, pengumpulan berkas, dan komunikasi orang tua dalam satu alur kerja yang efisien."
 tags: ["manajemen kelas digital", "tips guru", "google classroom", "absensi", "komunikasi orang tua"]

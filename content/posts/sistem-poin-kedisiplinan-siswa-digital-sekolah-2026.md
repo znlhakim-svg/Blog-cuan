@@ -1,6 +1,6 @@
 ---
 title: "Manajemen Kelas Digital 2026: Sistem Poin Kedisiplinan Siswa Pakai Spreadsheet (Gratis)"
-date: "2026-10-07T18:42:00+07:00"
+date: "2026-10-07T17:45:00+07:00"
 draft: false
 description: "Cara membangun sistem poin kedisiplinan siswa digital di sekolah 2026 dengan Google Sheets: aturan, penilaian, rekapitulasi otomatis, dan tips penerapannya di kelas."
 tags: ["manajemen kelas digital", "kedisiplinan siswa", "google sheets", "administrasi sekolah", "tips guru"]

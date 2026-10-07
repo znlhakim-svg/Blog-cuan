@@ -1,6 +1,6 @@
 ---
 title: "Perlengkapan Laboratorium Komputer Sekolah 2026: Meja, Kursi, KVM & Penataan Ruang yang Benar"
-date: "2026-10-07T18:40:00+07:00"
+date: "2026-10-07T17:33:00+07:00"
 draft: false
 description: "Panduan melengkapi dan menata laboratorium komputer sekolah 2026: ukuran meja, kursi ergonomis, penataan kabel, listrik, pendingin ruangan, dan rincian perlengkapan pendukung."
 tags: ["laboratorium komputer", "peralatan sekolah", "meja komputer", "penataan ruang", "dana bos"]

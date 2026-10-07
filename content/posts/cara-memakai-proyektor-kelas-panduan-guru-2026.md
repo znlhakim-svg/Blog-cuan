@@ -1,6 +1,6 @@
 ---
 title: "Cara Memakai Proyektor di Kelas 2026: Panduan Praktis, Setting Layar & Solusi Kabel Tidak Terdeteksi"
-date: "2026-10-07T18:34:00+07:00"
+date: "2026-10-07T17:51:00+07:00"
 draft: false
 description: "Panduan memakai proyektor di ruang kelas 2026: cara menyalakan dan menyambung laptop, mengatur layar, mengatasi gambar tidak muncul, sampai merawat lampu proyektor agar awet."
 tags: ["peralatan sekolah", "proyektor", "media pembelajaran", "pemeliharaan peralatan", "tips guru"]

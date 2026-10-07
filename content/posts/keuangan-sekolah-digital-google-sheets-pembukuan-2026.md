@@ -1,6 +1,6 @@
 ---
 title: "Keuangan Sekolah Digital 2026: Kelola Kas, SPJ & Pembukuan Sederhana Pakai Google Sheets"
-date: "2026-10-07T18:50:00+07:00"
+date: "2026-10-07T17:42:00+07:00"
 draft: false
 description: "Panduan membuat pembukuan keuangan sekolah digital 2026 dengan Google Sheets: buku kas, SPJ, laporan BOS, rumus otomatis, dan tips menjaga catatan agar siap diperiksa."
 tags: ["administrasi sekolah", "keuangan sekolah", "spj", "dana bos", "google sheets"]
