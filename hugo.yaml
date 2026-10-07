@@ -57,12 +57,18 @@ menu:
     - name: "Kategori"
       url: "/categories/"
       weight: 2
+    - name: "Jasa Olah Naskah"
+      url: "/jasa-olah-naskah/"
+      weight: 3
+    - name: "Template Excel"
+      url: "/produk-template-excel-madrasah-2026/"
+      weight: 4
     - name: "Tentang"
       url: "/about/"
-      weight: 3
+      weight: 5
     - name: "Kontak"
       url: "/contact/"
-      weight: 4
+      weight: 6
 
 # Sitemap
 sitemap:

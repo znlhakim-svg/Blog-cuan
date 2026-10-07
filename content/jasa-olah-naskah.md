@@ -108,17 +108,25 @@ Untuk naskah yang masih berupa kertas atau tulisan tangan dan belum jadi teks sa
 
 ## Sudah Pernah Mengerjakan Seperti Ini
 
-Keahlian ini bukan baru dimulai. Beberapa jenis pekerjaan yang sudah diselesaikan:
+Pekerjaan seperti ini bukan hal baru bagi kami. Beberapa jenis pekerjaan yang biasa ditangani:
 
-- Aplikasi **kitab fiqih Syafi'i** dengan **111 fasal**, tersusun rapi per bab.
-- Aplikasi **kitab Minhaj at-Talibin** dengan **269 fasal**, lengkap dengan daftar isi.
-- Aplikasi **kitab Fathul Mu'in** dan kumpulan kitab kuning lain, disusun jadi bacaan di HP.
-- Basis data **3.033 doa** yang dihimpun dari **3 kitab hikmah** klasik, lengkap dengan pencarian.
-- **Transkripsi scan kitab tulisan tangan** — dari foto halaman menjadi teks Arab berharakat.
-- **Terjemahan kitab klasik** dari Arab ke Indonesia, disajikan berdampingan.
+- **Kitab dan naskah pelajaran** — dari naskah digital maupun ketikan ulang, disusun jadi bacaan berbab di HP.
+- **Kumpulan doa dan amalan** — dihimpun jadi satu aplikasi dengan pencarian, mudah dibuka siapa saja.
+- **Transkripsi naskah tulisan tangan** — dari foto atau hasil scan halaman menjadi teks Arab berharakat yang bisa dibaca mesin.
+- **Penerjemahan kitab klasik** dari Arab ke Indonesia, disajikan berdampingan agar mudah dipelajari.
 - **Konversi naskah Word dan PDF** menjadi aplikasi Android siap dibagikan.
 
-Naskah yang digarap adalah **naskah milik pemesan sendiri**. Hasilnya menjadi milik Anda sepenuhnya — kami hanya mengerjakan bagian teknisnya.
+**Yang penting Anda tahu:** naskah yang digarap adalah **naskah milik pemesan sendiri**. Hasilnya menjadi milik Anda sepenuhnya — kami hanya mengerjakan bagian teknisnya. Naskah pemesan lain tidak pernah ditampilkan, dibagikan, atau dijadikan contoh di sini.
+
+---
+
+## Ingin Lihat Contoh Hasilnya Dulu?
+
+Wajar — sebelum memesan, Anda berhak tahu hasilnya seperti apa.
+
+Kami bisa mengirimkan **contoh aplikasi** yang dibuat dari **naskah domain publik** (kitab klasik yang bebas hak cipta), supaya Anda bisa mencoba sendiri tampilan baca, pencarian, dan terjemahannya di HP — tanpa perlu menyerahkan naskah Anda lebih dulu.
+
+Sebutkan saja di email bahwa Anda ingin melihat contoh. Contoh yang dikirim adalah naskah bebas hak cipta, **bukan** naskah pesanan orang lain.
 
 ---
 
