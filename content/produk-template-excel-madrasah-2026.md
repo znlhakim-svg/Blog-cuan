@@ -47,13 +47,34 @@ Cocok untuk: **TU madrasah/sekolah, guru, bendahara, operator.**
 
 ---
 
-## Cara Beli & Unduh
+## Jaminan & Kontak
 
-1. Klik tombol beli di bawah
-2. Pilih pembayaran (QRIS / transfer / e-wallet)
-3. File langsung bisa diunduh
+- **File mudah dipakai** — ada petunjuk lengkap di sheet pertama
+- **Ada kendala? Kami bantu** — kirim pesan, dibalas 1x24 jam
+- **Gratis konsultasi** — bingung menyesuaikan dengan sekolah Anda? Tanya dulu tanpa biaya
 
-> **Jaminan:** file mudah dipakai, ada petunjuk di sheet pertama. Jika ada kendala, tulis komentar pada produk — kami bantu.
+**Cara pesan (pilih salah satu):**
+
+- **Email:** [edukasi.praktis@gmail.com](mailto:edukasi.praktis@gmail.com?subject=Pesan%20Template%20Excel%20Administrasi%20Madrasah%202026) — tulis subjek *"Pesan Template Excel"*, sertakan nama & sekolah
+- **WhatsApp:** sebutkan nama dan sekolah Anda, file dikirim setelah pembayaran
+
+Setelah pembayaran dikonfirmasi, **file langsung dikirim** ke email/WhatsApp Anda.
+
+---
+
+## Pertanyaan yang Sering Ditanya
+
+**Bisa dipakai di HP?**
+Bisa. File Excel-nya bisa dibuka di WPS Office (Android) maupun Microsoft Excel di komputer. Untuk mengisi data harian, lebih nyaman di komputer/laptop.
+
+**Apakah perlu langganan?**
+Tidak. Bayar sekali, file jadi milik Anda selamanya.
+
+**Datanya aman?**
+File tersimpan di perangkat Anda sendiri — bukan di server kami. Tidak ada data siswa yang dikirim ke mana pun.
+
+**Bisa diubah sesuai kebutuhan sekolah?**
+Bisa. Semua sheet terbuka dan bisa ditambah/dikurangi kolomnya. Kalau butuh bantuan menyesuaikan, tanya saja — gratis.
 
 ---
 

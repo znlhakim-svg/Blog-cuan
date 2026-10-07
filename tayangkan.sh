@@ -54,12 +54,12 @@ def main():
     slug = SLUG_CARI
     perintah = (
         f'curl -s -o /dev/null -w "beranda=%{{http_code}} " --max-time 25 '
-        f'https://blog.radar9.my.id/'
+        f'https://radar9.my.id/'
     )
     if slug:
         perintah += (
             f'; curl -s -o /dev/null -w "artikel=%{{http_code}}\\n" --max-time 25 '
-            f'https://blog.radar9.my.id/posts/{slug}/'
+            f'https://radar9.my.id/posts/{slug}/'
         )
     else:
         perintah += '; echo ""'
