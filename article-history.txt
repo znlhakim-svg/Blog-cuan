@@ -53,3 +53,4 @@
 2026-10-05 | Membangun Laboratorium Komputer Sekolah & Madrasah 2026: Spesifikasi Minimal, Rincian Biaya & Tips Hemat | peralatan sekolah
 2026-10-06 | Panduan Pengelolaan Kinerja Guru 2026 di Ruang GTK: Langkah Praktis Isi SKP hingga Observasi Kelas | tips administrasi sekolah
 2026-10-07 | Strategi Belanja TIK Sekolah & Madrasah Pakai Dana BOS 2026: Batas Persentase, Kode Rekening & Trik Hemat | tips administrasi sekolah
+2026-10-08 | Pendidikan Inklusif 2026: Peran Teknologi, Alat Bantu & Akomodasi Praktis untuk Sekolah dan Madrasah | teknologi pendidikan
