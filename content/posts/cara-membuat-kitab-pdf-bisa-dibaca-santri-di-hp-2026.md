@@ -1,6 +1,6 @@
 ---
 title: "Cara Membuat Kitab PDF Bisa Dibaca Santri di HP (tanpa Aplikasi Baru)"
-date: "2026-10-12T21:00:00+07:00"
+date: "2026-10-12T20:00:00+07:00"
 draft: false
 description: "Kitab PDF sering tidak terbaca nyaman di HP: huruf kecil, halaman terpotong, tidak bisa dicari. Ini cara mengubahnya jadi aplikasi Android yang bisa dibuka santri — dan berapa biayanya kalau diserahkan ke jasa."
 tags: ["kitab", "pesantren", "digitalisasi", "aplikasi android", "kitab kuning"]
