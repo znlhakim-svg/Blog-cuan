@@ -27,6 +27,8 @@ Kirim email dengan subjek **"Pesan Template Excel"** dan sertakan:
 **Beli langsung (aman, dana ditahan sistem sampai Anda setuju hasilnya):**
 [Beli di Kreavo →](https://www.kreavo.id/toko/olah_naskah_arab)
 
+{{< bayar judul="Bayar Template Excel Administrasi Madrasah" nominal="Rp25.000" >}}
+
 ---
 
 ## Butuh Jasa Olah Naskah Kitab?

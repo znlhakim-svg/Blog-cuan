@@ -58,6 +58,9 @@ Semua paket sudah termasuk pembuatan aplikasi Android siap pasang. Anda pilih se
 ### Paket 1 — Konversi Naskah ke Aplikasi APK
 **Rp750.000**
 
+<a class="paket-bayar" href="https://www.paypal.com/ncp/payment/HLV328SXDTHCU" target="_blank" rel="noopener noreferrer">💳 Bayar Paket 1 via PayPal</a>
+<a class="paket-bayar" style="background:#0f8a5f" href="https://www.kreavo.id/toko/olah_naskah_arab?tipe=jasa" target="_blank" rel="noopener noreferrer">🏦 Pesan via Kreavo</a>
+
 Cocok untuk Anda yang sudah punya naskah dalam bentuk teks atau digital (Word, teks digital, PDF yang teksnya bisa dibaca). Paket ini mengubah naskah itu menjadi aplikasi Android.
 
 **Isi paket:**
@@ -73,6 +76,9 @@ Cocok untuk Anda yang sudah punya naskah dalam bentuk teks atau digital (Word, t
 
 ### Paket 2 — Kitab + Terjemahan + Pencarian
 **Rp2.500.000**
+
+<a class="paket-bayar" href="https://www.paypal.com/ncp/payment/HLV328SXDTHCU" target="_blank" rel="noopener noreferrer">💳 Bayar Paket 2 via PayPal</a>
+<a class="paket-bayar" style="background:#0f8a5f" href="https://www.kreavo.id/toko/olah_naskah_arab?tipe=jasa" target="_blank" rel="noopener noreferrer">🏦 Pesan via Kreavo</a>
 
 Paket yang paling banyak cocok untuk kitab yang ingin dipakai mengaji sekaligus dipahami. Selain jadi aplikasi, isi kitab diberi terjemahan dan fitur pencarian.
 
@@ -90,6 +96,9 @@ Paket yang paling banyak cocok untuk kitab yang ingin dipakai mengaji sekaligus 
 
 ### Paket 3 — Paket Lengkap
 **Rp5.000.000**
+
+<a class="paket-bayar" href="https://www.paypal.com/ncp/payment/HLV328SXDTHCU" target="_blank" rel="noopener noreferrer">💳 Bayar Paket 3 via PayPal</a>
+<a class="paket-bayar" style="background:#0f8a5f" href="https://www.kreavo.id/toko/olah_naskah_arab?tipe=jasa" target="_blank" rel="noopener noreferrer">🏦 Pesan via Kreavo</a>
 
 Untuk naskah yang masih berupa kertas atau tulisan tangan dan belum jadi teks sama sekali. Semua dikerjakan dari nol: scan, baca, tulis ulang, terjemah, sampai jadi aplikasi.
 
@@ -176,12 +185,11 @@ Tidak ada kewajiban lanjut. Yang Anda dapat lebih dulu adalah gambaran jelas: na
 **Cara menghubungi:**
 Kirim email ke **jasa@radar9.my.id** dengan subjek **"Olah Naskah Kitab"**, atau lihat halaman **[Kontak](/contact/)**.
 
-**Atau pesan langsung, bayar aman lewat Kreavo** (dana ditahan sistem sampai Anda setuju hasilnya):
-👉 **[Pesan Jasa di Kreavo](https://www.kreavo.id/toko/olah_naskah_arab?tipe=jasa)** — Rp50.000 untuk tahap awal, sisanya menyesuaikan paket.
-
 Sertakan:
 - jenis naskah (tulisan tangan, PDF, Word, atau foto),
 - perkiraan jumlah halaman atau bab,
 - hasil yang diinginkan (aplikasi saja, atau plus terjemahan dan pencarian).
 
 Balasan diberikan dalam 1–2 hari kerja. Untuk kirim file besar, sebutkan di email — akan diberi tautan unggah yang lebih aman.
+
+{{< bayar >}}

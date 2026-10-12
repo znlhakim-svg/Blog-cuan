@@ -1,0 +1,93 @@
+/* ===== Blok Pembayaran (shortcode {{< bayar >}}) ===== */
+.blok-bayar {
+  margin: 2.2rem 0 1.5rem;
+  padding: 1.4rem 1.4rem 1.1rem;
+  border: 1px solid var(--border, #e5e5e5);
+  border-radius: 12px;
+  background: var(--entry, #fafafa);
+}
+
+.blok-bayar__judul {
+  margin: 0 0 .5rem;
+  font-size: 1.25rem;
+  line-height: 1.35;
+}
+
+.blok-bayar__nominal {
+  margin: 0 0 1rem;
+  font-size: 1rem;
+  color: var(--secondary, #666);
+}
+
+.blok-bayar__tombol {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: .7rem;
+}
+
+@media (min-width: 640px) {
+  .blok-bayar__tombol { grid-template-columns: 1fr 1fr; }
+}
+
+.tombol-bayar {
+  display: flex;
+  align-items: center;
+  gap: .7rem;
+  padding: .85rem 1rem;
+  border-radius: 10px;
+  text-decoration: none !important;
+  border: 2px solid transparent;
+  transition: transform .12s ease, box-shadow .12s ease;
+}
+
+.tombol-bayar:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, .12);
+}
+
+.tombol-bayar__ikon { font-size: 1.5rem; line-height: 1; }
+
+.tombol-bayar__teks { display: flex; flex-direction: column; }
+
+.tombol-bayar__teks strong { font-size: 1rem; line-height: 1.3; }
+
+.tombol-bayar__teks small {
+  font-size: .78rem;
+  line-height: 1.3;
+  opacity: .85;
+  margin-top: .15rem;
+}
+
+.tombol-bayar--paypal {
+  background: #0070ba;
+  color: #fff !important;
+}
+
+.tombol-bayar--kreavo {
+  background: #0f8a5f;
+  color: #fff !important;
+}
+
+.blok-bayar__catatan {
+  margin: 1rem 0 0;
+  font-size: .86rem;
+  line-height: 1.55;
+  color: var(--secondary, #666);
+}
+
+/* Tombol pembayaran di dalam kartu paket */
+.paket-bayar {
+  display: inline-flex;
+  align-items: center;
+  gap: .45rem;
+  margin: .6rem .5rem .2rem 0;
+  padding: .5rem .9rem;
+  border-radius: 8px;
+  font-size: .9rem;
+  font-weight: 600;
+  text-decoration: none !important;
+  background: #0070ba;
+  color: #fff !important;
+}
+
+.paket-bayar:hover { opacity: .9; }

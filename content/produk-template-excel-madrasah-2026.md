@@ -65,6 +65,8 @@ Atau pesan lewat email (lihat bagian bawah halaman ini).
 
 Setelah pembayaran dikonfirmasi, **file langsung dikirim** ke email/WhatsApp Anda.
 
+{{< bayar judul="Bayar Template Excel Administrasi Madrasah 2026" nominal="Rp25.000" >}}
+
 ---
 
 ## Pertanyaan yang Sering Ditanya

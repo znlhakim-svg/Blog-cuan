@@ -1,0 +1,42 @@
+{{- /*
+  Blok pembayaran — dipakai ulang di halaman jasa & produk.
+  Cara pakai: {{< bayar >}}  atau  {{< bayar judul="..." nominal="..." >}}
+*/ -}}
+{{- $judul := .Get "judul" | default "Siap Mulai? Bayar di Sini" -}}
+{{- $nominal := .Get "nominal" -}}
+
+<div class="blok-bayar">
+  <h3 class="blok-bayar__judul">{{ $judul }}</h3>
+  {{- with $nominal }}
+  <p class="blok-bayar__nominal">Nominal: <strong>{{ . }}</strong></p>
+  {{- end }}
+
+  <div class="blok-bayar__tombol">
+    <a class="tombol-bayar tombol-bayar--paypal"
+       href="https://www.paypal.com/ncp/payment/HLV328SXDTHCU"
+       target="_blank" rel="noopener noreferrer">
+      <span class="tombol-bayar__ikon">💳</span>
+      <span class="tombol-bayar__teks">
+        <strong>Bayar via PayPal</strong>
+        <small>Kartu kredit / debit / saldo PayPal — untuk pembeli luar negeri</small>
+      </span>
+    </a>
+
+    <a class="tombol-bayar tombol-bayar--kreavo"
+       href="https://www.kreavo.id/toko/olah_naskah_arab"
+       target="_blank" rel="noopener noreferrer">
+      <span class="tombol-bayar__ikon">🏦</span>
+      <span class="tombol-bayar__teks">
+        <strong>Bayar via Kreavo</strong>
+        <small>Transfer bank / QRIS — dana ditahan sistem sampai Anda setuju</small>
+      </span>
+    </a>
+  </div>
+
+  <p class="blok-bayar__catatan">
+    Kirim bukti pembayaran ke <strong>jasa@radar9.my.id</strong> (atau
+    <strong>edukasi.praktis@gmail.com</strong>) supaya pesanan langsung diproses.
+    Untuk pembeli dari Indonesia, <strong>Kreavo</strong> atau transfer bank lebih hemat biaya.
+    Untuk pembeli dari luar negeri, <strong>PayPal</strong> paling mudah.
+  </p>
+</div>
