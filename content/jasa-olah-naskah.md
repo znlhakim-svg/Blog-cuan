@@ -58,7 +58,7 @@ Semua paket sudah termasuk pembuatan aplikasi Android siap pasang. Anda pilih se
 ### Paket 1 — Konversi Naskah ke Aplikasi APK
 **Rp750.000**
 
-<a class="paket-bayar" href="https://www.paypal.com/ncp/payment/HLV328SXDTHCU" target="_blank" rel="noopener noreferrer">💳 Bayar Paket 1 via PayPal</a>
+<a class="paket-bayar" href="https://paypal.me/ZainalHakimArisandi/750000" target="_blank" rel="noopener noreferrer">💳 Bayar Paket 1 via PayPal (Rp750.000)</a>
 <a class="paket-bayar" style="background:#0f8a5f" href="https://www.kreavo.id/toko/olah_naskah_arab?tipe=jasa" target="_blank" rel="noopener noreferrer">🏦 Pesan via Kreavo</a>
 
 Cocok untuk Anda yang sudah punya naskah dalam bentuk teks atau digital (Word, teks digital, PDF yang teksnya bisa dibaca). Paket ini mengubah naskah itu menjadi aplikasi Android.
@@ -77,7 +77,7 @@ Cocok untuk Anda yang sudah punya naskah dalam bentuk teks atau digital (Word, t
 ### Paket 2 — Kitab + Terjemahan + Pencarian
 **Rp2.500.000**
 
-<a class="paket-bayar" href="https://www.paypal.com/ncp/payment/HLV328SXDTHCU" target="_blank" rel="noopener noreferrer">💳 Bayar Paket 2 via PayPal</a>
+<a class="paket-bayar" href="https://paypal.me/ZainalHakimArisandi/2500000" target="_blank" rel="noopener noreferrer">💳 Bayar Paket 2 via PayPal (Rp2.500.000)</a>
 <a class="paket-bayar" style="background:#0f8a5f" href="https://www.kreavo.id/toko/olah_naskah_arab?tipe=jasa" target="_blank" rel="noopener noreferrer">🏦 Pesan via Kreavo</a>
 
 Paket yang paling banyak cocok untuk kitab yang ingin dipakai mengaji sekaligus dipahami. Selain jadi aplikasi, isi kitab diberi terjemahan dan fitur pencarian.
@@ -97,7 +97,7 @@ Paket yang paling banyak cocok untuk kitab yang ingin dipakai mengaji sekaligus 
 ### Paket 3 — Paket Lengkap
 **Rp5.000.000**
 
-<a class="paket-bayar" href="https://www.paypal.com/ncp/payment/HLV328SXDTHCU" target="_blank" rel="noopener noreferrer">💳 Bayar Paket 3 via PayPal</a>
+<a class="paket-bayar" href="https://paypal.me/ZainalHakimArisandi/5000000" target="_blank" rel="noopener noreferrer">💳 Bayar Paket 3 via PayPal (Rp5.000.000)</a>
 <a class="paket-bayar" style="background:#0f8a5f" href="https://www.kreavo.id/toko/olah_naskah_arab?tipe=jasa" target="_blank" rel="noopener noreferrer">🏦 Pesan via Kreavo</a>
 
 Untuk naskah yang masih berupa kertas atau tulisan tangan dan belum jadi teks sama sekali. Semua dikerjakan dari nol: scan, baca, tulis ulang, terjemah, sampai jadi aplikasi.
