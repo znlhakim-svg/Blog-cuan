@@ -1,6 +1,6 @@
 ---
 title: "Template Administrasi Madrasah 2026 — Versi Ringkas (Gratis)"
-date: "2026-10-12T20:20:00+07:00"
+date: "2026-10-12T20:10:00+07:00"
 draft: false
 description: "Versi ringkas GRATIS dari Template Administrasi Madrasah 2026: Data Siswa, Absensi Siswa, dan Keuangan Kas dengan saldo otomatis. Silakan unduh dan pakai di madrasah Anda."
 tags: ["template", "administrasi", "madrasah", "excel", "gratis"]
