@@ -77,8 +77,17 @@ class Blog(BaseHTTPRequestHandler):
             isi = f.read()
         self._kirim(200, isi, tipe)
 
-    def log_message(self, *a):
-        pass
+    def log_message(self, format, *args):
+        """Catat akses ke berkas, supaya pengunduhan & kunjungan bisa dipantau."""
+        try:
+            with open("/home/server/blog-cuan/akses.log", "a", encoding="utf-8") as f:
+                f.write("%s | %s | %s\n" % (
+                    self.log_date_time_string(),
+                    self.client_address[0] if self.client_address else "-",
+                    self.requestline,
+                ))
+        except Exception:
+            pass
 
 
 if __name__ == "__main__":
