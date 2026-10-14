@@ -67,6 +67,10 @@ Setelah pembayaran dikonfirmasi, **file langsung dikirim** ke email/WhatsApp And
 
 {{< bayar judul="Bayar Template Excel Administrasi Madrasah 2026" nominal="Rp25.000" >}}
 
+**Syarat & data:** pembelian diatur [Syarat & Ketentuan](/terms/), penanganan data dijelaskan di
+[Kebijakan Privasi](/privacy/). Berkas .xlsx ini **tidak mengandung makro/skrip** dan isi yang Anda
+tulis di dalamnya tetap di perangkat Anda — tidak dikirim ke server kami.
+
 ---
 
 ## Pertanyaan yang Sering Ditanya

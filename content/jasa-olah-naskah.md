@@ -192,4 +192,4 @@ Sertakan:
 
 Balasan diberikan dalam 1–2 hari kerja. Untuk kirim file besar, sebutkan di email — akan diberi tautan unggah yang lebih aman.
 
-{{< bayar >}}
+{{< bayar judul="Mulai Proyek — Paket Konversi Naskah" nominal="Rp750.000" >}}

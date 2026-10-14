@@ -30,6 +30,11 @@ Tidak perlu daftar, tidak perlu email. Klik, unduh, pakai.
 
 Ada pertanyaan sebelum mengunduh? Hubungi kami lewat [halaman kontak](/contact/) — kami balas.
 
+**Berkas ini disediakan oleh situs [Edukasi Praktis](/about/)** (penulis: Zainal Hakim Arisandi).
+Cara kami memperlakukan data Anda dijelaskan di [Kebijakan Privasi](/privacy/), dan ketentuan
+pemakaian/pembelian ada di [Syarat & Ketentuan](/terms/). Ringkasnya: tidak ada data pribadi yang
+diminta, tidak ada pelacakan di dalam berkas, dan isi yang Anda tulis di template tetap di perangkat Anda.
+
 ---
 
 ## Isi Versi Ringkas (3 Sheet)
