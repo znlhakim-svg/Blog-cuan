@@ -4425,3 +4425,196 @@
 15/Oct/2026 04:27:43 | 127.0.0.1 | GET /posts/biaya-jasa-digitalisasi-kitab-naskah-2026/ HTTP/1.1
 15/Oct/2026 04:27:43 | 127.0.0.1 | GET /jasa-olah-naskah/ HTTP/1.1
 15/Oct/2026 04:28:07 | 36.78.141.143 | ID | GET /posts/biaya-jasa-digitalisasi-kitab-naskah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:28:28 | 85.208.96.193 | US | GET /categories/produk/ HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 04:28:46 | 85.208.96.202 | US | GET /tags/scanner/ HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 04:29:04 | 36.78.141.143 | ID | GET / HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:29:05 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:29:05 | 36.78.141.143 | ID | GET /ads.txt HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:29:05 | 36.78.141.143 | ID | GET /posts/biaya-jasa-digitalisasi-kitab-naskah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:29:06 | 36.78.141.143 | ID | GET /jasa-olah-naskah/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:29:06 | 36.78.141.143 | ID | GET /produk-template-excel-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:29:06 | 36.78.141.143 | ID | GET /template-administrasi-madrasah-gratis/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:29:06 | 36.78.141.143 | ID | GET /privacy/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:29:07 | 36.78.141.143 | ID | GET /terms/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:29:07 | 36.78.141.143 | ID | GET /about/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:29:07 | 36.78.141.143 | ID | GET /contact/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:29:17 | 18.232.11.247 | US | GET /tags/video-conference/ HTTP/1.1 | Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amaz
+15/Oct/2026 04:29:21 | 100.29.128.75 | US | GET /tags/spj/ HTTP/1.1 | Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amaz
+15/Oct/2026 04:29:25 | 52.70.209.13 | US | GET /tags/kelas-digital/ HTTP/1.1 | Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amaz
+15/Oct/2026 04:33:32 | 47.79.200.222 | SG | GET /tags/printer/ HTTP/1.1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+15/Oct/2026 04:40:09 | 185.191.171.13 | US | GET /tags/cctv-sekolah/ HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 04:40:21 | 185.191.171.17 | US | GET /tags/tips-administrasi-sekolah/ HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 04:43:51 | 85.208.96.204 | US | GET /tags/data/ HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 04:44:00 | 185.191.171.1 | US | GET /posts/panduan-google-forms-administrasi-sekolah-2026/ HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 04:44:55 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:44:55 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:44:56 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:45:25 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:45:25 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+15/Oct/2026 04:45:26 | 36.78.141.143 | ID | GET /robots.txt HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:45:58 | 36.78.141.143 | ID | GET /downloads/template-administrasi-madrasah-2026.xlsx HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:45:58 | 36.78.141.143 | ID | GET /privacy/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:45:58 | 36.78.141.143 | ID | GET /terms/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:45:59 | 36.78.141.143 | ID | GET /about/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:45:59 | 36.78.141.143 | ID | GET /contact/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:45:59 | 36.78.141.143 | ID | GET /template-administrasi-madrasah-gratis/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:46:01 | 36.78.141.143 | ID | GET /template-administrasi-madrasah-gratis/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:46:02 | 36.78.141.143 | ID | GET /template-administrasi-madrasah-gratis/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:46:05 | 36.78.141.143 | ID | GET /unduh/Template_Administrasi_Madrasah_RINGKAS.xlsx HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:46:15 | 36.78.141.143 | ID | GET /produk-template-excel-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:46:27 | 36.78.141.143 | ID | GET /template-administrasi-madrasah-gratis/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:46:41 | 36.78.141.143 | ID | GET /template-administrasi-madrasah-gratis/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:46:42 | 36.78.141.143 | ID | GET /produk-template-excel-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:49:17 | 36.78.141.143 | ID | GET /posts/jasa-ketik-ulang-naskah-arab-berharakat-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:49:17 | 36.78.141.143 | ID | GET /posts/jasa-ketik-ulang-naskah-arab-berharakat-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:49:17 | 36.78.141.143 | ID | GET /produk-template-excel-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:49:18 | 36.78.141.143 | ID | GET /template-administrasi-madrasah-gratis/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:49:18 | 36.78.141.143 | ID | GET /jasa-olah-naskah/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:49:18 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:49:35 | 36.78.141.143 | ID | GET /jasa-olah-naskah/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:49:38 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:49:38 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:49:38 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:50:08 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:50:09 | 36.78.141.143 | ID | GET /posts/jasa-ketik-ulang-naskah-arab-berharakat-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:50:09 | 36.78.141.143 | ID | GET /template-administrasi-madrasah-gratis/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:50:09 | 36.78.141.143 | ID | GET /produk-template-excel-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:50:09 | 36.78.141.143 | ID | GET /jasa-olah-naskah/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:50:10 | 36.78.141.143 | ID | GET /posts/jasa-ketik-ulang-naskah-arab-berharakat-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:50:11 | 36.78.141.143 | ID | GET /produk-template-excel-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:50:59 | 36.78.141.143 | ID | GET / HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:50:59 | 36.78.141.143 | ID | GET /posts/jasa-ketik-ulang-naskah-arab-berharakat-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:51:00 | 36.78.141.143 | ID | GET /jasa-olah-naskah/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:51:00 | 36.78.141.143 | ID | GET /produk-template-excel-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:51:00 | 36.78.141.143 | ID | GET /template-administrasi-madrasah-gratis/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:51:00 | 36.78.141.143 | ID | GET /privacy/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:51:01 | 36.78.141.143 | ID | GET /terms/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:51:01 | 36.78.141.143 | ID | GET /contact/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:51:01 | 36.78.141.143 | ID | GET /about/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:51:01 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:51:02 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 04:58:09 | 185.191.171.16 | US | GET /tags/google-forms/ HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 05:03:21 | 54.235.158.162 | US | GET /tags/whatsapp/ HTTP/1.1 | Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amaz
+15/Oct/2026 05:03:25 | 100.29.160.53 | US | GET /tags/sertifikat/ HTTP/1.1 | Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amaz
+15/Oct/2026 05:03:29 | 35.173.18.61 | US | GET /tags/asesmen-digital/ HTTP/1.1 | Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amaz
+15/Oct/2026 05:03:33 | 34.204.150.196 | US | GET /tags/h5p/ HTTP/1.1 | Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amaz
+15/Oct/2026 05:06:48 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:06:49 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:08:23 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+15/Oct/2026 05:08:24 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.5.0
+15/Oct/2026 05:08:26 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | Googlebot
+15/Oct/2026 05:10:10 | 36.78.141.143 | ID | GET /robots.txt HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:10 | 36.78.141.143 | ID | GET /ads.txt HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:10 | 36.78.141.143 | ID | GET /ads.txt HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:11 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:11 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:11 | 36.78.141.143 | ID | GET / HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:12 | 36.78.141.143 | ID | GET /posts/jasa-ketik-ulang-naskah-arab-berharakat-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:12 | 36.78.141.143 | ID | GET /posts/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:13 | 36.78.141.143 | ID | GET /posts/biaya-jasa-digitalisasi-kitab-naskah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:13 | 36.78.141.143 | ID | GET /posts/panduan-backup-data-sekolah/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:13 | 36.78.141.143 | ID | GET /posts/cara-buat-soal-ujian-dari-pdf-pakai-ai/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:14 | 36.78.141.143 | ID | GET /posts/rekomendasi-laptop-tablet-guru-siswa-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:14 | 36.78.141.143 | ID | GET /posts/10-aplikasi-gratis-komputer-sekolah/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:14 | 36.78.141.143 | ID | GET /posts/rekomendasi-printer-sekolah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:15 | 36.78.141.143 | ID | GET /posts/kuitansi-spj-dana-bos-otomatis-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:15 | 36.78.141.143 | ID | GET /kategori/aplikasi-pembelajaran-online/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:15 | 36.78.141.143 | ID | GET /kategori/jasa/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:15 | 36.78.141.143 | ID | GET /kategori/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:16 | 36.78.141.143 | ID | GET /kategori/manajemen-kelas-digital/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:16 | 36.78.141.143 | ID | GET /kategori/media-pembelajaran/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:16 | 36.78.141.143 | ID | GET /kategori/peralatan-sekolah/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:16 | 36.78.141.143 | ID | GET /kategori/teknologi-pendidikan/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:17 | 36.78.141.143 | ID | GET /kategori/tips-administrasi-sekolah/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:17 | 36.78.141.143 | ID | GET /terms/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:17 | 36.78.141.143 | ID | GET /posts/buku-induk-siswa-digital-excel-google-sheets-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:17 | 36.78.141.143 | ID | GET /privacy/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:18 | 36.78.141.143 | ID | GET /template-administrasi-madrasah-gratis/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:18 | 36.78.141.143 | ID | GET /posts/cara-membuat-kitab-pdf-bisa-dibaca-santri-di-hp-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:18 | 36.78.141.143 | ID | GET /posts/sulingjar-2026-panduan-kepala-sekolah-guru/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:19 | 36.78.141.143 | ID | GET /posts/gema-ai-guru-madrasah-panduan-lengkap-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:19 | 36.78.141.143 | ID | GET /posts/gerakan-7-kebiasaan-anak-indonesia-hebat-panduan-guru-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:19 | 36.78.141.143 | ID | GET /posts/pembelajaran-mendalam-deep-learning-panduan-guru-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:20 | 36.78.141.143 | ID | GET /posts/pendidikan-inklusif-teknologi-akomodasi-sekolah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:20 | 36.78.141.143 | ID | GET /jasa-olah-naskah/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:20 | 36.78.141.143 | ID | GET /posts/ai-membuat-laporan-kegiatan-sekolah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:21 | 36.78.141.143 | ID | GET /posts/pemeliharaan-laboratorium-komputer-sekolah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:21 | 36.78.141.143 | ID | GET /posts/scan-dokumen-pakai-hp-arsip-sekolah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:21 | 36.78.141.143 | ID | GET /posts/cara-memakai-proyektor-kelas-panduan-guru-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:22 | 36.78.141.143 | ID | GET /posts/cara-merawat-printer-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:22 | 36.78.141.143 | ID | GET /posts/sistem-poin-kedisiplinan-siswa-digital-sekolah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:22 | 36.78.141.143 | ID | GET /posts/keuangan-sekolah-digital-google-sheets-pembukuan-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:22 | 36.78.141.143 | ID | GET /posts/komputer-bekas-refurbished-madrasah-sekolah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:23 | 36.78.141.143 | ID | GET /posts/manajemen-kelas-digital-absensi-tugas-komunikasi-orangtua-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:23 | 36.78.141.143 | ID | GET /posts/perlengkapan-laboratorium-komputer-meja-listrik-sekolah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:23 | 36.78.141.143 | ID | GET /posts/ai-untuk-tata-usaha-surat-notulen-laporan-sekolah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:23 | 36.78.141.143 | ID | GET /posts/absensi-kartu-pelajar-digital-qr-code-sekolah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:24 | 36.78.141.143 | ID | GET /posts/strategi-belanja-tik-sekolah-dana-bos-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:24 | 36.78.141.143 | ID | GET /posts/panduan-pengelolaan-kinerja-guru-2026-ruang-gtk/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:24 | 36.78.141.143 | ID | GET /posts/laboratorium-komputer-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:25 | 36.78.141.143 | ID | GET /posts/mesin-laminating-penjilidan-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:25 | 36.78.141.143 | ID | GET /posts/papan-informasi-digital-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:25 | 36.78.141.143 | ID | GET /posts/spmb-2026-2027-panduan-operator-sekolah-madrasah/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:26 | 36.78.141.143 | ID | GET /posts/dapodik-2027-panduan-operator-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:26 | 36.78.141.143 | ID | GET /posts/koding-dan-ai-masuk-sekolah-2026-panduan-guru/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:26 | 36.78.141.143 | ID | GET /posts/belanja-peralatan-sekolah-dana-bos-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:27 | 36.78.141.143 | ID | GET /posts/panduan-memilih-mesin-fotokopi-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:27 | 36.78.141.143 | ID | GET /posts/arsip-digital-sekolah-srikandi-tte-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:27 | 36.78.141.143 | ID | GET /posts/eyd-v-panduan-ejaan-untuk-guru-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:28 | 36.78.141.143 | ID | GET /posts/panduan-cctv-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:28 | 36.78.141.143 | ID | GET /posts/panduan-paket-internet-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:28 | 36.78.141.143 | ID | GET /posts/bahan-ajar-interaktif-h5p-genially-guru-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:29 | 36.78.141.143 | ID | GET /posts/persiapan-tka-sma-smk-2026-panduan-guru/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:29 | 36.78.141.143 | ID | GET /posts/domain-sch-id-sekolah-madrasah-harga-syarat-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:29 | 36.78.141.143 | ID | GET /posts/infografis-pembelajaran-dengan-ai-guru-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:30 | 36.78.141.143 | ID | GET /posts/bank-soal-digital-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:30 | 36.78.141.143 | ID | GET /posts/kelistrikan-sekolah-madrasah-daya-pln-ups-genset-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:30 | 36.78.141.143 | ID | GET /posts/panduan-memilih-sound-system-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:31 | 36.78.141.143 | ID | GET /posts/digitalisasi-penilaian-e-rapor-rdm-guru-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:31 | 36.78.141.143 | ID | GET /posts/google-meet-untuk-guru-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:31 | 36.78.141.143 | ID | GET /posts/panduan-google-workspace-for-education-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:31 | 36.78.141.143 | ID | GET /posts/mail-merge-sertifikat-piagam-surat-massal-sekolah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:32 | 36.78.141.143 | ID | GET /posts/panduan-memilih-mesin-absensi-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:32 | 36.78.141.143 | ID | GET /posts/panduan-jaringan-wifi-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:32 | 36.78.141.143 | ID | GET /posts/persiapan-anbk-ujian-berbasis-komputer-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:33 | 36.78.141.143 | ID | GET /posts/koreksi-soal-otomatis-google-forms-ai-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:33 | 36.78.141.143 | ID | GET /posts/notebooklm-untuk-guru-bahan-ajar-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:33 | 36.78.141.143 | ID | GET /posts/panduan-presentasi-powerpoint-guru-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:34 | 36.78.141.143 | ID | GET /posts/panduan-mengelola-grup-whatsapp-kelas-guru-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:34 | 36.78.141.143 | ID | GET /posts/manajemen-kelas-digital-guru-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:34 | 36.78.141.143 | ID | GET /posts/panduan-memilih-ac-ruang-kelas-sekolah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:35 | 36.78.141.143 | ID | GET /posts/panduan-memilih-scanner-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:35 | 36.78.141.143 | ID | GET /posts/cara-membuat-website-sekolah-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:35 | 36.78.141.143 | ID | GET /produk-template-excel-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:35 | 36.78.141.143 | ID | GET /posts/panduan-memilih-proyektor-ruang-kelas-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:36 | 36.78.141.143 | ID | GET /posts/cara-membuat-video-pembelajaran-hp-guru-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:36 | 36.78.141.143 | ID | GET /posts/keamanan-data-sekolah-panduan-guru-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:36 | 36.78.141.143 | ID | GET /posts/panduan-google-forms-administrasi-sekolah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:36 | 36.78.141.143 | ID | GET /posts/ai-untuk-guru-buat-rpp-materi-ajar-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:37 | 36.78.141.143 | ID | GET /posts/panduan-canva-guru-media-pembelajaran-presentasi-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:37 | 36.78.141.143 | ID | GET /posts/kuis-online-interaktif-asesmen-formatif-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:37 | 36.78.141.143 | ID | GET /posts/rumus-excel-wajib-guru-administrasi-sekolah/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:37 | 36.78.141.143 | ID | GET /posts/digitalisasi-perpustakaan-sekolah-panduan-praktis/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:38 | 36.78.141.143 | ID | GET /posts/panduan-google-classroom-guru-madrasah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:38 | 36.78.141.143 | ID | GET /contact/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:10:38 | 36.78.141.143 | ID | GET /about/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:11:40 | 185.191.171.19 | US | GET /robots.txt HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 05:11:40 | 85.208.96.199 | US | GET /posts/laboratorium-komputer-sekolah-madrasah-2026/ HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 05:13:38 | 185.191.171.15 | US | GET /tags/penjilidan/ HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 05:13:50 | 85.208.96.194 | US | GET /tags/srikandi/ HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 05:14:09 | 85.208.96.193 | US | GET /tags/tablet/ HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 05:14:17 | 185.191.171.17 | US | GET /tags/operator-sekolah/ HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 05:18:30 | 185.191.171.13 | US | GET /posts/cara-membuat-website-sekolah-madrasah-2026/ HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 05:20:55 | 185.191.171.17 | US | GET /posts/papan-informasi-digital-sekolah-madrasah-2026/ HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 05:21:24 | 17.166.25.171 | US | GET /robots.txt HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (A
+15/Oct/2026 05:21:24 | 17.166.25.171 | US | GET /tags/ai-untuk-guru/ HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (A
+15/Oct/2026 05:22:06 | 216.73.216.209 | US | GET /robots.txt HTTP/1.1 | Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+15/Oct/2026 05:22:07 | 216.73.216.209 | US | GET /sitemap.xml HTTP/1.1 | Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+15/Oct/2026 05:22:44 | 185.191.171.5 | US | GET /posts/kelistrikan-sekolah-madrasah-daya-pln-ups-genset-2026/ HTTP/1.1 | Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+15/Oct/2026 05:23:57 | 17.166.24.150 | US | GET /assets/css/stylesheet.5859d5a1ae73db415c5f7710a059a3264c1c8ba57a7e1b98449f8b2aec7670c0.css HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (A
+15/Oct/2026 05:25:13 | 36.78.141.143 | ID | GET /posts/biaya-buat-aplikasi-kitab-digital-dari-naskah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:25:14 | 36.78.141.143 | ID | GET / HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:25:17 | 36.78.141.143 | ID | GET /posts/biaya-buat-aplikasi-kitab-digital-dari-naskah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:25:17 | 36.78.141.143 | ID | GET /posts/biaya-buat-aplikasi-kitab-digital-dari-naskah-2026/ HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:25:20 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
+15/Oct/2026 05:25:20 | 36.78.141.143 | ID | GET /sitemap.xml HTTP/1.1 | curl/8.18.0
