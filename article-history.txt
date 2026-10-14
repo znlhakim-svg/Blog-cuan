@@ -61,3 +61,9 @@
 2026-10-12 | Cara Membuat Kitab PDF Bisa Dibaca Santri di HP (tanpa Aplikasi Baru) | jasa
 2026-10-13 | Buku Induk Siswa Digital 2026: Pindahkan Buku Induk dari Kertas ke Excel & Google Sheets | tips administrasi sekolah
 2026-10-14 | Kuitansi & SPJ Dana BOS Otomatis 2026: Cara Benahi Sebelum Batas Lapor 25 Oktober | tips administrasi sekolah
+
+2026-10-14 | [ROMBAK TOTAL] Printer Sekolah: Menghitung Kebutuhannya Dulu Sebelum Membeli (Studi Kasus 1 Unit untuk 400 Siswa) | peralatan sekolah
+2026-10-14 | [ROMBAK TOTAL] Menyiapkan Komputer Sekolah dari Nol: Urutan Pemasangan, Lisensi & Jebakan yang Mahal | teknologi pendidikan
+2026-10-14 | [ROMBAK TOTAL] Membeli Laptop untuk Guru Pakai Dana Sekolah: Cara Menghitung Kebutuhan & Pertanggungjawabannya | peralatan sekolah
+2026-10-14 | [ROMBAK TOTAL] Membuat Soal dari Bahan Ajar Pakai AI: Alur Kerja, Rambu-rambu & Kesalahan yang Sering Terjadi | teknologi pendidikan
+2026-10-14 | [ROMBAK TOTAL] Menyelamatkan Data Sekolah Sebelum Terlambat: Urutan Pengerjaan, Alat & Uji Pemulihan | tips administrasi sekolah
