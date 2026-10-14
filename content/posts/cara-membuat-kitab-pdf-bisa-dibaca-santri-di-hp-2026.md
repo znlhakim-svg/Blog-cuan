@@ -132,7 +132,7 @@ Kalau naskahnya sedikit dan hanya untuk dipakai sendiri, aplikasi pembaca PDF su
 
 Langkah paling mudah untuk memulai: **kirim satu bab contoh naskah Anda.** Dari situ akan kelihatan apakah naskahnya bisa dikerjakan dengan cepat atau butuh penanganan khusus — dan Anda dapat estimasi jujur tanpa harus berkomitmen lebih dulu.
 
-{{< bayar judul="Punya Naskah yang Ingin Dijadikan Aplikasi?" >}}
+{{< bayar judul="Punya Naskah yang Ingin Dijadikan Aplikasi?" nominal="Rp750.000" >}}
 
 Kirim contoh naskah ke **jasa@radar9.my.id** dengan subjek **"Olah Naskah Kitab"**, atau lihat halaman [Jasa Olah Naskah Kitab](/jasa-olah-naskah/) untuk rincian paket lengkap.
 
