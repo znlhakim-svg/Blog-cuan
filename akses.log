@@ -4414,3 +4414,14 @@
 15/Oct/2026 04:26:43 | 127.0.0.1 | GET /posts/panduan-cctv-sekolah-madrasah-2026/ HTTP/1.1
 15/Oct/2026 04:26:46 | 127.0.0.1 | GET /sitemap.xml HTTP/1.1
 15/Oct/2026 04:26:46 | 127.0.0.1 | GET /sitemap.xml HTTP/1.1
+15/Oct/2026 04:27:25 | 127.0.0.1 | GET /sitemap.xml HTTP/1.1
+15/Oct/2026 04:27:25 | 127.0.0.1 | GET /sitemap.xml HTTP/1.1
+15/Oct/2026 04:27:25 | 127.0.0.1 | GET /sitemap.xml HTTP/1.1
+15/Oct/2026 04:27:26 | 127.0.0.1 | GET /sitemap.xml HTTP/1.1
+15/Oct/2026 04:27:41 | 127.0.0.1 | GET /tags/proyektor/ HTTP/1.1
+15/Oct/2026 04:27:42 | 127.0.0.1 | GET / HTTP/1.1
+15/Oct/2026 04:27:42 | 127.0.0.1 | GET /sitemap.xml HTTP/1.1
+15/Oct/2026 04:27:43 | 127.0.0.1 | GET /ads.txt HTTP/1.1
+15/Oct/2026 04:27:43 | 127.0.0.1 | GET /posts/biaya-jasa-digitalisasi-kitab-naskah-2026/ HTTP/1.1
+15/Oct/2026 04:27:43 | 127.0.0.1 | GET /jasa-olah-naskah/ HTTP/1.1
+15/Oct/2026 04:28:07 | 36.78.141.143 | ID | GET /posts/biaya-jasa-digitalisasi-kitab-naskah-2026/ HTTP/1.1 | curl/8.18.0

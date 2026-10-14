@@ -78,13 +78,25 @@ class Blog(BaseHTTPRequestHandler):
         self._kirim(200, isi, tipe)
 
     def log_message(self, format, *args):
-        """Catat akses ke berkas, supaya pengunduhan & kunjungan bisa dipantau."""
+        """Catat akses ke berkas, supaya pengunduhan & kunjungan bisa dipantau.
+
+        PENTING: trafik masuk lewat Cloudflare Tunnel, jadi `client_address` SELALU
+        127.0.0.1. IP pengunjung sebenarnya ada di header CF-Connecting-IP (atau
+        X-Forwarded-For). Tanpa ini, log tidak bisa membedakan pengunjung nyata.
+        """
         try:
+            ip = (self.headers.get("CF-Connecting-IP")
+                  or self.headers.get("X-Forwarded-For", "").split(",")[0].strip()
+                  or (self.client_address[0] if self.client_address else "-"))
+            ua = self.headers.get("User-Agent", "-")
+            negara = self.headers.get("CF-IPCountry", "-")
             with open("/home/server/blog-cuan/akses.log", "a", encoding="utf-8") as f:
-                f.write("%s | %s | %s\n" % (
+                f.write("%s | %s | %s | %s | %s\n" % (
                     self.log_date_time_string(),
-                    self.client_address[0] if self.client_address else "-",
+                    ip,
+                    negara,
                     self.requestline,
+                    ua[:120],
                 ))
         except Exception:
             pass
