@@ -4,6 +4,13 @@ title: Edukasi Praktis
 theme: PaperMod
 pagination:
   pageSize: 10
+  # Semua artikel ditampilkan dalam SATU halaman daftar.
+  # Alasan: halaman paginasi seperti /posts/page/2/ hanya berisi 10 judul dengan
+  # informasi yang sama seperti halaman sebelumnya, dan Google membacanya sebagai
+  # halaman tipis/duplikat. Dengan 71 artikel, satu halaman panjang lebih baik.
+  # Naikkan angka ini (mis. 50) kalau artikel sudah lewat 150.
+  pagerSize: 100
+  disableAliases: true
 enableRobotsTXT: true
 enableGitInfo: true
 
@@ -55,7 +62,7 @@ menu:
       url: "/posts/"
       weight: 1
     - name: "Kategori"
-      url: "/categories/"
+      url: "/kategori/"
       weight: 2
     - name: "Jasa Olah Naskah"
       url: "/jasa-olah-naskah/"
@@ -85,3 +92,21 @@ outputs:
 # Minify
 minify:
   minifyOutput: true
+
+# ---------------------------------------------------------------------------
+# Halaman tag & kategori bawaan tema DIMATIKAN.
+#
+# Alasan: 71 artikel memakai tag bebas, sehingga lahir 183 halaman tag —
+# 143 di antaranya hanya memuat 1 artikel (halaman nyaris kosong). Semuanya
+# masuk sitemap (184 dari 279 alamat di sitemap adalah halaman tag). Google
+# membaca ini sebagai situs berisi halaman tipis, dan itulah yang memunculkan
+# penilaian "Konten tanpa manfaat".
+#
+# Pengganti navigasi kategori: halaman /kategori/<nama>/ buatan sendiri
+# (content/kategori/) yang berisi teks pengantar + daftar artikel.
+# JANGAN dihidupkan lagi tanpa membersihkan tag di 71 artikel lebih dulu.
+# ---------------------------------------------------------------------------
+taxonomies: {}
+disableKinds:
+  - taxonomy
+  - term

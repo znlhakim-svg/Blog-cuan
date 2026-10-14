@@ -1,82 +1,130 @@
 ---
-title: "Cara Membuat Soal Ujian Otomatis dari PDF Pakai AI (Gratis)"
-date: 2026-08-23T21:45:00+07:00
+title: "Membuat Soal dari Bahan Ajar Pakai AI: Alur Kerja, Rambu-rambu, dan Kesalahan yang Sering Terjadi"
+date: 2026-10-14T10:03:00+07:00
 draft: false
-description: "Langkah demi langkah mengubah PDF materi ajar menjadi soal ujian pilihan ganda dan esai menggunakan AI gratis — tanpa install, tanpa bayar."
-tags: ["ai", "soal", "ujian", "pdf", "guru"]
+description: "Alur kerja menyusun soal dengan bantuan AI: menyiapkan bahan ajar, menyusun perintah per bagian, memeriksa kualitas soal, sampai menyimpan bank soal yang bisa dipakai ulang."
+tags: ["ai untuk guru", "bank soal", "asesmen", "soal ujian"]
 categories: ["teknologi pendidikan"]
 ---
 
-Membuat soal ujian dari materi PDF biasanya butuh berjam-jam. Dengan AI, proses ini bisa dipersingkat jadi menitan — dan gratis.
+Bantuan AI untuk menyusun soal sudah banyak dipakai guru, tetapi hasilnya sering mengecewakan: soal terlalu mudah, kunci jawabannya ada yang salah, dan pertanyaannya menanyakan hal yang tidak penting. Hampir selalu penyebabnya bukan AI-nya, melainkan cara bahan ajar dimasukkan ke dalam perintah dan seberapa teliti hasilnya diperiksa.
 
-## Apa yang Dibutuhkan
+Tulisan ini membahas alur kerjanya dari awal sampai soal siap diujikan — termasuk bagian yang paling sering dilewati, yaitu pemeriksaan.
 
-1. File PDF materi ajar (buku, modul, diktat)
-2. Akses internet
-3. AI gratis: ChatGPT (chat.openai.com), Gemini (gemini.google.com), atau DeepSeek (chat.deepseek.com)
+## Yang perlu disiapkan sebelum mulai
 
-## Langkah 1: Siapkan Materi
+Tiga hal, dan ini menentukan seluruh hasilnya:
 
-Pastikan PDF sudah berupa teks (bukan scan/gambar). Kalau masih scan, gunakan OCR gratis seperti:
-- **PDF24 Tools** (pdf24.org) — online, gratis
-- **Tesseract** (command line, gratis)
+**1. Bahan ajarnya harus berupa teks yang bisa dibaca mesin.** Berkas hasil pindai (gambar dari pemindai atau foto) tidak bisa dibaca langsung. Perlu diubah dulu menjadi teks. Banyak guru membuang waktu di sini karena tidak sadar bahan ajarnya masih berupa gambar.
 
-## Langkah 2: Copy Teks dari PDF
+**2. Satu bagian kecil untuk satu kali kerja.** Jangan menyerahkan satu buku penuh. Ambil satu pertemuan, satu subbab, atau paling banyak satu bab. Bahan yang terlalu luas membuat soal menyebar ke hal-hal yang tidak dibahas di kelas.
 
-Buka PDF, copy teks bab yang ingin dibuatkan soalnya. Ambil per bab agar hasilnya lebih fokus — jangan sekaligus seluruh buku.
+**3. Tentukan dulu apa yang ingin diukur.** Kalau guru belum memutuskan apakah ingin menguji ingatan, pemahaman, atau penerapan, AI akan memilih "yang paling ringan" — yaitu sekadar mengulang kalimat dari buku.
 
-## Langkah 3: Prompt ke AI
+## Alur kerja tujuh langkah
 
-Copy-paste teks materi ke AI, lalu gunakan prompt berikut:
+### Langkah 1 — Ubah bahan hasil pindai menjadi teks
+
+Kalau bahan ajar berupa gambar hasil pemindaian, ubah dulu menjadi teks. Caranya bisa dengan perangkat gratis yang tersedia dalam jaringan (banyak layanan pemindai daring menyediakan ini) atau dengan perangkat yang dipasang di komputer.
+
+Praktik yang menghemat waktu: **jangan mengubah seluruh buku sekaligus.** Ubah hanya bagian yang akan diujikan. Hasil pengubahan teks selalu perlu dibetulkan di sana-sini — terutama angka, nama, dan istilah asing — maka makin sedikit yang diubah, makin sedikit yang harus dibetulkan.
+
+### Langkah 2 — Rapikan teks sebelum dipakai
+
+Setelah menjadi teks, buang bagian yang tidak diperlukan: nomor halaman, kepala halaman yang berulang, daftar pustaka, dan gambar keterangan. Teks yang bersih mengurangi soal yang aneh.
+
+Periksa juga hal-hal yang sering rusak saat pengubahan: **satuan, angka, dan tanda baca**. Soal hitungan yang angkanya berubah akibat salah baca akan menghasilkan kunci jawaban yang salah, dan itu sulit dilacak setelah soal tercetak.
+
+### Langkah 3 — Susun perintah yang lengkap
+
+Perintah yang hanya berbunyi "buatkan soal dari teks ini" menghasilkan soal yang datar. Perintah yang baik memuat lima hal:
+
+- **Jenis soal** dan jumlahnya
+- **Tingkat berpikir** yang diinginkan (mengingat, memahami, menerapkan, menganalisis)
+- **Bahan acuan** yang boleh dipakai
+- **Bentuk jawaban** yang diminta (kunci, pembahasan, atau keduanya)
+- **Batasan** yang jelas, misalnya "jangan menanyakan tahun terbit" atau "gunakan istilah yang ada di teks saja"
+
+Contoh perintah yang bisa langsung dipakai:
 
 ```
-Buatkan 20 soal pilihan ganda (4 opsi) berdasarkan materi berikut.
-Tingkat kesulitan: HOTS (analisis, aplikasi, evaluasi — bukan hafalan).
-Sertakan kunci jawaban dan penjelasan singkat untuk setiap soal.
+Berdasarkan bahan ajar di bawah ini, buatkan 15 soal pilihan ganda
+dengan 4 opsi jawaban.
 
-Materi:
-[paste teks di sini]
+Ketentuan:
+- 5 soal menguji pemahaman, 7 soal menguji penerapan, 3 soal menguji analisis.
+- Semua istilah harus yang ada di dalam teks.
+- Sertakan kunci jawaban dan alasan singkat mengapa opsi lain salah.
+- Sebutkan bagian teks mana yang menjadi dasar setiap soal.
+
+Bahan ajar:
+[tempelkan teks di sini]
 ```
 
-## Langkah 4: Hasil dan Revisi
+Permintaan "sebutkan bagian teks mana yang menjadi dasar setiap soal" sangat berguna. Dengannya guru bisa memeriksa dalam sekali baca apakah soalnya benar-benar berasal dari bahan yang diujikan, atau melenceng ke hal lain.
 
-AI akan menghasilkan soal dengan kunci jawaban. **Wajib cek manual** karena:
-- AI kadang salah menjawab soalnya sendiri
-- Beberapa opsi jawaban bisa ambigu
-- Konteks materi mungkin perlu disesuaikan dengan kurikulum
+### Langkah 4 — Minta perbaikan bertahap, jangan sekali jadi
 
-## Langkah 5: Format ke Word/Google Docs
+Hasil pertama hampir selalu perlu diperbaiki. Perbaikan yang efektif dilakukan bertahap dengan menunjuk bagian yang kurang:
 
-Copy hasilnya ke Word atau Google Docs, format rapi, tambahkan header sekolah. Selesai.
+- "Soal nomor 3 terlalu mudah; ubah menjadi soal penerapan."
+- "Opsi B dan D pada nomor 7 terlalu mirip; perjelas pembedanya."
+- "Nomor 11 menanyakan hal yang tidak ada di teks; ganti dengan pengertian yang dibahas di paragraf ketiga."
 
-## Variasi Prompt yang Berguna
+Cara ini jauh lebih hemat waktu daripada meminta AI "membuat ulang semuanya".
 
-**Soal esai:**
-```
-Buatkan 5 soal esai uraian berdasarkan materi berikut.
-Sertakan rubrik penilaian (skor maksimal 100 per soal).
-```
+### Langkah 5 — Periksa satu per satu (langkah yang tidak boleh dilewati)
 
-**Soal benar-salah:**
-```
-Buatkan 15 soal benar-salah berdasarkan materi berikut.
-Sertakan kunci jawaban dan penjelasan singkat.
-```
+Inilah bagian yang paling sering membuat masalah. Soal bantuan AI wajib diperiksa guru, dan yang diperiksa bukan hanya jawabannya:
 
-**Soal menjodohkan:**
-```
-Buatkan 10 pasangan soal menjodohkan berdasarkan materi berikut.
-Format: kolom A (istilah), kolom B (definisi).
-```
+**Periksa kuncinya sendiri.** Hitung ulang soal hitungan. Cocokkan jawaban soal hafalan dengan teks. Kesalahan kunci jawaban adalah kesalahan yang paling merugikan karena baru ketahuan setelah ujian berjalan.
 
-## Tips agar Soal Berkualitas
+**Periksa apakah soalnya bisa dijawab tanpa membaca teks.** Soal yang bisa dijawab dari pengalaman umum tidak mengukur apa pun. Kalau opsi jawabannya bisa ditebak hanya dari panjang kalimatnya, soal itu perlu diubah.
 
-1. **Bagi per bab** — jangan masukkan seluruh buku sekaligus
-2. **Pilih tingkat kesulitan** — tambahkan "HOTS" atau "C1-C6" di prompt
-3. **Minta variasi** — "soal yang berbeda dari yang sudah ada di pasaran"
-4. **Selalu review** — AI bisa salah, guru tetap penjaga kualitas
-5. **Simpan di bank soal** — kumpulkan untuk pakai ulang
+**Periksa sebaran jawaban.** Kadang jawaban benar menumpuk pada satu huruf dalam jumlah yang tidak wajar.
+
+**Periksa tata bahasa dan istilah.** Perhatikan kata serapan atau istilah yang tidak dipakai di sekolah, dan istilah asing yang seharusnya ditulis miring.
+
+**Periksa kepatutan.** Buang soal yang menyentuh hal pribadi, perbandingan antarsiswa, atau hal yang bisa menyinggung golongan tertentu.
+
+Satu kebiasaan yang layak dipertahankan: **kerjakan sendiri soal itu seperti siswa mengerjakannya**, tanpa melihat kunci. Sering di situ ketahuan soal yang ambigu atau punya lebih dari satu jawaban benar.
+
+### Langkah 6 — Rapikan format dan susun kisi-kisi
+
+Setelah soal bersih, susun dalam bentuk yang siap dicetak: kepala sekolah, mata pelajaran, kelas, waktu, petunjuk pengerjaan, dan lembar jawaban kalau perlu.
+
+Kalau ada waktu, buat **tabel kisi-kisi sederhana** yang memetakan setiap soal ke tujuan pembelajarannya. Tabel ini dua kegunaan sekaligus: memastikan semua bagian bahan ajar terwakili, dan menjadi bukti bahwa penilaian disusun dengan sengaja ketika ada pemeriksaan.
+
+### Langkah 7 — Simpan sebagai bank soal
+
+Soal yang tersimpan rapi akan menghemat waktu paling besar di tahun berikutnya. Simpan dengan penataan yang sederhana:
+
+- Satu berkas per mata pelajaran per tingkat
+- Kolom: nomor soal, isi soal, kunci, tingkat berpikir, dan bagian bahan ajar asalnya
+- Tandai soal yang pernah dipakai dan tahun pemakaiannya
+
+Soal lama bisa dipakai ulang dengan pengubahan pilihan jawaban, tetapi jangan menyusun seluruh ujian dari soal yang pernah dipakai — siswa saling berbagi pengalaman soal.
+
+## Kapan sebaiknya AI tidak dipakai
+
+Bantuan AI paling tidak cocok untuk **soal yang membutuhkan penilaian pertimbangan**, misalnya soal yang meminta pendapat pribadi, karya tulis, atau jawaban yang sahihnya bergantung pada konteks kelas. Untuk jenis ini, guru lebih baik menyusun sendiri kerangka soal dan rubrik penilaiannya.
+
+Begitu pula untuk **materi yang wajib persis**: ayat, teks undang-undang, rumus, dan definisi baku. Sekali salah kutip, kesalahannya ikut tersebar ke seluruh kelas. Untuk bagian seperti ini, salin langsung dari sumbernya, jangan minta AI menuliskannya.
+
+## Pertanyaan yang sering muncul
+
+**Apakah soal hasil bantuan AI boleh dipakai untuk ujian resmi?**
+Boleh, selama guru memeriksa dan bertanggung jawab atas isinya. Tanggung jawab penilaian tetap ada pada guru, bukan pada alat yang dipakai.
+
+**Mengapa soal yang dihasilkan terasa dangkal?**
+Hampir selalu karena bahan ajar yang dimasukkan terlalu luas dan perintahnya terlalu singkat. Perkecil bahan, perjelas ketentuan.
+
+**Apakah bahan ajar sekolah aman dimasukkan ke layanan AI?**
+Jangan memasukkan data pribadi siswa — nama, nomor induk, nilai, atau data keluarga. Bahan ajar berupa teks pelajaran umumnya aman, tetapi simpan kebiasaan untuk membuang identitas sebelum menyalin isi berkas.
+
+**Perlu berapa lama untuk satu set soal?**
+Menyiapkan dan memeriksa 20 soal biasanya lebih cepat daripada menyusunnya sendiri, tetapi bukan berarti tanpa kerja. Sisakan waktu untuk pemeriksaan; menghemat waktu di bagian ini justru yang paling berisiko.
 
 ---
 
-*AI adalah alat bantu, bukan pengganti profesionalisme guru. Selalu cek dan revisi hasil sebelum dipakai.*
+*Tulisan ini membahas cara kerja, bukan menyarankan satu layanan tertentu. Periksa kembali seluruh soal sebelum dipakai menilai.*

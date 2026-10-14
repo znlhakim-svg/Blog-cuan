@@ -1,97 +1,113 @@
 ---
-title: "Panduan Lengkap Backup Data Sekolah: Jangan Sampai Rapor & Dokumen Hilang"
-date: 2026-08-23T22:00:00+07:00
+title: "Menyelamatkan Data Sekolah Sebelum Terlambat: Urutan Pengerjaan, Alat, dan Uji Pemulihan"
+date: 2026-10-14T10:04:00+07:00
 draft: false
-description: "Cara backup data sekolah yang aman dan gratis — dari rapor, nilai, sampai administrasi guru. Jangan tunggu kejadian, lindungi datanya sekarang."
-tags: ["backup", "data", "sekolah", "keamanan"]
-categories: ["teknologi pendidikan"]
+description: "Langkah menyiapkan penyimpanan cadangan data sekolah: mana yang didahulukan, alat gratis yang dipakai, aturan 3-2-1, dan cara menguji apakah salinannya benar-benar bisa dipulihkan."
+tags: ["backup", "keamanan data", "pengelolaan data", "arsip digital"]
+categories: ["tips administrasi sekolah"]
 ---
 
-Kehilangan data sekolah itu mimpi buruk. Rapor hilang, nilai siswa lenyap, dokumen administrasi raib — semua bisa terjadi karena hardisk rusak, virus, atau laptop hilang. Tapi semua itu bisa dicegah dengan backup yang benar.
+Kehilangan data sekolah jarang terjadi karena tidak ada salinan — lebih sering karena salinannya ada, tetapi tidak bisa dipulihkan saat dibutuhkan. Penyebabnya bermacam-macam: salinan tersimpan di komputer yang sama, salinan terakhir dibuat setahun lalu, atau berkas salinannya rusak tanpa ada yang menyadarinya.
 
-## Kenapa Backup Itu Wajib
+Bagian tersulit dari penyelamatan data bukan menyalin berkas, melainkan memutuskan **mana yang didahulukan** dan **memastikan salinannya benar-benar bisa dibuka**.
 
-- **Hardisk rusak** — umur hardisk 3-5 tahun, bisa mati mendadak
-- **Ransomware** — virus yang mengunci data sampai dibayar
-- **Laptop hilang** — data tidak bisa dikembalikan
-- **Salah hapus** — human error paling sering terjadi
+## Mulai dari menaksir kerugian, bukan dari membeli perangkat
 
-## Jenis Backup yang Harus Diketahui
+Pertanyaan pertama yang perlu dijawab: **kalau data ini hilang besok, apa yang paling sulit dibuat ulang?**
 
-### 1. Backup Lokal — ke Hardisk Eksternal
+Hampir selalu jawabannya bukan berkas yang paling banyak, melainkan yang paling lama dikerjakan:
 
-**Cara:**
-- Beli hardisk eksternal 1TB (sekitar Rp 500-700 ribu)
-- Copy folder penting ke hardisk tiap minggu
-- Simpan hardisk di tempat aman (tidak di ruang yang sama dengan komputer)
+- **Nilai dan hasil penilaian** seluruh kelas sepanjang tahun
+- **Buku induk dan data siswa** beserta riwayatnya
+- **Berkas pertanggungjawaban keuangan** (kuitansi, SPJ) yang harus bisa ditunjukkan saat pemeriksaan
+- **Arsip surat dan notulen** yang menjadi bukti kegiatan sekolah
+- **Akun dan kata sandi** layanan sekolah — ini paling sering terlupakan, padahal kehilangannya bisa menghentikan pekerjaan berhari-hari
 
-**Kelebihan:** cepat, gratis (cuma beli hardisk sekali)
-**Kekurangan:** kalau kebakaran/maling, hardisk ikut hilang
+Bahan ajar dan foto kegiatan biasanya masih bisa dibuat ulang atau dikumpulkan kembali. Karena itu, urutan penyelamatan sebaiknya mengikuti urutan ini: **nilai dan data siswa lebih dulu, baru arsip keuangan, baru bahan ajar dan foto.**
 
-### 2. Backup Cloud — ke Google Drive
+## Aturan yang perlu dipegang: tiga salinan, dua tempat, satu di luar
 
-**Cara:**
-- Gunakan Google Drive (15GB gratis per akun Google)
-- Atau Google One (100GB: Rp 27rb/bln)
-- Sinkronkan folder penting pakai Google Drive Desktop
-- Data otomatis terupload ke cloud
+Aturan lama tetapi masih yang paling masuk akal:
 
-**Kelebihan:** aman dari kebakaran/maling, akses dari mana saja
-**Kekurangan:** butuh internet, kapasitas terbatas
+- **Tiga salinan** — berkas asli, ditambah dua salinan
+- **Dua jenis tempat penyimpanan** — misalnya satu di komputer, satu di penyimpanan luar (cakram eksternal atau penyimpanan daring)
+- **Satu salinan di lokasi berbeda** — supaya kebakaran, kebanjiran, atau pencurian di ruang sekolah tidak menghabiskan semuanya
 
-### 3. Backup Hybrid — Lokal + Cloud (PALING AMAN)
+Yang sering keliru: **menyimpan salinan di partisi lain pada komputer yang sama.** Kalau cakramnya rusak, kedua salinan ikut hilang. Salinan harus berada di tempat yang bisa rusak terpisah.
 
-Gabungkan keduanya:
-- Hardisk eksternal = backup mingguan
-- Google Drive = backup harian (data terpenting)
-- Rule 3-2-1: **3** copy data, di **2** media berbeda, **1** di lokasi lain
+## Empat jenis salinan dan kapan dipakai
 
-## Apa yang Harus Dibackup
+**1. Salinan di penyimpanan daring.** Aman dari kebakaran dan pencurian, bisa dibuka dari mana saja. Yang perlu diperhatikan: kapasitas gratisnya terbatas, dan kecepatan mengunggah dari sekolah sering lebih lambat daripada ketika mengunduh. Simpan di sini untuk berkas yang paling penting dan paling sering berubah — nilai, daftar siswa, berkas kerja harian.
 
-| Prioritas | Data | Frekuensi Backup |
+**2. Salinan di cakram eksternal.** Cepat, sekali beli, tidak bergantung internet. Cocok untuk menyimpan seluruh arsip termasuk foto dan berkas besar. Kelemahannya: alat ini bisa rusak, dan kalau disimpan di ruangan yang sama, tidak melindungi dari kebakaran atau pencurian.
+
+**3. Salinan otomatis terjadwal.** Perangkat gratis seperti peranti penyalin otomatis (misalnya Cobian Reflector untuk Windows) atau peranti penyelaras berkas (misalnya FreeFileSync) bisa diatur agar menyalin sendiri setiap malam. Ini yang menjaga rutinitas ketika pekerjaan sekolah sedang padat.
+
+**4. Salinan berkala seluruh sistem komputer.** Sekali dalam beberapa bulan, buat salinan lengkap satu komputer dalam bentuk berkas tunggal memakai perangkat seperti Clonezilla. Kalau komputer tiba-tiba mati total, seluruh sistem bisa dikembalikan dalam hitungan menit, tanpa memasang ulang dari awal.
+
+## Cara menentukan apa yang disalin
+
+Susun satu lembar daftar dengan tiga tingkat kepentingan. Contoh yang bisa langsung diterapkan:
+
+| Tingkat | Isi | Cara dan waktu |
 |---|---|---|
-| **Wajib** | Rapor, nilai siswa | Harian |
-| **Wajib** | Dokumen administrasi | Mingguan |
-| **Penting** | Materi ajar, silabus | Bulanan |
-| **Penting** | Foto kegiatan sekolah | Bulanan |
-| **Opsional** | Email, kontak | Bulanan |
+| Pokok | Nilai, buku induk, data siswa, berkas keuangan | Penyimpanan daring, otomatis setiap hari |
+| Penting | Administrasi guru, arsip surat, laporan kegiatan | Daring setiap minggu + cakram eksternal setiap bulan |
+| Arsip | Foto kegiatan, bahan ajar, dokumen lama | Cakram eksternal, dua kali setahun |
 
-## Alat Gratis untuk Backup Otomatis
+Satu hal yang sering luput: **catat juga daftar akun dan tempat penyimpanan berkasnya.** Siapa pemegang akun sekolah, kata sandinya disimpan di mana, dan layanan apa saja yang dipakai. Kehilangan informasi ini membuat berkas yang tersimpan menjadi tidak berguna karena tidak ada yang bisa membukanya.
 
-### 1. Google Drive Desktop
-- Sinkron otomatis folder tertentu
-- Gratis 15GB
-- Download: google.com/drive/download
+## Menguji apakah salinannya benar-benar bisa dipulihkan
 
-### 2. Cobian Reflector
-- Backup otomatis terjadwal ke folder/hardisk
-- Gratis, ringan
-- Download: cobiansoft.com
+Ini bagian yang paling sering dilewati, dan justru yang membedakan penyelamatan data yang berhasil dengan yang gagal. Salinan yang tidak pernah diuji bukan salinan — itu harapan.
 
-### 3. FreeFileSync
-- Sinkron folder ke hardisk eksternal
-- Gratis, cepat
-- Download: freefilesync.org
+Ujilah minimal setiap enam bulan, dengan cara yang membuat salinan benar-benar terpakai:
 
-## Langkah Mulai Hari Ini (15 menit)
+1. **Pilih satu berkas penting** dari salinan — misalnya berkas nilai satu kelas — lalu buka dari salinannya, bukan dari berkas aslinya.
+2. **Pastikan isinya benar dan lengkap**, bukan sekadar terbuka.
+3. **Coba dari komputer lain**, untuk memastikan salinan tidak bergantung pada komputer tertentu.
+4. **Catat tanggal uji terakhir** di lembar daftar. Kalau lebih dari setahun tidak diuji, anggap tidak ada.
 
-1. **Beli hardisk eksternal** — minimal 1TB
-2. **Install Google Drive Desktop** — pakai akun sekolah
-3. **Pilih folder penting** — rapor, nilai, administrasi
-4. **Jalankan backup pertama** — copy ke hardisk + sync ke Google Drive
-5. **Set jadwal** — backup harian ke cloud, mingguan ke hardisk
+Untuk salinan berkala seluruh sistem, ujinya berbeda: coba kembalikan ke satu komputer yang tidak sedang dipakai pekerjaan penting. Kalau langkah ini belum pernah dicoba, jangan menunggu sampai komputer benar-benar rusak untuk melakukannya.
 
-## Tanda-Tanda Hardisk Akan Rusak
+## Tanda-tanda penyimpanan yang mendekati kerusakan
 
-Waspadai tanda-tanda berikut sebelum terlambat:
-- Komputer lambat saat membuka file
-- Bunyi berisik dari hardisk (klik-klik)
-- File tiba-tiba rusak/corrupt
-- Blue screen sering muncul
-- Hardisk panas berlebihan
+Mengenali tandanya lebih berharga daripada menunggu sampai mati total:
 
-Kalau muncul tanda-tanda di atas, **backup segera** sebelum hardisk mati total.
+- Komputer terasa lambat secara tidak wajar saat membuka berkas yang tadinya cepat
+- Bunyi berulang dari dalam komputer (bunyi klik teratur) — ini tanda yang paling serius
+- Berkas tiba-tiba rusak atau tidak bisa dibuka
+- Muncul peringatan tentang pemeriksaan cakram saat menyalakan komputer
+- Suhu komputer meningkat tanpa sebab pekerjaan yang lebih berat
+
+Kalau muncul salah satu tanda ini, **lakukan salinan lebih dulu, baru lakukan pemeriksaan.** Memeriksa kerusakan bisa mempercepat kerusakannya.
+
+## Kesalahan yang paling sering terjadi
+
+**Menyimpan salinan di komputer yang sama.** Melindungi dari salah hapus, tetapi tidak melindungi dari kerusakan perangkat.
+
+**Menunggu pekerjaan lapang baru menyalin.** Pada pekerjaan administrasi sekolah, waktu lapang justru jarang muncul; jadwal otomatis lebih bisa diandalkan daripada niat baik.
+
+**Mencampur salinan dengan berkas kerja.** Salinan harus berada di tempat yang tidak tersentuh pekerjaan sehari-hari, supaya tidak ikut rusak kalau ada berkas yang terinfeksi atau terhapus.
+
+**Lupa mencadangkan akun dan kata sandi.** Sering baru disadari ketika perangkatnya kebetulan rusak.
+
+**Terlalu banyak salinan tanpa label.** Empat cakram tanpa keterangan tanggal membuat tidak ada yang tahu mana yang terbaru. Beri nama dengan tanggal, misalnya "Arsip-Sekolah-Oktober-2026".
+
+## Pertanyaan yang sering muncul
+
+**Berapa besar penyimpanan yang dibutuhkan sekolah?**
+Untuk berkas administrasi dan nilai, umumnya tidak sampai puluhan gigabita per tahun. Yang membuat ukuran membengkak adalah foto dan video kegiatan. Karena itu, pisahkan: berkas administrasi dicadangkan setiap hari, sedangkan foto dan video cukup berkala.
+
+**Bolehkah memakai akun pribadi untuk mencadangkan data sekolah?**
+Sebaiknya tidak. Data siswa termasuk data pribadi; menyimpannya di akun pribadi menyulitkan pengalihan tugas ketika guru yang bersangkutan pindah. Sediakan akun lembaga untuk keperluan ini.
+
+**Data mana yang tidak boleh diunggah ke penyimpanan daring?**
+Data yang memuat informasi pribadi siswa sebanyak mungkin untuk keperluan kerja, serta berkas berisi data kependudukan keluarga. Simpan di tempat penyimpanan sekolah yang terkendali, dan batasi siapa yang bisa membukanya.
+
+**Kalau hanya ada waktu satu jam untuk menyiapkan ini semua?**
+Kerjakan berurutan: daftar berkas terpenting, unggah berkas nilai dan data siswa ke penyimpanan daring sekolah, salin seluruh berkas administrasi ke cakram eksternal, lalu tetapkan penjadwalan otomatis. Uji pemulihan bisa menyusul, tetapi jangan ditunda lebih dari satu bulan.
 
 ---
 
-*Backup itu seperti asuransi — tidak terasa kalau tidak terjadi apa-apa, tapi sangat berharga saat musibah datang.*
+*Tulisan ini disusun dari praktik pengelolaan data di sekolah. Sesuaikan besar penyimpanan dan jadwal dengan kondisi jaringan serta jumlah berkas sekolah masing-masing.*

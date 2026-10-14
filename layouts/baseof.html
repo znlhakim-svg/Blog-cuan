@@ -30,11 +30,6 @@
            Diperlukan supaya situs terdaftar di Search Console dan data pengunjung
            mulai tercatat. Jangan hapus. */ -}}
     <meta name="google-site-verification" content="UPlFlGvRSiZ4Y62rnd__NZrblMGb2CF6AAAJOQ6zCWE" />
-    {{- /* Kode AdSense -- ID Penayang ca-pub-3250681057078387. Wajib ada di tiap
-           halaman supaya Google bisa memverifikasi kepemilikan radar9.my.id.
-           Jangan hapus: kalau hilang, status peninjauan AdSense kembali gagal. */ -}}
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3250681057078387"
-         crossorigin="anonymous"></script>
 </head>
 
 {{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) }}
@@ -44,14 +39,29 @@
 {{- end }}
     {{ partialCached "header.html" . .Page -}}
     <main class="main">
+        {{- /* Sidebar HANYA dipasang pada halaman daftar (beranda, /posts/,
+               halaman kategori). Pada halaman artikel sidebar sengaja tidak
+               ada: halaman artikel harus fokus, dan tautan keluar yang sama
+               berulang di 71 halaman membuat Google mengabaikan semuanya. */ -}}
+        {{- if eq .Kind "page" }}
+        {{- block "main" . }}{{ end }}
+        {{- else }}
         <div class="isi-dengan-sidebar">
             <div class="kolom-utama">
                 {{- block "main" . }}{{ end }}
             </div>
             {{- partial "sidebar_kategori.html" . }}
         </div>
+        {{- end }}
     </main>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+    {{- /* Kode AdSense dipasang SEBELUM </body>, bukan di <head>.
+           Alasan: skrip ini ukurannya ~100KB lebih dan sifatnya render-blocking --
+           kalau di <head>, halaman lambat tampil dan Google menilai kualitas
+           pengalaman buruk (Core Web Vitals). Ini juga saran resmi Google sendiri
+           untuk skrip iklan. */ -}}
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3250681057078387"
+         crossorigin="anonymous"></script>
 </body>
 
 </html>

@@ -113,3 +113,82 @@
     top: 24px;
   }
 }
+
+/* Tambahan: gaya kotak sidebar versi baru (.kolom-samping / .kotak-samping),
+   dipakai oleh layouts/_partials/sidebar_kategori.html.
+   Versi lama (.sidebar-kategori dkk) sengaja dibiarkan supaya tidak ada
+   halaman yang mendadak kehilangan gaya kalau masih memakainya. */
+.kolom-samping {
+  font-size: 14.5px;
+}
+
+.kotak-samping {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px 18px;
+  margin-bottom: 18px;
+}
+
+.kotak-samping h3 {
+  font-size: 15px;
+  font-weight: 700;
+  margin: 0 0 10px 0;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+  color: var(--primary);
+}
+
+.kotak-samping ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.kotak-samping li {
+  margin: 0;
+}
+
+.kotak-samping li a {
+  display: block;
+  padding: 7px 0;
+  text-decoration: none;
+  color: var(--primary);
+  line-height: 1.4;
+  border-bottom: 1px dashed var(--border);
+}
+
+.kotak-samping li:last-child a {
+  border-bottom: none;
+}
+
+.kotak-samping li a:hover {
+  color: var(--tertiary);
+}
+
+.kotak-samping p {
+  margin: 0 0 10px 0;
+  font-size: 13.5px;
+  line-height: 1.5;
+  color: var(--secondary);
+}
+
+.kotak-samping p:last-child {
+  margin-bottom: 0;
+}
+
+/* Layar sempit: sidebar tampil DULUAN di atas daftar artikel, supaya
+   pengunjung HP langsung melihat jalan masuk ke kategori. */
+@media (max-width: 1023px) {
+  .kolom-samping {
+    order: 1;
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .kolom-samping {
+    position: sticky;
+    top: 24px;
+  }
+}

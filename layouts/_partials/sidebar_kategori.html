@@ -1,38 +1,38 @@
-{{- /* Sidebar kategori: tampil di samping daftar artikel & halaman artikel.
-       CATATAN PENTING: tema PaperMod memasang <main> sebagai wadah flex/grid
-       tersendiri serta membungkus artikel dalam .post-single / daftar artikel.
-       Jadi sidebar TIDAK boleh dijadikan anak langsung <main> — dia harus
-       diletakkan dalam pembungkus grid sendiri bersama isi halaman.
-       Solusi yang dipakai: baseof lokal memasang .isi-dengan-sidebar yang
-       membungkus {{ block "main" }} + aside ini, lalu grid dua kolom dipasang
-       di pembungkus itu. */ -}}
-{{- $sembunyi := slice "produk" -}}
-<aside class="sidebar-kategori">
-  <div class="sidebar-kotak">
-    <h3 class="sidebar-judul">Kategori</h3>
-    <ul class="sidebar-daftar">
-      {{- range site.Taxonomies.categories.ByCount }}
-      {{- $nama := .Page.Title }}
-      {{- if not (in $sembunyi (lower $nama)) }}
-      <li class="sidebar-item">
-        <a href="{{ .Page.RelPermalink }}">
-          <span class="sidebar-nama">{{ $nama }}</span>
-          <span class="sidebar-jumlah">{{ .Count }}</span>
-        </a>
-      </li>
-      {{- end }}
+{{- /* Sidebar ini SENGAJA hanya menautkan 7 kategori, masing-masing ke halaman
+       kategori yang berisi teks pengantar + daftar artikelnya.
+
+       JANGAN menambahkan daftar "Semua Artikel" atau 71 judul di sini.
+       Kalau setiap halaman mengeluarkan ~80 tautan keluar yang sama, Google
+       memilih canonical lain dan mengabaikan tautannya. Tautan harus sedikit
+       dan semuanya menuju halaman yang benar-benar berisi. */ -}}
+<aside class="kolom-samping">
+  <div class="kotak-samping">
+    <h3>Jelajahi Blog</h3>
+    <ul>
+      {{- range slice
+          (dict "url" "tips-administrasi-sekolah" "label" "Tips Administrasi Sekolah")
+          (dict "url" "peralatan-sekolah" "label" "Peralatan Sekolah")
+          (dict "url" "teknologi-pendidikan" "label" "Teknologi Pendidikan")
+          (dict "url" "aplikasi-pembelajaran-online" "label" "Aplikasi Pembelajaran")
+          (dict "url" "media-pembelajaran" "label" "Media Pembelajaran")
+          (dict "url" "manajemen-kelas-digital" "label" "Manajemen Kelas Digital")
+          (dict "url" "jasa" "label" "Jasa & Template") }}
+      <li><a href="{{ printf "/kategori/%s/" .url | relURL }}">{{ .label }}</a></li>
       {{- end }}
     </ul>
   </div>
 
-  <div class="sidebar-kotak">
-    <h3 class="sidebar-judul">Artikel Terbaru</h3>
-    <ul class="sidebar-daftar">
-      {{- range first 6 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
-      <li class="sidebar-item sidebar-teks">
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      </li>
-      {{- end }}
-    </ul>
+  <div class="kotak-samping">
+    <h3>Tentang Blog Ini</h3>
+    <p>Catatan praktis untuk guru, operator, dan pengelola sekolah/madrasah — ditulis dari
+       pekerjaan nyata di lapangan, bukan salinan panduan umum.</p>
+    <p><a href="{{ "/about/" | relURL }}">Selengkapnya &rarr;</a></p>
+  </div>
+
+  <div class="kotak-samping">
+    <h3>Punya Naskah Kitab?</h3>
+    <p>Naskah, PDF, atau dokumen hasil pindai bisa dijadikan aplikasi Android yang siap
+       dipakai santri di HP.</p>
+    <p><a href="{{ "/jasa-olah-naskah/" | relURL }}">Lihat layanan &rarr;</a></p>
   </div>
 </aside>
