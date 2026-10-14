@@ -150,3 +150,12 @@ Mulailah dari membangun buku kas di spreadsheet dan memasukkan transaksi satu bu
 Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
 
 Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).
+
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

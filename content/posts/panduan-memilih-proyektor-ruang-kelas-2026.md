@@ -93,3 +93,12 @@ Untuk sekolah dengan banyak kelas, strategi hemat adalah membeli 2–3 proyektor
 Memilih proyektor untuk ruang kelas tidak harus rumit. Kuncinya: **sesuaikan lumen dengan kondisi cahaya ruangan, pilih resolusi WXGA sebagai standar, dan pertimbangkan LED untuk hemat jangka panjang.** Dengan anggaran Rp 5–9 juta, sekolah sudah bisa mendapatkan proyektor yang andal untuk pembelajaran sehari-hari.
 
 Sebelum membeli, selalu ukur ruang, tentukan kebutuhan, dan bandingkan harga dari beberapa toko resmi. Proyektor yang tepat akan menjadi investasi jangka panjang yang meningkatkan kualitas pembelajaran di kelas Anda. Selamat memilih!
+
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

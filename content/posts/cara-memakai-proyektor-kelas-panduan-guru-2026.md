@@ -99,3 +99,12 @@ Tempel checklist sederhana di dekat proyektor atau simpan di ponsel guru:
 Proyektor yang berfungsi baik di kelas bukan soal merek mahal, melainkan soal kebiasaan memakai dan merawat. Tiga hal yang paling menentukan: urutan menyalakan yang benar, menyediakan kabel cadangan dan adaptor, serta membersihkan filter secara berkala.
 
 Bagi guru, menguasai `Windows + P` dan tombol Source proyektor adalah dua hal paling berguna. Dengan itu, masalah "No Signal" yang dulu menghabiskan dua puluh menit bisa selesai dalam hitungan detik. Bagi sekolah, merawat filter dan lampu proyektor berarti menghemat pengeluaran penggantian yang seharusnya bisa dialihkan ke kebutuhan lain. Proyektor yang dirawat akan menemani proses belajar bertahun-tahun tanpa drama di awal pelajaran.
+
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).
