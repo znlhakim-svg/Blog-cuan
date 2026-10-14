@@ -106,3 +106,11 @@ Dengan SOP ini, siapa pun yang memegang grup (termasuk guru pengganti) bisa menj
 Grup WhatsApp kelas bukanlah musuh — ia alat yang sangat membantu jika dikelola dengan benar. Kuncinya ada tiga: **aturan yang jelas, pemisahan fungsi, dan etika komunikasi dari dua arah**. Mulailah dari hal kecil: sematkan aturan, pisahkan grup info dari grup diskusi, dan biasakan menggunakan broadcast untuk pengumuman massal.
 
 Dengan pengelolaan yang baik, grup kelas akan berubah dari sumber notifikasi yang menyebalkan menjadi saluran komunikasi yang efektif antara sekolah, guru, dan orang tua. Coba terapkan langkah-langkah di atas di awal tahun ajaran, dan rasakan bedanya — grup kelas yang rapi berarti waktu Anda lebih banyak untuk hal yang benar-benar penting: mengajar.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

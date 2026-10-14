@@ -144,3 +144,11 @@ Simpan daftar ini dan bawalah saat rapat pengadaan:
 Memilih mesin fotokopi sekolah bukan soal mencari yang termurah atau yang paling canggih, tapi mencari yang **paling cocok dengan volume cetak dan kemampuan anggaran sekolah**. Hitung dulu kebutuhannya, bandingkan biaya per lembar, baru putuskan beli, refurbished, atau sewa.
 
 Keputusan yang dimulai dari data hampir selalu lebih awet daripada keputusan yang dimulai dari sisa dana di akhir tahun. Dan untuk sekolah dengan kebutuhan sederhana, "tidak membeli mesin sendiri" justru bisa jadi keputusan paling cerdas.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

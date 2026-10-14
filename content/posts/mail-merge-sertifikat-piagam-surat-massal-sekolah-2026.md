@@ -107,3 +107,11 @@ LibreOffice bisa dibuka di komputer mana pun tanpa lisensi. Buka menu **Tools â†
 Mail merge adalah salah satu keterampilan administrasi yang paling cepat "balik modal" bagi guru dan operator sekolah. Sekali belajar (sekitar 20 menit), Anda menghemat berjam-jam kerja setiap kali ada acara besar: wisuda, lomba, pelatihan, atau pembagian rapor. Datanya pun tersimpan rapi dan bisa dipakai ulang tahun depan.
 
 Mulailah dari proyek kecil: cetak 30 piagam lomba kelas dulu. Setelah lancar, sertifikat 300 siswa hanya soal mengganti file Excel-nya.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP â€” lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

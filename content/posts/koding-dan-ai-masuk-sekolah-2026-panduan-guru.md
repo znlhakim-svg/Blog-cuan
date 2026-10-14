@@ -109,3 +109,11 @@ Kalau sekolah Anda baru akan membuka KKA semester ini, urutan berikut bisa menja
 Satu catatan penutup untuk kepala sekolah: jangan menunggu semua perangkat lengkap baru memulai. Pedoman KKA sendiri menegaskan pembelajaran tidak harus selalu memakai perangkat digital, dan sekolah yang memulai dari nol perangkat justru sering mendapat fondasi berpikir yang lebih kuat. Sebaliknya, sekolah yang memulai dengan alat lengkap tapi tanpa guru yang siap biasanya berhenti di tengah jalan.
 
 Kalau tahun ini hanya satu kelas yang berjalan dengan baik, itu sudah cukup sebagai titik tolak. Perluasan ke kelas lain jauh lebih mudah setelah ada bukti nyata di dalam sekolah sendiri, bukan sekadar contoh dari sekolah lain.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

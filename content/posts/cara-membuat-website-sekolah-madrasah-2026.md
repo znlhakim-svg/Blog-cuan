@@ -108,3 +108,9 @@ Website yang tidak pernah diperbarui sama buruknya dengan tidak punya website. B
 Membuat website sekolah di 2026 tidak perlu menunggu anggaran besar atau jasa pembuat website yang mahal. Mulai dari jalur gratis untuk belajar, lalu naik kelas ke domain .sch.id dan hosting sendiri ketika sekolah siap — totalnya tidak sampai biaya satu kali belanja ATK sebulan, tetapi manfaatnya bertahun-tahun.
 
 Yang terpenting bukan seberapa bagus desainnya di minggu pertama, melainkan konsistensi merawatnya. Satu langkah kecil hari ini — mendaftarkan nama domain atau membuat satu halaman profil — sudah lebih maju daripada ribuan sekolah lain yang belum mulai. Selamat membangun etalase digital untuk sekolah Anda!
+
+---
+
+## Perangkat siap pakai
+
+Kalau Anda butuh perangkat kerja yang bisa langsung dipakai, ada versi ringkas template administrasi madrasah yang dibagikan **gratis** — tanpa daftar, tanpa email: [unduh di sini](https://radar9.my.id/template-administrasi-madrasah-gratis/).

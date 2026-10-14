@@ -103,3 +103,11 @@ Sound system sekolah bukan soal membeli yang paling mahal, tapi soal **menyesuai
 Satu saran penutup: jangan belanja sistem audio hanya berdasarkan spesifikasi di brosur. Kejelasan suara pidato dan ketahanan alat saat dipakai setiap hari jauh lebih penting daripada angka watt yang besar di kotak pembungkus. Sistem yang sederhana tapi terpasang benar akan jauh lebih bermanfaat — dan lebih jarang rusak — daripada sistem mahal yang tidak sesuai kebutuhan.
 
 Terakhir, jangan lupakan sumber dayanya. Sound system sebagus apa pun tetap tidak berguna kalau listrik di lapangan turun-naik atau tiba-tiba padam di tengah upacara. Pastikan amplifier mendapat jalur listrik yang memadai, dan pertimbangkan pelindung tegangan seperti stabilizer atau AVR untuk menjaga perangkat audio sekolah Anda tetap awet.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

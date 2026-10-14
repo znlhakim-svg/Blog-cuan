@@ -128,3 +128,11 @@ Menyiapkan dan memeriksa 20 soal biasanya lebih cepat daripada menyusunnya sendi
 ---
 
 *Tulisan ini membahas cara kerja, bukan menyarankan satu layanan tertentu. Periksa kembali seluruh soal sebelum dipakai menilai.*
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

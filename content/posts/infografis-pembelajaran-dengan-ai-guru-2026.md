@@ -120,3 +120,11 @@ Infografis bukan tentang bisa mendesain, melainkan tentang bisa **memilih apa ya
 Mulailah dari satu materi yang paling sering membuat siswa bingung. Ubah jadi enam poin, buat gambarnya dengan AI secara terarah, susun di Canva, lalu verifikasi isinya. Setelah satu jadi, sisanya akan terasa jauh lebih cepat.
 
 Dan yang paling penting: alat yang gratis sudah lebih dari cukup untuk memulai. Modal utama bukan langganan, tapi ketekunan memeriksa isi sebelum lembar itu sampai ke tangan siswa.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

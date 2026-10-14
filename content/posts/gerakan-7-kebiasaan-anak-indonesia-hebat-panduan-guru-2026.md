@@ -91,3 +91,11 @@ Beberapa jebakan yang paling sering muncul dan bisa merusak semangat guru dan mu
 Inti dari gerakan tujuh kebiasaan anak Indonesia hebat bukan lembar formulirnya, melainkan perubahan kecil yang konsisten. Guru tidak dituntut menggenjot anak menjadi sempurna, cukup mendampingi sampai pembiasaan itu mengakar. Dan bagian administrasinya sebenarnya bisa diselesaikan dengan satu jurnal harian, delapan kolom spreadsheet, dan disiplin lima belas menit di awal hari.
 
 Kalau sekolah atau madrasah Anda belum mulai, minggu ini bisa dimulai dari yang paling murah: senam pagi bersama dan satu lembar catatan harian untuk satu kelas percontohan. Sisanya akan mengikuti. Sebagaimana filosofi yang dipakai buku panduan itu sendiri, pembiasaan dilakukan dengan cara yang penuh kesadaran, bermakna, dan menggembirakan — bukan dengan cara yang memberatkan.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

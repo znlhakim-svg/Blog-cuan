@@ -167,3 +167,11 @@ Ejaan bukan soal gengsi berbahasa, melainkan soal kerapian lembaga. Satu surat d
 Yang perlu diingat, acuan yang berlaku sekarang adalah **EYD edisi kelima**, bukan PUEBI. Simpan laman resminya, cek templat surat sekolah sekali, dan sisanya hanya soal kebiasaan.
 
 Semoga bermanfaat untuk ruang guru dan kantor madrasah. Kalau ada kaidah yang ingin dibahas lebih detail — misalnya penulisan gelar bertingkat, penulisan judul karya tulis siswa, atau penulisan daftar pustaka versi EYD V — tinggalkan di kolom komentar.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

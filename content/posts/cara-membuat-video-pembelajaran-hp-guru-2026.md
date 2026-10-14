@@ -101,3 +101,11 @@ Ingat untuk selalu meminta izin sebelum menampilkan wajah siswa dalam video yang
 Membuat video pembelajaran dengan HP bukan lagi hal yang sulit atau mahal. Dengan smartphone, naskah sederhana, pencahayaan yang cukup, dan aplikasi gratis seperti CapCut, Anda bisa menghasilkan konten belajar yang menarik dan bermanfaat. Mulailah dari satu video pendek untuk satu topik kecil. Seiring waktu, keterampilan Anda akan berkembang dan siswa pun akan semakin antusias belajar.
 
 Jangan takut salah atau kurang sempurna — siswa menghargai usaha Anda untuk membuat belajar lebih hidup. Selamat mencoba, dan jadikan smartphone Anda alat untuk mencerdaskan generasi!
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

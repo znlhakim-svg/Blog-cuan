@@ -106,3 +106,11 @@ Domain `.sch.id` (atau `.ponpes.id` untuk pesantren) adalah salah satu investasi
 Langkah praktisnya: siapkan KTP dan surat kepala sekolah, beli domainnya di registrar terakreditasi PANDI, aktifkan auto renew, lalu bangun website sederhana dan ajukan email ber-domain. Urutannya sengaja seperti itu supaya permohonan Google Workspace for Education tidak ditolak hanya karena sekolah belum punya website.
 
 Mulai dari yang kecil dan legal dulu — sisanya tinggal menempel.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

@@ -120,3 +120,11 @@ GEMA AI menempatkan guru madrasah bukan sebagai objek yang harus "melek teknolog
 Langkah pertamanya sederhana: pastikan data EMIS GTK Anda aktif, dapatkan akun @madrasah.kemenag.go.id, lalu daftar di portal resmi GEMA AI. Dari situ, luangkan waktu kecil tapi konsisten untuk menuntaskan modul dan mempraktikkannya di kelas.
 
 Satu guru yang menguasai AI dengan etika yang benar bisa mengubah satu kelas. Seratus guru yang melakukannya bersama-sama akan mengubah wajah madrasah Indonesia. Wallahu a'lam bish-shawab.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

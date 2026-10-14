@@ -85,3 +85,11 @@ Ingat prinsipnya: **teknologi adalah alat bantu, bukan pengganti kehadiran dan k
 Manajemen kelas digital bukan sekadar tren, melainkan kebutuhan agar guru tidak tenggelam dalam pekerjaan administratif yang menyita waktu mengajar. Dengan memilih satu aplikasi yang tepat, melibatkan orang tua, dan menetapkan aturan yang jelas, Anda bisa menghemat waktu sekaligus membuat kelas lebih tertib dan termotivasi.
 
 Mulailah langkah kecil hari ini: pilih satu aplikasi gratis yang sesuai kebutuhan madrasah Anda, uji coba selama sebulan, lalu evaluasi bersama rekan guru. Perubahan besar selalu dimulai dari satu keputusan sederhana.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

@@ -98,3 +98,11 @@ Untuk internet, jawabannya: tidak perlu selalu online. Kalau memakai aplikasi ru
 Papan informasi digital bukan proyek besar. Sekolah bisa mulai dari satu layar di ruang guru, memakai TV yang sudah ada, dan mengisinya dengan tiga hal yang paling sering ditanyakan: jadwal hari ini, agenda minggu ini, dan pengumuman penting. Kalau sudah jalan sebulan dan guru merasakan manfaatnya, baru ditambah titik kedua di koridor atau ruang tamu.
 
 Kuncinya bukan perangkat mahal, melainkan kebiasaan: satu orang operator yang rajin mengubah isi papan, dan satu jadwal nyala-mati yang konsisten. Dengan itu, satu monitor sederhana bisa menggantikan dinding pengumuman yang selama ini penuh kertas menguning — dan informasi sekolah berpindah ke tempat yang benar-benar selalu dilihat orang.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

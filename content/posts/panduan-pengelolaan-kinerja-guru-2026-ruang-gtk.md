@@ -117,3 +117,11 @@ Beberapa kebiasaan kecil yang sangat membantu:
 Pengelolaan Kinerja pada dasarnya bukan tentang memenuhi kotak-kotak di layar, melainkan tentang mendokumentasikan perbaikan nyata dalam pembelajaran. Guru yang rencananya jelas akan lebih mudah dinilai, dan yang jauh lebih penting, lebih mudah melihat sendiri perkembangan yang sudah dicapainya dalam satu periode.
 
 Mulailah dari perencanaan yang terukur, jadwalkan observasi lebih awal, dan rawat bukti dukung sepanjang periode. Dengan begitu, saat periode berakhir, Anda tidak perlu panik — cukup membuka folder dan meninjau apa yang sudah tersimpan rapi.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

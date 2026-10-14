@@ -87,3 +87,11 @@ Manfaat terbesar AI untuk tata usaha bukan sekadar cepat. Yang paling berubah ad
 Namun perlu diingat: surat yang keluar atas nama sekolah tetap tanggung jawab manusia yang menandatanganinya, bukan AI. Gunakan AI untuk mempercepat, bukan untuk menggantikan kecermatan. Sekolah yang bijak memakai AI sebagai asisten yang menyiapkan naskah, sementara keputusan akhir dan verifikasi tetap di tangan staf TU.
 
 Mulailah dari pekerjaan yang paling sering berulang di sekolah Anda — mungkin surat undangan, mungkin notulen rapat dinas. Satu jam pertama untuk membuat prompt yang bagus akan terbayar berkali-kali setiap minggu.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

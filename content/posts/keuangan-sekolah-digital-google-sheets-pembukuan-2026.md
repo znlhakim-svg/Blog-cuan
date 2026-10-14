@@ -142,3 +142,11 @@ Membuat pembukuan keuangan sekolah digital bukan proyek besar. Dengan satu sprea
 Manfaatnya jelas: laporan lebih cepat, bukti tidak hilang, kepatuhan komponen terjaga, dan pemeriksaan tidak lagi menegangkan. Bendahara bisa tidur lebih tenang, dan kepala sekolah punya data nyata untuk mengambil keputusan.
 
 Mulailah dari membangun buku kas di spreadsheet dan memasukkan transaksi satu bulan terakhir. Setelah itu, tambahkan daftar bukti dan foto kuitansi. Dalam beberapa bulan, sekolah Anda akan memiliki sistem keuangan yang rapi — bukan karena aplikasinya mahal, tetapi karena kebiasaan mencatat yang dilakukan dengan konsisten.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

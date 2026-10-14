@@ -121,3 +121,11 @@ Buat salinan induk (image) begitu satu unit sudah sempurna, lalu simpan berkasny
 ---
 
 *Angka spesifikasi dan pilihan aplikasi bersifat anjuran umum; sesuaikan dengan aplikasi dinas yang wajib dipakai di sekolah masing-masing.*
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

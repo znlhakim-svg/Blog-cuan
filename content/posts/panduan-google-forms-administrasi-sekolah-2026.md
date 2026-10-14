@@ -94,3 +94,11 @@ Karena data siswa bersifat sensitif, ada beberapa hal yang perlu dijaga:
 Google Forms adalah alat sederhana tapi sangat ampuh untuk meringankan administrasi sekolah dan madrasah. Mulai dari absensi online, pendaftaran siswa, survei orang tua, hingga rekap otomatis — semuanya bisa dilakukan gratis dan tanpa keahlian teknis khusus.
 
 Mulailah dari yang paling sederhana: buat satu form absensi untuk kelas Anda minggu ini. Setelah terbiasa, Anda akan melihat betapa banyak waktu yang bisa dihemat. Selamat mencoba, dan semoga administrasi sekolah Anda semakin rapi dan ringan!
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

@@ -115,3 +115,11 @@ Untuk madrasah yang menerapkan Kurikulum Merdeka, analisis seperti ini membantu 
 Bank soal digital bukan proyek besar yang harus selesai dalam satu semester. Ia dibangun sedikit demi sedikit, soal demi soal, sampai setelah beberapa tahun sekolah memiliki aset yang tidak bisa dibeli dengan uang: kumpulan soal yang teruji, sesuai kurikulum, dan siap dipakai kapan saja.
 
 Mulailah dari hal terkecil minggu ini. Buat satu file Google Sheets, isi sepuluh soal pertama dari mata pelajaran yang Anda ampu, dan sepakati struktur kodenya bersama rekan guru. Sisanya akan mengikuti — asalkan ditambah terus setiap kali ada ujian. Setahun dari sekarang, Anda akan berterima kasih pada diri sendiri saat menyusun PTS pertama pada tahun ajaran baru.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

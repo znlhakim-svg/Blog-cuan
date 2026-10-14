@@ -122,3 +122,11 @@ Kalau laporan tahap berikutnya masih menunggu, urutan berikut paling masuk akal 
 6. **Simpan salinan digital semua bukti.** Satu folder per tahun, satu subfolder per bulan, nama file memuat tanggal dan nomor kuitansi. Salinan ini menyelamatkan Anda saat ada dokumen fisik yang diminta mendadak oleh pengawas.
 
 Satu hal terakhir yang sering dilupakan: kepatuhan administrasi bukan sekadar syarat pencairan. Setiap rupiah yang tidak bisa dipertanggungjawabkan dengan rapi berpotensi harus dikembalikan ke kas negara, dan itu jumlah yang tidak kecil bagi bendahara pribadi. Menyisihkan dua jam per bulan untuk menata bukti jauh lebih ringan daripada tiga hari panik di akhir tahun — dan jauh lebih ringan daripada menghadapi pemeriksaan tanpa bukti.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

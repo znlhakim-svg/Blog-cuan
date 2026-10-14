@@ -94,3 +94,11 @@ Digitalisasi penilaian bukan sekadar memindahkan tumpukan kertas ke layar komput
 Untuk guru, modal utama menghadapinya hanya dua: memahami alur kerja aplikasi, dan disiplin mengisi nilai sedikit demi sedikit. Dua hal itu jauh lebih menentukan daripada kecepatan mengetik.
 
 Kalau Bos baru pertama kali ditugaskan mengelola nilai lewat e-Rapor atau RDM, mulailah dari langkah yang paling sederhana: login, pastikan daftar kelas ampuh sudah benar, lalu atur bobot nilai. Sisanya akan mengikuti dengan sendirinya.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

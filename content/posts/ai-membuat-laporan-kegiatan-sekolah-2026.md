@@ -104,3 +104,11 @@ AI bisa menjadi asisten yang sangat berguna untuk menyusun laporan kegiatan seko
 Gunakan AI sebagai alat bantu menulis, sediakan data faktual yang benar, dan periksa setiap angka sebelum laporan dicetak. Dengan begitu, sekolah Anda menikmati kecepatan tanpa mengorbankan akurasi. Laporan yang rapi dan jujur bukan hanya memenuhi kewajiban administrasi, tetapi juga menjadi rekam jejak berharga untuk perencanaan kegiatan berikutnya.
 
 Mulailah dari laporan yang paling sering berulang di sekolah Anda. Buat satu prompt baku, simpan di dokumen, dan pakai ulang setiap kali ada kegiatan serupa. Semakin sering dipakai, semakin cepat hasilnya — dan pekerjaan administrasi yang dulu jadi beban lambat laun berubah menjadi pekerjaan yang bisa diselesaikan dalam sekali duduk.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

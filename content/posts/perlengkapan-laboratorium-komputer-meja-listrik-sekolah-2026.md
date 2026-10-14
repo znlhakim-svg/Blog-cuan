@@ -133,3 +133,11 @@ Lab komputer yang nyaman adalah kombinasi dari perangkat, ruangan, dan penataan.
 Yang paling sering dilupakan justru hal-hal paling murah: menata kabel, memberi label, dan menyediakan spareset mouse serta keyboard. Langkah-langkah ini tidak butuh anggaran besar, namun menentukan apakah lab akan bertahan rapi bertahun-tahun atau mulai kusut dalam hitungan bulan.
 
 Mulailah dengan menilai ulang lab Anda: apakah kabelnya rapi, apakah listriknya cukup, apakah siswa nyaman duduk berjam-jam. Jangan beli perabot mahal sebelum masalah dasar ini diselesaikan. Lab yang aman dan nyaman akan membuat siswa dan guru benar-benar ingin memakainya.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

@@ -117,3 +117,11 @@ Manajemen kelas digital yang berhasil bukan soal memakai teknologi paling canggi
 Yang membuat sistem ini berjalan adalah guru yang disiplin dan siswa yang tahu aturannya. Mulailah dari satu hal saja — misalnya menata absensi digital dulu selama satu bulan. Setelah itu, tambahkan alur tugas, lalu komunikasi orang tua. Membangun alur secara bertahap jauh lebih bertahan lama daripada mengubah semuanya sekaligus.
 
 Pada akhirnya, tujuan manajemen kelas digital bukan membuat guru lebih sibuk dengan aplikasi, tetapi mengembalikan waktu guru untuk hal yang paling penting: mengajar dan membimbing. Teknologi yang tepat membuat pekerjaan administratif selesai lebih cepat, sehingga perhatian guru bisa tercurah pada siswa — bukan pada berkas yang berserakan di lima tempat berbeda.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

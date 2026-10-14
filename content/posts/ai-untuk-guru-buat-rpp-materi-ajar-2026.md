@@ -95,3 +95,11 @@ AI bukanlah ancaman bagi profesi guru — justru sebaliknya, ia bisa menjadi "as
 Mulailah dari hal kecil. Coba buat satu RPP atau satu materi pembelajaran dengan bantuan AI minggu ini. Rasakan sendiri bagaimana pekerjaan yang biasanya memakan waktu berjam-jam bisa selesai lebih cepat. Setelah terbiasa, Anda akan menemukan banyak cara lain untuk memanfaatkan AI demi pembelajaran yang lebih baik.
 
 Selamat mencoba, dan semoga pekerjaan Anda semakin ringan!
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

@@ -99,3 +99,11 @@ Alat digital bisa membantu, tapi bukan keharusan. Google Forms ringan untuk ases
 Perubahan ini sebetulnya menuntut sedikit hal baru dan banyak hal lama yang dikerjakan lebih sadar. Ambil satu pertemuan pekan ini, ganti tujuan materi dengan satu pertanyaan pemandu, sisipkan refleksi di akhir, dan simpan satu karya siswa sebagai bukti. Kalau itu sudah berjalan, Bapak/Ibu sudah berada di jalur yang benar — tanpa perlu menunggu aplikasi baru atau perangkat mahal.
 
 Simpan salinan Permendikdasmen Nomor 13 Tahun 2025 di folder sekolah. Saat ada pertanyaan dari pengawas atau orang tua tentang "kurikulum baru", jawabannya jelas: kurikulumnya sama, cara belajarnya yang makin dalam.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

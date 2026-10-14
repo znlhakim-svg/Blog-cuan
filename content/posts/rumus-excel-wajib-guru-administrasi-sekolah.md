@@ -150,3 +150,11 @@ Ketiganya mendukung rumus-rumus yang dibahas di atas, jadi guru tidak perlu khaw
 Menguasai rumus Excel bukan berarti harus jadi ahli IT. Cukup kuasai SUM, AVERAGE, COUNTIF, IF, dan VLOOKUP, maka sebagian besar pekerjaan administrasi sekolah sudah bisa selesai dengan cepat dan akurat. Mulailah dari satu rumus, praktikkan di data nyata, lalu tambah satu lagi setiap minggu. Dalam sebulan, kamu akan heran betapa banyak waktu yang dulu terbuang untuk pekerjaan manual.
 
 Yang terpenting, Excel bukan pengganti guru — justru alat bantu yang membebaskan guru dari pekerjaan administratif yang membosankan, sehingga waktunya bisa difokuskan kembali pada hal yang paling berharga: mendidik dan membimbing siswa. Selamat mencoba, dan semoga administrasi sekolahmu makin rapi dan ringan!
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

@@ -115,3 +115,11 @@ Inti persiapan TKA SMA/SMK 2026 sebenarnya sederhana: **rapikan data lebih awal,
 Untuk sekolah dan madrasah, momen ini juga kesempatan membenahi hal yang sebenarnya sudah lama perlu: data murid yang bersih, perangkat komputer yang terawat, dan latihan literasi yang konsisten. Semua itu tetap berguna lama setelah TKA selesai.
 
 Informasi resmi dan pembaruan berkala seputar TKA bisa dipantau melalui Pusat Informasi Kemendikdasmen serta kanal Ruang Murid. Karena jadwal dan ketentuan teknis bisa diperbarui, biasakan mengecek sumber resmi sebelum mengambil keputusan, terutama saat mendekati tanggal pelaksanaan.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

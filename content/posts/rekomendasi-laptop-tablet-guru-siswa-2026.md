@@ -97,3 +97,11 @@ Umumnya 4–5 tahun untuk pemakaian ringan-menengah. Tetapi penggantian sebaikny
 ---
 
 *Harga dan spesifikasi dalam tulisan ini bersifat anjuran umum dan berubah menurut pasar. Besaran yang boleh dibiayai dana BOS mengikuti petunjuk teknis tahun anggaran berjalan — periksa yang terbaru sebelum menyusun RAB.*
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

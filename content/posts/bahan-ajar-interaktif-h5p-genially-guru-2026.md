@@ -129,3 +129,11 @@ Setelah tahu alatnya, ini beberapa hal yang sering membuat percobaan pertama gag
 Bahan ajar interaktif bukan barang mewah yang cuma bisa dibuat sekolah dengan anggaran besar. Dengan **H5P**, **Lumi Desktop Editor**, dan paket **Free Genially**, guru bisa mulai membuatnya sendiri, tanpa kemampuan coding dan tanpa biaya awal.
 
 Kuncinya bukan alatnya, tapi konsistensi. Satu bahan ajar interaktif per minggu, dibuat dengan sabar, diuji di kelas, lalu diperbaiki — dalam satu semester sekolah Anda akan punya kumpulan bahan ajar yang jauh lebih hidup daripada tumpukan PDF yang tidak pernah dibuka sampai halaman terakhir.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

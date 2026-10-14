@@ -98,3 +98,11 @@ Google Classroom tetap menjadi salah satu pilihan terbaik untuk digitalisasi pem
 Mulai hari ini: buat satu kelas, unggah satu materi, dan ajak satu rombel siswa mencoba. Perlahan, kamu akan merasakan bagaimana pembelajaran digital bisa berjalan lebih rapi tanpa menambah beban kerja yang berarti.
 
 Selamat mencoba, dan semoga sukses!
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

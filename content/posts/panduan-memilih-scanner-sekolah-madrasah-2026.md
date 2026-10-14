@@ -103,3 +103,11 @@ Scanner adalah investasi kecil yang dampaknya besar bagi administrasi sekolah. D
 Mulailah dari kebutuhan yang paling mendesak: kalau sekolah sering scan banyak dokumen, pilih scanner ADF duplex. Kalau anggaran terbatas, manfaatkan dulu fitur scan di HP. Yang terpenting, **mulai digitalisasi sekarang** — jangan tunggu tumpukan kertas semakin menumpuk.
 
 Semoga panduan ini membantu Anda memilih scanner yang tepat untuk sekolah atau madrasah. Selamat berdigitalisasi!
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

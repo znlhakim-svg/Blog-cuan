@@ -141,3 +141,11 @@ Satu hal lagi yang praktis: masukkan kebutuhan asesmen seperti TKA ke dalam ARKA
 Membangun laboratorium komputer yang benar bukan soal membeli perangkat paling mahal, melainkan soal memenuhi syarat teknis yang sudah diatur sambil menjaga kewarasan anggaran. Tiga hal paling menentukan: jumlah unit yang sesuai kapasitas sesi tes, komputer proktor yang tidak dikorbankan spesifikasinya, dan jaringan kabel yang stabil. Sisanya — merek, warna, dan model — bisa disesuaikan dengan dana yang ada.
 
 Mulailah dengan menghitung kebutuhan sesi peserta tahun ini, cocokkan dengan spesifikasi minimal dalam juknis, susun RAB berbasis batas persentase dana BOS, lalu beli bertahap. Lab yang dibangun dengan rencana biasanya bertahan bertahun-tahun; lab yang dibeli karena terdesak jadwal biasanya menyisakan masalah yang lebih mahal di kemudian hari.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

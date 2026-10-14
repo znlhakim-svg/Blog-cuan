@@ -88,3 +88,11 @@ Sekolah di daerah sering menghadapi kenyataan: usulan pengadaan alat bantu sudah
 Kenaikan jumlah SPPI dari 42.262 menjadi 60.910 sekolah dalam rentang sekitar satu tahun menunjukkan arah kebijakan yang jelas: sekolah umum akan makin banyak menerima murid penyandang disabilitas, dan kesiapan guru tidak bisa lagi ditunda. Sekolah yang bergerak lebih dulu akan menghadapi transisi ini dengan jauh lebih tenang, bukan karena memiliki peralatan paling lengkap, tetapi karena sudah punya kebiasaan kerja yang benar: mengenali kebutuhan, menyusun akomodasi, menjalankannya dengan konsisten, lalu mengevaluasinya bersama orang tua.
 
 Bagi kepala sekolah dan guru yang membaca artikel ini, satu langkah paling kecil dan paling berguna hari ini bukan membeli alat apa pun. Cukup periksa kembali daftar kelas tahun ini, catat siapa yang memerlukan akomodasi, dan tetapkan satu perubahan sederhana untuk minggu depan. Inklusi selalu dimulai dari satu murid yang akhirnya benar-benar dilayani.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

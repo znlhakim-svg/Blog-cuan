@@ -133,3 +133,11 @@ Sistem poin kedisiplinan digital bukan kemewahan yang butuh aplikasi mahal. Deng
 Yang membuat sistem ini berhasil bukan rumusnya yang canggih, melainkan komitmen untuk mencatat dengan rutin dan menerapkan aturan yang sama untuk semua siswa. Mulailah dari satu kelas, tetapkan aturan bersama siswa, dan jalankan dengan konsisten. Digitalisasi kedisiplinan sejatinya bukan soal teknologi, melainkan soal keadilan dan ketertiban yang bisa dilihat dengan angka.
 
 Ketika wali kelas punya data yang rapi di ujung jari, pekerjaan yang dulu paling melelahkan berubah menjadi urusan cepat — yang menyisakan waktu lebih banyak untuk hal yang benar-benar penting: membimbing siswa, bukan menghitung pelanggaran di buku catatan.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

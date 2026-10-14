@@ -177,3 +177,11 @@ Perlu diketahui, laporan yang telat berdampak nyata: laporan tahap I yang baru d
 Aturan belanja peralatan sekolah dari Dana BOS sebenarnya tidak serumit yang dibayangkan. Kuncinya tiga: **pilih komponen yang tepat**, **jaga batas persentase**, dan **simpan bukti dari sejak perencanaan**. Aturan 2026 justru membuka ruang lebih lebar untuk peralatan berbasis teknologi—komputer, printer, proyektor, LMS, sampai buku digital dan pembelajaran koding—selama permintaan itu bisa dijelaskan sebagai kebutuhan pembelajaran yang nyata.
 
 Dokumen lengkapnya bisa dibaca langsung pada Permendikdasmen Nomor 8 Tahun 2026, dan lampirannya memuat teknis pengelolaan dana secara rinci. Untuk keputusan yang berkaitan dengan angka dan persentase dalam artikel ini, sebaiknya tetap merujuk pada dokumen resmi tersebut dan petunjuk dari Dinas Pendidikan setempat, karena kondisi tiap daerah bisa berbeda.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

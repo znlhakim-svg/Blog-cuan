@@ -107,3 +107,11 @@ Buang printer yang benar-benar mati sesuai aturan limbah elektronik (e-waste). J
 Printer sekolah yang awet bukan printer termahal, melainkan printer yang dirawat. Tiga kebiasaan yang paling berdampak: cetak satu halaman setiap beberapa hari agar head tidak kering, bersihkan roller secara rutin, dan pakai tinta atau toner yang tidak merusak.
 
 Sisanya soal kebiasaan mencetak — bolak-balik, mode draft, dan tidak mencetak yang bisa dibaca di layar. Ketiga hal ini tidak butuh biaya sepeser pun, tetapi menghemat tinta, kertas, dan memperpanjang usia printer sekaligus. Tetapkan penanggung jawab perawatan printer di sekolah, buat kartu catatan servis sederhana, dan rawat secara berkala sebelum mesin yang menentukan jadwal, bukan Anda.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

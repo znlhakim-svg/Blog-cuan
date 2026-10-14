@@ -89,3 +89,11 @@ Kebiasaan ketiga: **simpan satu salinan data** di komputer lain atau penyimpanan
 Pekerjaan operator Dapodik jarang kelihatan di panggung, tetapi dampaknya menyentuh hampir semua hal di sekolah—mulai dari dana operasional sampai penghasilan guru. Aplikasi versi 2027 membawa beberapa menu baru dan sederet penyesuaian, dan pemutakhiran untuk semester ganjil 2026/2027 sudah berjalan dengan data BOSP sebagai salah satu titik paling menentukan.
 
 Kuncinya bukan kecepatan, melainkan ketertiban: pasang versi terbaru, backup dulu, urut dari data sekolah turun ke data siswa, validasi sampai bersih, baru sinkronkan. Dengan begitu, musim pemutakhiran berhenti menjadi sumber tekanan bulanan dan berubah menjadi rutinitas yang bisa dituntaskan dalam beberapa jam.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

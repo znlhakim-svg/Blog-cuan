@@ -114,3 +114,11 @@ Laboratorium komputer yang baik bukan yang paling mahal atau paling canggih, mel
 Bagian yang paling sering dilupakan adalah jadwal. Buat kartu perawatan, tetapkan penanggung jawab, dan catat setiap kerusakan di satu buku. Ketika lab punya jadwal dan satu orang yang bertanggung jawab, umur perangkatnya bisa jauh lebih panjang. Di sekolah dengan anggaran terbatas, itu sama nilainya dengan penghematan puluhan juta rupiah.
 
 Mulailah dari langkah paling murah: bersihkan semua casing bulan ini, buat akun terbatas untuk siswa, dan hitung ulang inventaris lab. Tiga langkah itu saja sudah menyelesaikan sebagian besar masalah yang paling sering membuat guru pusing menjelang asesmen.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

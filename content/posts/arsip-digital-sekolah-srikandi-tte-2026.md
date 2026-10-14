@@ -127,3 +127,11 @@ Kalau madrasah Anda belum dipanggil sosialisasi, tidak ada salahnya menyiapkan l
 Arsip digital sekolah bukan proyek besar yang harus selesai semalam. Mulailah dari langkah paling murah: tentukan satu penanggung jawab, bikin pola nama berkas yang konsisten, catat surat di satu spreadsheet, dan siapkan backup mingguan. Setelah itu barulah masuk ke aplikasi seperti SRIKANDI dan TTE, karena aplikasi sebagus apa pun akan kacau kalau berkas yang dimasukkan belum tertata.
 
 Bagi sekolah dan madrasah, keuntungan terbesarnya bukan sekadar ruang TU yang lebih rapi. Arsip yang tertata berarti jawaban yang cepat saat ada pemeriksaan, data siswa yang aman, dan penghematan nyata pada kertas serta tinta sepanjang tahun.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

@@ -96,3 +96,11 @@ Untuk jenjang SMA/SMK, tanggal ujian sekolah dan ujian akhir juga sudah masuk ka
 Esensi SPMB sebenarnya sederhana: data yang benar, prosedur yang transparan, dan tim yang siap. Empat jalur dengan komposisi kuota dan urutan prioritas berbeda tiap jenjang memang membuat aturannya terasa rumit, tetapi kalau panitia sudah menyiapkan berkas dan memahami prosedur sebelum pendaftaran dibuka, seluruh tahapan akan berjalan jauh lebih tenang.
 
 Langkah paling praktis yang bisa dilakukan minggu ini: unduh juknis SPMB dan kalender pendidikan dari dinas pendidikan daerah, cocokkan istilah di semua dokumen sekolah dengan Permendikdasmen Nomor 3 Tahun 2025, lalu mulai validasi NIK dan kartu keluarga calon murid. Sisanya hanyalah ketelitian.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

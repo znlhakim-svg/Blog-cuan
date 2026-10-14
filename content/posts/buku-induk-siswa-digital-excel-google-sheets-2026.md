@@ -154,3 +154,11 @@ Format dan tata cara pencatatan data induk siswa mengikuti peraturan yang dikelu
 Buku induk digital tidak menghilangkan kewajiban menyimpan buku induk cetak, tetapi menyelamatkan datanya dari risiko yang tidak bisa diatur: banjir, kunci hilang, kertas dimakan serangga, atau tinta yang memudar. Pekerjaan ini juga bukan proyek sehari, karena itu sebaiknya dijalankan bertahap dengan target per angkatan.
 
 Yang perlu diingat: satu berkas master, satu cadangan di media lain, satu cadangan di luar gedung sekolah. Setelah tiga salinan itu ada, berkas induk siswa berhenti menjadi dokumen yang menegangkan setiap kali ada permintaan mendadak dari dinas, orang tua, atau sekolah tujuan pindah.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

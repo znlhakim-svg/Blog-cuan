@@ -111,3 +111,11 @@ Aturan umumnya sama seperti pengadaan lain: simpan bukti pembelian, nota, dan be
 Keputusan beli mesin laminating dan penjilidan bukan soal gengsi punya peralatan, tapi soal hitungan. Kalau kebutuhan sekolah sudah di atas 1.500–2.000 lembar setahun, beli mesin laminating A3 dan satu mesin jilid spiral hampir selalu lebih hemat daripada terus membayar jasa percetakan. Mulai dari hitungan lembar, pilih ukuran A3 untuk fleksibilitas, cocokkan ketebalan plastik dengan mesinnya, dan tunjuk satu penanggung jawab agar alatnya awet.
 
 Untuk sekolah yang kebutuhannya masih di bawah 500 lembar setahun, jujur saja: tetap pakai jasa luar. Uangnya lebih baik dialihkan ke kebutuhan lain.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

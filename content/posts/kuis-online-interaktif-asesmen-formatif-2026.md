@@ -95,3 +95,11 @@ Agar tidak berakhir kacau di sesi pertama, ikuti langkah berikut:
 Kuis online interaktif bukan sekadar tren, melainkan alat praktis yang menyelaraskan tugas guru dengan semangat Kurikulum Merdeka: asesmen yang berkesinambungan, memberi umpan balik, dan berpusat pada siswa. Dimulai dari hal kecil — satu kuis lima soal per pekan — Anda sudah menghemat waktu mengoreksi, membuat kelas lebih hidup, dan mendapatkan data pemahaman yang jauh lebih akurat.
 
 Mulai dari platform yang paling Anda kuasai. Kalau baru pertama kali, coba Google Forms dulu (paling sederhana), lalu tingkatkan ke Quizizz/Wayground untuk asesmen mingguan, dan Kahoot! untuk sesi *review* yang seru. Teknologi tidak harus sempurna — yang penting konsisten dan bermanfaat bagi siswa Anda.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

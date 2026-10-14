@@ -93,3 +93,11 @@ Untuk madrasah yang berada di bawah Kementerian Agama, ketentuan dana BOS mengik
 Poin yang perlu diingat: sisa pagu bukanlah target yang harus dihabiskan, tetapi ruang yang bisa dimanfaatkan bila memang ada kebutuhan nyata. Belanja TIK yang baik selalu bermula dari satu pertanyaan sederhana — perangkat ini dipakai untuk apa dan oleh siapa setiap minggu?
 
 Kalau jawabannya jelas, prioritas akan tersusun sendiri. Mulailah dari inventarisasi fisik, susun RAB berdasarkan temuan, sesuaikan kode rekening dengan komponen yang tepat, lalu tempuh jalur pengadaan resmi. Dengan begitu, ketika tahun anggaran ditutup, tidak ada pertanyaan yang sulit dijawab — semuanya sudah tercatat rapi sejak awal.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

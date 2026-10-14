@@ -82,3 +82,11 @@ Mesin absensi baru benar-benar dibutuhkan kalau: jumlah guru lebih dari 20 orang
 Kunci memilih mesin absensi sekolah dan madrasah bukan pada merek paling mahal, tapi pada kecocokan: berapa orang yang dilayani, jenis jari/wajah pemakainya, bagaimana koneksinya, dan apakah softwarenya bisa menghasilkan rekap yang benar-benar dipakai untuk laporan. Untuk sebagian besar madrasah dengan 15–40 guru, mesin sidik jari ber-WiFi plus backup data mingguan sudah cukup dan tahan bertahun-tahun.
 
 Sebelum membeli, lakukan tiga hal ini: hitung kapasitas yang dibutuhkan, tanyakan bentuk dukungan setelah pembelian (garansi, training, bantuan online), dan jalankan uji coba paralel dengan absensi manual selama seminggu. Dengan begitu, mesin absensi benar-benar menghemat waktu TU — bukan menambah pekerjaan baru.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

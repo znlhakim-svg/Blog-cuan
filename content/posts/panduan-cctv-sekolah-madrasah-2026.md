@@ -120,3 +120,11 @@ CCTV bukan alat untuk mengawasi guru dari balik layar. Beberapa hal yang perlu d
 ## Penutup
 
 CCTV bukan barang mewah untuk sekolah. Dengan perencanaan titik yang tepat, pilihan kamera yang sesuai kebutuhan, dan aturan yang jelas, sekolah maupun madrasah bisa mendapat manfaat keamanan yang nyata tanpa menguras anggaran. Kunci suksesnya bukan membeli perangkat termahal, melainkan memasangnya di tempat yang benar, merawatnya secara rutin, dan menggunakannya dengan cara yang menghormati seluruh warga sekolah. Mulai dari enam titik yang paling penting dulu — selebihnya bisa menyusul kapan saja.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

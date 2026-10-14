@@ -118,3 +118,9 @@ Memilih AC untuk ruang kelas bukan sekadar soal harga murah. Pertimbangkan luas 
 Mulailah dari satu atau dua kelas dulu, hitung biaya operasionalnya, lalu perluas secara bertahap. Dengan perencanaan yang matang, ruang kelas yang sejuk akan membuat siswa lebih fokus dan nyaman belajar — tanpa membuat anggaran sekolah jebol.
 
 Semoga panduan ini membantu Anda memilih AC yang tepat untuk sekolah atau madrasah. Selamat berbelanja!
+
+---
+
+## Perangkat siap pakai
+
+Kalau Anda butuh perangkat kerja yang bisa langsung dipakai, ada versi ringkas template administrasi madrasah yang dibagikan **gratis** — tanpa daftar, tanpa email: [unduh di sini](https://radar9.my.id/template-administrasi-madrasah-gratis/).

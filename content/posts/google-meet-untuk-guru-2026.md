@@ -94,3 +94,11 @@ Untuk sekolah yang sudah memakai Google Classroom atau Google Workspace, **Googl
 Google Meet bukan hanya "tempat rapat" — alat ini bisa jadi ruang kelas kedua yang tertib dan efektif kalau digunakan dengan strategi yang benar. Mulai dari hal kecil: aktifkan ruang tunggu, pakai caption, bagikan tautan di Classroom, dan tetapkan aturan mikrofon. Sedikit persiapan, kelas daring jauh lebih nyaman untuk Anda dan murid.
 
 Kalau sekolah/madrasah Anda belum mencoba Google Meet secara terpisah dari WhatsApp voice call, minggu ini adalah waktu yang tepat untuk mencobanya. Gratis, mudah, dan langsung terasa bedanya. Selamat mencoba, Bos Guru!
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

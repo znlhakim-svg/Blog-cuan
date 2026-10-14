@@ -105,3 +105,11 @@ Jujur soal keterbatasan: versi gratis biasa memang tidak membuka semua elemen da
 Media pembelajaran yang menarik bukan sekadar soal estetika — ini soal membuat siswa lebih mudah memahami dan lebih bersemangat mengikuti pelajaran. Canva menurunkan hambatan yang selama ini membuat guru enggan berkreasi: tidak perlu keterampilan desain, tidak perlu biaya, dan tidak perlu perangkat mahal.
 
 Mulailah dari yang kecil: buat satu presentasi untuk materi minggu depan, atau ubah satu lembar kerja polos menjadi lebih menarik. Setelah terbiasa, Anda akan menemukan banyak cara lain untuk memanfaatkannya — dari poster kelas hingga sertifikat kegiatan. Selamat mencoba, dan semoga siswa Anda semakin semangat belajar!
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

@@ -126,3 +126,11 @@ Perbaikan yang paling sering berhasil bukan pembelian besar, tapi **penataan jad
 Kesiapan asesmen berbasis komputer jarang ditentukan oleh perangkat termahal di ruangan. Yang membedakan sekolah yang tenang dan sekolah yang panik biasanya tiga hal: **data peserta yang bersih, prosedur teknis yang pernah dites di jam nyata, dan tim yang tahu tugas masing-masing**.
 
 Mulailah dari yang paling murah dan paling berdampak — cek data peserta, uji login, uji jaringan di jam sibuk, dan lakukan latihan mati listrik 15 menit. Kalau semua itu sudah rapi, teknologi berhenti jadi sumber stres dan kembali jadi alat bantu, seperti seharusnya.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

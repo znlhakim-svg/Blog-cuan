@@ -141,3 +141,11 @@ Sulingjar pada akhirnya bukan tentang mengisi kuesioner secepat mungkin. Ia adal
 Karena itu, tiga hal ini layak dijadikan kebiasaan tiap tahun ajaran: **operator mencetak dan membagikan kartu login lebih awal**, **kepala sekolah menyediakan waktu khusus pengisian agar guru tidak mengerjakan di sela jam mengajar**, dan **guru menjawab jujur tanpa rasa takut dinilai**. Kalau satu saja dari tiga hal itu terlewat, hasilnya akan tetap terunduh, tetapi nilainya bagi perbaikan sekolah jauh berkurang.
 
 Jadwal, tautan portal, dan tampilan menu Sulingjar maupun Rapor Pendidikan dapat berubah mengikuti pengumuman resmi. Sebelum mengambil keputusan, selalu verifikasi ke kanal resmi Kemendikdasmen, Dinas Pendidikan, atau Kanwil Kementerian Agama setempat.
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

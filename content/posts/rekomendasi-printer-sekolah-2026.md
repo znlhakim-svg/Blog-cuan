@@ -114,3 +114,11 @@ Bandingkan harga cetak per lembar di jasa fotokopi terdekat dengan biaya per lem
 ---
 
 *Tulisan ini disusun dari perhitungan rutin administrasi sekolah. Harga dan angka yang disebut bersifat perkiraan pasar; sesuaikan dengan harga di kota masing-masing sebelum dipakai dalam RAB.*
+
+---
+
+## Hemat waktu administrasi
+
+Kalau pekerjaan administrasi di sekolah/madrasah Anda masih dikerjakan satu per satu, template Excel siap pakai ini bisa langsung dipakai: data siswa, absensi, keuangan kas (saldo terhitung sendiri). Ada versi ringkas yang bisa diunduh gratis, dan versi lengkap 8 sheet seharga Rp25.000.
+
+Lihat dan unduh: [Template Administrasi Madrasah](https://radar9.my.id/produk-template-excel-madrasah-2026/).

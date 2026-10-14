@@ -134,3 +134,11 @@ Mengubah tumpukan surat sekolah menjadi arsip digital tidak butuh scanner mahal 
 Manfaatnya langsung terasa. Dokumen yang dulu dicari satu jam kini bisa ditemukan dalam hitungan detik. Pemeriksaan mendadak tidak lagi membuat panik, dan arsip sekolah terlindungi meski terjadi kerusakan atau kebakaran. Mulailah dari jenis dokumen yang paling sering dicari — biasanya surat masuk dan keuangan — lalu perluas ke kategori lain. Arsip yang rapi dibangun sedikit demi sedikit, bukan sekaligus.
 
 Yang terpenting: jangan menunggu punya semua fasilitas baru memulai. Scan surat hari ini dengan ponsel, beri nama sesuai pola, dan simpan di cloud. Kebiasaan kecil ini, kalau konsisten, akan mengubah ruang tata usaha sekolah dalam beberapa bulan saja.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).

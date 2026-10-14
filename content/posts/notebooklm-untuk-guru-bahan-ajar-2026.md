@@ -95,3 +95,11 @@ Ada beberapa hal yang perlu diperhatikan agar penggunaan AI tetap sehat di lingk
 NotebookLM adalah salah satu alat AI paling ramah untuk guru yang tersedia gratis saat ini. Ia tidak memerlukan keahlian teknis, tidak perlu instalasi rumit, dan langsung menyelesaikan masalah nyata: keterbatasan waktu menyiapkan bahan ajar.
 
 Mulailah dari langkah kecil. Ambil satu bab yang paling sering Anda ajarkan, unggah ke NotebookLM, dan minta ringkasan serta sepuluh soal latihan. Setelah merasakan penghematan waktunya, Anda akan tahu sendiri bagian mana dari pekerjaan administrasi mengajar yang bisa diserahkan ke alat ini — dan bagian mana yang tetap harus Anda kerjakan sebagai guru.
+
+---
+
+## Butuh naskah atau kitab dijadikan aplikasi?
+
+Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
+
+Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).
