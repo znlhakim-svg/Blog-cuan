@@ -13,6 +13,13 @@ Kalau Anda operator madrasah atau guru yang memegang administrasi, biasanya peke
 
 Halaman ini menyediakan **versi ringkas gratis** dari Template Administrasi Madrasah 2026. Silakan diunduh, dipakai, dan dibagikan ke rekan guru.
 
+**Tentang file ini** — supaya Anda yakin sebelum mengunduh:
+
+- File berformat **.xlsx** (Microsoft Excel), berukuran ±10 KB. **Tidak mengandung makro atau skrip** — murni tabel berisi rumus SUM sederhana untuk kolom absensi dan saldo kas.
+- Dibuat sendiri oleh pengelola situs ini (Edukasi Praktis), bukan file pihak ketiga yang dikumpulkan dari internet.
+- Tidak meminta Anda menginstal aplikasi apa pun, tidak meminta data pribadi, tidak ada iklan di dalam file.
+- Kalau ragu, Anda bisa memeriksanya lebih dulu di [VirusTotal](https://www.virustotal.com/) sebelum membuka. Kami juga menyarankan membuka file Excel dari sumber mana pun dengan **Protected View** (mode lindungi) yang aktif secara bawaan di Microsoft Excel.
+
 ---
 
 ## Unduh Sekarang (Gratis)
@@ -20,6 +27,8 @@ Halaman ini menyediakan **versi ringkas gratis** dari Template Administrasi Madr
 👉 **[Unduh Template Administrasi Madrasah 2026 — Versi Ringkas](/unduh/Template_Administrasi_Madrasah_RINGKAS.xlsx)**
 
 Tidak perlu daftar, tidak perlu email. Klik, unduh, pakai.
+
+Ada pertanyaan sebelum mengunduh? Hubungi kami lewat [halaman kontak](/contact/) — kami balas.
 
 ---
 

@@ -76,6 +76,12 @@ menu:
     - name: "Kontak"
       url: "/contact/"
       weight: 6
+    - name: "Privasi"
+      url: "/privacy/"
+      weight: 7
+    - name: "Ketentuan"
+      url: "/terms/"
+      weight: 8
 
 # Sitemap
 sitemap:
