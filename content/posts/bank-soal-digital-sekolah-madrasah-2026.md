@@ -116,6 +116,16 @@ Bank soal digital bukan proyek besar yang harus selesai dalam satu semester. Ia 
 
 Mulailah dari hal terkecil minggu ini. Buat satu file Google Sheets, isi sepuluh soal pertama dari mata pelajaran yang Anda ampu, dan sepakati struktur kodenya bersama rekan guru. Sisanya akan mengikuti — asalkan ditambah terus setiap kali ada ujian. Setahun dari sekarang, Anda akan berterima kasih pada diri sendiri saat menyusun PTS pertama pada tahun ajaran baru.
 
+## Kalau butuh formatnya, tidak perlu membuat dari nol
+
+Versi ringkasnya bisa **diunduh gratis** — tiga sheet berisi data siswa, absensi, dan kas dengan
+saldo berjalan otomatis:
+
+**→ [Unduh gratis: Template Administrasi Madrasah 2026 (versi ringkas, 3 sheet)](/template-administrasi-madrasah-gratis/)**
+
+Kalau butuh yang lebih lengkap (8 sheet, termasuk daftar hadir guru, inventaris, dan rekap nilai),
+versinya Rp25.000 di halaman [Template Administrasi Madrasah 2026](/produk-template-excel-madrasah-2026/).
+
 ---
 
 ## Butuh naskah atau kitab dijadikan aplikasi?

@@ -100,4 +100,14 @@ Keputusan di meja rapat sering kali lebih menentukan anggaran daripada tarif per
 
 Kalau naskahnya hanya tersimpan sebagai scan atau foto dan Anda ingin tahu berapa biaya sebenarnya untuk naskah itu, kirimkan 3–5 halaman contoh untuk diperiksa. Pemeriksaan dan perkiraan biaya tidak dipungut bayaran.
 
+## Kalau butuh formatnya, tidak perlu membuat dari nol
+
+Versi ringkasnya bisa **diunduh gratis** — tiga sheet berisi data siswa, absensi, dan kas dengan
+saldo berjalan otomatis:
+
+**→ [Unduh gratis: Template Administrasi Madrasah 2026 (versi ringkas, 3 sheet)](/template-administrasi-madrasah-gratis/)**
+
+Kalau butuh yang lebih lengkap (8 sheet, termasuk daftar hadir guru, inventaris, dan rekap nilai),
+versinya Rp25.000 di halaman [Template Administrasi Madrasah 2026](/produk-template-excel-madrasah-2026/).
+
 {{< bayar judul="Mulai dari Paket Ketik Naskah" nominal="Rp750.000" >}}

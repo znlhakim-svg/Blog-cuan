@@ -135,6 +135,16 @@ Manfaatnya langsung terasa. Dokumen yang dulu dicari satu jam kini bisa ditemuka
 
 Yang terpenting: jangan menunggu punya semua fasilitas baru memulai. Scan surat hari ini dengan ponsel, beri nama sesuai pola, dan simpan di cloud. Kebiasaan kecil ini, kalau konsisten, akan mengubah ruang tata usaha sekolah dalam beberapa bulan saja.
 
+## Kalau butuh formatnya, tidak perlu membuat dari nol
+
+Versi ringkasnya bisa **diunduh gratis** — tiga sheet berisi data siswa, absensi, dan kas dengan
+saldo berjalan otomatis:
+
+**→ [Unduh gratis: Template Administrasi Madrasah 2026 (versi ringkas, 3 sheet)](/template-administrasi-madrasah-gratis/)**
+
+Kalau butuh yang lebih lengkap (8 sheet, termasuk daftar hadir guru, inventaris, dan rekap nilai),
+versinya Rp25.000 di halaman [Template Administrasi Madrasah 2026](/produk-template-excel-madrasah-2026/).
+
 ---
 
 ## Butuh naskah atau kitab dijadikan aplikasi?

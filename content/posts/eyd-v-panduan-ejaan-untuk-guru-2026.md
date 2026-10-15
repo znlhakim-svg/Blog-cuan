@@ -168,6 +168,16 @@ Yang perlu diingat, acuan yang berlaku sekarang adalah **EYD edisi kelima**, buk
 
 Semoga bermanfaat untuk ruang guru dan kantor madrasah. Kalau ada kaidah yang ingin dibahas lebih detail — misalnya penulisan gelar bertingkat, penulisan judul karya tulis siswa, atau penulisan daftar pustaka versi EYD V — tinggalkan di kolom komentar.
 
+## Kalau butuh formatnya, tidak perlu membuat dari nol
+
+Versi ringkasnya bisa **diunduh gratis** — tiga sheet berisi data siswa, absensi, dan kas dengan
+saldo berjalan otomatis:
+
+**→ [Unduh gratis: Template Administrasi Madrasah 2026 (versi ringkas, 3 sheet)](/template-administrasi-madrasah-gratis/)**
+
+Kalau butuh yang lebih lengkap (8 sheet, termasuk daftar hadir guru, inventaris, dan rekap nilai),
+versinya Rp25.000 di halaman [Template Administrasi Madrasah 2026](/produk-template-excel-madrasah-2026/).
+
 ---
 
 ## Butuh naskah atau kitab dijadikan aplikasi?

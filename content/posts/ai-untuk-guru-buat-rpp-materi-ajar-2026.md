@@ -96,6 +96,16 @@ Mulailah dari hal kecil. Coba buat satu RPP atau satu materi pembelajaran dengan
 
 Selamat mencoba, dan semoga pekerjaan Anda semakin ringan!
 
+## Kalau butuh formatnya, tidak perlu membuat dari nol
+
+Versi ringkasnya bisa **diunduh gratis** — tiga sheet berisi data siswa, absensi, dan kas dengan
+saldo berjalan otomatis:
+
+**→ [Unduh gratis: Template Administrasi Madrasah 2026 (versi ringkas, 3 sheet)](/template-administrasi-madrasah-gratis/)**
+
+Kalau butuh yang lebih lengkap (8 sheet, termasuk daftar hadir guru, inventaris, dan rekap nilai),
+versinya Rp25.000 di halaman [Template Administrasi Madrasah 2026](/produk-template-excel-madrasah-2026/).
+
 ---
 
 ## Butuh naskah atau kitab dijadikan aplikasi?

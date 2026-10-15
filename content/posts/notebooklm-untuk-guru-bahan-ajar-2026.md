@@ -96,6 +96,16 @@ NotebookLM adalah salah satu alat AI paling ramah untuk guru yang tersedia grati
 
 Mulailah dari langkah kecil. Ambil satu bab yang paling sering Anda ajarkan, unggah ke NotebookLM, dan minta ringkasan serta sepuluh soal latihan. Setelah merasakan penghematan waktunya, Anda akan tahu sendiri bagian mana dari pekerjaan administrasi mengajar yang bisa diserahkan ke alat ini — dan bagian mana yang tetap harus Anda kerjakan sebagai guru.
 
+## Kalau butuh formatnya, tidak perlu membuat dari nol
+
+Versi ringkasnya bisa **diunduh gratis** — tiga sheet berisi data siswa, absensi, dan kas dengan
+saldo berjalan otomatis:
+
+**→ [Unduh gratis: Template Administrasi Madrasah 2026 (versi ringkas, 3 sheet)](/template-administrasi-madrasah-gratis/)**
+
+Kalau butuh yang lebih lengkap (8 sheet, termasuk daftar hadir guru, inventaris, dan rekap nilai),
+versinya Rp25.000 di halaman [Template Administrasi Madrasah 2026](/produk-template-excel-madrasah-2026/).
+
 ---
 
 ## Butuh naskah atau kitab dijadikan aplikasi?
