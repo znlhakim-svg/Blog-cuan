@@ -97,6 +97,10 @@ Sebelum membeli, selalu ukur ruang, tentukan kebutuhan, dan bandingkan harga dar
 
 ---
 
+## Butuh bantuan menata administrasi pengadaan alat sekolah?
+
+Kalau sekolah perlu menghitung kebutuhan dan menyusun administrasi pengadaan alat seperti proyektor — daftar harga, kartu inventaris, berita acara serah terima — versi ringkas templat administrasinya bisa diunduh gratis di [Templat Administrasi Madrasah 2026 — Versi Ringkas (Gratis)](/template-administrasi-madrasah-gratis/). Berkas Excel siap pakai, tanpa makro, dan tidak meminta data pribadi.
+
 ## Butuh naskah atau kitab dijadikan aplikasi?
 
 Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.

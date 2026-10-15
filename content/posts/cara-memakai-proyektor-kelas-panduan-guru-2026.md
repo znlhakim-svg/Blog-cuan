@@ -100,6 +100,7 @@ Proyektor yang berfungsi baik di kelas bukan soal merek mahal, melainkan soal ke
 
 Bagi guru, menguasai `Windows + P` dan tombol Source proyektor adalah dua hal paling berguna. Dengan itu, masalah "No Signal" yang dulu menghabiskan dua puluh menit bisa selesai dalam hitungan detik. Bagi sekolah, merawat filter dan lampu proyektor berarti menghemat pengeluaran penggantian yang seharusnya bisa dialihkan ke kebutuhan lain. Proyektor yang dirawat akan menemani proses belajar bertahun-tahun tanpa drama di awal pelajaran.
 
+Kalau sekolah atau madrasah perlu menata administrasi pemakaian dan perawatan peralatan (kartu inventaris, jadwal perawatan, berita acara), versi ringkas templat administrasinya bisa diunduh gratis di [Templat Administrasi Madrasah 2026 — Versi Ringkas (Gratis)](/template-administrasi-madrasah-gratis/) — berkas Excel berisi beberapa lembar siap pakai, bisa dibuka tanpa aplikasi tambahan.
 
 ---
 

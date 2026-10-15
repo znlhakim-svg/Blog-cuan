@@ -119,4 +119,7 @@ Berkas sumber tetap menjadi milik institusi sepenuhnya, dan penyedia jasa hanya 
 
 **Sedang menyusun usulan digitalisasi koleksi naskah untuk perpustakaan, kampus, atau penerbitan Anda?** Kirim keterangan singkat jumlah judul, perkiraan halaman, kondisi naskah, dan tenggat yang diinginkan. Beberapa halaman contoh bisa dikerjakan lebih dahulu sebelum pekerjaan penuh disetujui, supaya keputusan anggarannya berpijak pada hasil yang sudah dilihat, bukan pada janji.
 
+## Baca juga
+- [Digitalisasi Terbitan & Arsip Jurnal Kampus 2026: Kewajiban Serah Simpan, DOI, dan Cara Menakar Biayanya](/posts/digitalisasi-terbitan-jurnal-kampus-serah-simpan-2026/)
+
 {{< bayar judul="Mulai Digitalisasi Koleksi Anda" nominal="Rp750.000" >}}
