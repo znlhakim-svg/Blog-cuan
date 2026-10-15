@@ -109,6 +109,12 @@ Mencetak ulang kitab kertas tidak selalu berarti mengetik ulang dari nol. Tiga h
 2. **Tentukan tujuan akhir sebelum mulai** — arsip, cetak, atau aplikasi. Tiga tujuan itu menghasilkan pekerjaan yang berbeda, dan mengubah tujuan di tengah jalan hampir selalu berarti mengulang.
 3. **Periksa naskahnya sendiri sebelum memesan** — jumlah halaman yang benar-benar perlu diketik ulang adalah penentu biaya yang sebenarnya, bukan jumlah halaman keseluruhan.
 
+## Kalau sudah siap, pesanannya bisa langsung dibayar
+
+Kirimkan naskahnya lewat [halaman Kontak](/contact/) (maksimal 10 halaman contoh lebih dulu), lalu bayar paket yang dipilih di bawah ini:
+
+{{< bayar judul="Pesan Cetak Ulang / Perapian Naskah" nominal="Rp750.000" >}}
+
 ---
 
 *Dibuat oleh Edukasi Praktis — panduan & produk untuk guru, madrasah, dan sekolah Indonesia. Setiap artikel diperiksa manusia sebelum tayang; koreksi bisa dikirim lewat [halaman kontak](/contact/).*

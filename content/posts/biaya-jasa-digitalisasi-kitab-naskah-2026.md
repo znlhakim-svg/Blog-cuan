@@ -117,4 +117,8 @@ Layanan ini menerima **naskah milik Anda** dan mengolahnya sampai jadi. Rincian 
 
 Kalau naskah Anda masih berupa tumpukan kertas atau tulisan tangan yang belum tersentuh, langkah paling murah adalah mengirim **10 halaman contoh** lebih dulu. Dari situ Anda mendapat perkiraan biaya untuk naskah utuh — tanpa harus membayar seluruh pekerjaan di depan.
 
+Kalau sudah tahu paket mana yang cocok, pembayaran bisa dilakukan langsung di sini:
+
+{{< bayar judul="Mulai dari Paket Perapian Naskah" nominal="Rp750.000" >}}
+
 *Ditulis oleh Edukasi Praktis — mengerjakan pengolahan naskah Arab, harakat, terjemah, dan konversi ke aplikasi untuk pesantren, madrasah, dan perorangan.*

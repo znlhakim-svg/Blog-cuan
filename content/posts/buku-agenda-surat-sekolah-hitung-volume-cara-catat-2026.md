@@ -130,4 +130,18 @@ Tidak. Pindai surat yang isinya mengikat sekolah: surat keputusan, surat perjanj
 
 ---
 
+## Kalau butuh formatnya, tidak perlu membuat dari nol
+
+Penomoran surat, kolom buku agenda, dan rekap bulanan di atas semuanya bisa disimpan dalam satu berkas
+Excel yang saldonya berjalan sendiri. Versi ringkasnya bisa **diunduh gratis** — tanpa daftar, tanpa
+email:
+
+**→ [Unduh gratis: Template Administrasi Madrasah 2026 (versi ringkas, 3 sheet)](/template-administrasi-madrasah-gratis/)**
+
+Isinya: Data Siswa, Absensi, dan Keuangan Kas. Kalau butuh yang lebih lengkap (8 sheet, termasuk
+daftar hadir guru, inventaris, dan rekap nilai), versinya Rp25.000 di halaman
+[Template Administrasi Madrasah 2026](/produk-template-excel-madrasah-2026/).
+
+---
+
 *Angka volume surat, harga buku agenda, dan format penomoran di tulisan ini bersifat perkiraan serta contoh untuk memudahkan perhitungan; sesuaikan dengan kondisi sekolah masing-masing dan ketentuan tata naskah dinas yang berlaku di instansi Anda.*

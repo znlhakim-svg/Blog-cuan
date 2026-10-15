@@ -143,3 +143,7 @@ Kirim contoh naskah ke **jasa@radar9.my.id** dengan subjek **"Olah Naskah Kitab"
 Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
 
 Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).
+
+Kalau paketnya sudah dipilih, pembayaran bisa dilakukan langsung di sini:
+
+{{< bayar judul="Mulai dari Paket Konversi Naskah" nominal="Rp750.000" >}}

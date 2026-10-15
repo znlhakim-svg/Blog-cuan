@@ -113,3 +113,7 @@ Rincian paket dan estimasi biaya kedua tahap itu bisa dilihat di halaman [Jasa O
 Biaya mengubah kitab scan menjadi PDF digital ditentukan oleh enam hal: kondisi kertas, ketajaman hasil pindai, ada atau tidaknya harakat, perlu tidaknya lapisan teks, tujuan akhir berkas, dan ukuran yang diinginkan. Jumlah halaman hanya salah satu faktor.
 
 Langkah paling hemat yang bisa dilakukan pemesan bukan menawar harga, melainkan **memeriksa kondisi naskah lebih dulu** dan — jika naskah asli masih ada — memindai ulang dengan resolusi yang cukup. Dua langkah itu bisa menurunkan biaya sampai setengahnya sebelum pekerjaan dimulai.
+
+Kalau naskahnya sudah siap dikirim dan paketnya sudah jelas, pesanan bisa dibayar langsung di bawah ini:
+
+{{< bayar judul="Pesan Konversi Naskah Scan" nominal="Rp750.000" >}}
