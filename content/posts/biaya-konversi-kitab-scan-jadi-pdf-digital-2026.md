@@ -119,3 +119,9 @@ Langkah paling hemat yang bisa dilakukan pemesan bukan menawar harga, melainkan 
 Kalau naskahnya sudah siap dikirim dan paketnya sudah jelas, pesanan bisa dibayar langsung di bawah ini:
 
 {{< bayar judul="Pesan Konversi Naskah Scan" nominal="Rp750.000" >}}
+
+
+---
+
+**Catatan tambahan:** kalau berkas hasil kerja di atas pada akhirnya dipakai untuk administrasi madrasah, versi ringkas template administrasinya (Data Siswa, Absensi, Keuangan Kas) bisa diunduh gratis di **[Template Administrasi Madrasah (Gratis)](/template-administrasi-madrasah-gratis/)**.
+<!-- umpan-admin-r8 -->

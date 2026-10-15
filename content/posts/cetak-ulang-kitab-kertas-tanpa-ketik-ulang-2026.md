@@ -118,3 +118,9 @@ Kirimkan naskahnya lewat [halaman Kontak](/contact/) (maksimal 10 halaman contoh
 ---
 
 *Dibuat oleh Edukasi Praktis — panduan & produk untuk guru, madrasah, dan sekolah Indonesia. Setiap artikel diperiksa manusia sebelum tayang; koreksi bisa dikirim lewat [halaman kontak](/contact/).*
+
+
+---
+
+**Catatan tambahan:** kalau berkas hasil kerja di atas pada akhirnya dipakai untuk administrasi madrasah, versi ringkas template administrasinya (Data Siswa, Absensi, Keuangan Kas) bisa diunduh gratis di **[Template Administrasi Madrasah (Gratis)](/template-administrasi-madrasah-gratis/)**.
+<!-- umpan-admin-r8 -->

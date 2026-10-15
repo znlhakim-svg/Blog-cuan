@@ -122,3 +122,9 @@ Kalau sudah tahu paket mana yang cocok, pembayaran bisa dilakukan langsung di si
 {{< bayar judul="Mulai dari Paket Perapian Naskah" nominal="Rp750.000" >}}
 
 *Ditulis oleh Edukasi Praktis — mengerjakan pengolahan naskah Arab, harakat, terjemah, dan konversi ke aplikasi untuk pesantren, madrasah, dan perorangan.*
+
+
+---
+
+**Catatan tambahan:** kalau berkas hasil kerja di atas pada akhirnya dipakai untuk administrasi madrasah, versi ringkas template administrasinya (Data Siswa, Absensi, Keuangan Kas) bisa diunduh gratis di **[Template Administrasi Madrasah (Gratis)](/template-administrasi-madrasah-gratis/)**.
+<!-- umpan-admin-r8 -->

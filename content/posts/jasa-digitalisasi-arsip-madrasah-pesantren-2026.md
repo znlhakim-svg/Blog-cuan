@@ -101,3 +101,9 @@ Sebelum memutuskan penyedia, lakukan satu langkah ini: **hitung dulu jumlah hala
 Kalau arsipnya termasuk kelompok Arab berharakat atau bertulisan tangan lama, atau Anda ingin hasil yang sekaligus bisa dicari teksnya dan dipakai untuk aplikasi digital, saya sanggup mengerjakan naskah yang Anda kirimkan: dari foto/scan sampai keluaran PDF yang rapi, lengkap dengan penamaan berkas yang bisa dicari. Anda kirimkan naskahnya, hasilnya menjadi milik lembaga Anda.
 
 {{< bayar nominal="Rp750.000" judul="Mulai Digitalisasi Arsip Lembaga Anda" >}}
+
+
+---
+
+**Catatan tambahan:** kalau berkas hasil kerja di atas pada akhirnya dipakai untuk administrasi madrasah, versi ringkas template administrasinya (Data Siswa, Absensi, Keuangan Kas) bisa diunduh gratis di **[Template Administrasi Madrasah (Gratis)](/template-administrasi-madrasah-gratis/)**.
+<!-- umpan-admin-r8 -->

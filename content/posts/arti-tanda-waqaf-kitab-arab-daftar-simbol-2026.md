@@ -93,3 +93,9 @@ Untuk melihat rincian paket dan kisaran biayanya, buka [Jasa Olah Naskah Kitab](
 Langkah paling mudah: kirim **satu bab contoh** saja ke **jasa@radar9.my.id** dengan subjek **"Ketik Naskah Arab"**. Naskah yang dikirimkan hanya dipakai untuk mengerjakan pesanan lembaga Anda.
 
 {{< bayar judul="Mulai dari Paket Konversi Naskah" nominal="Rp750.000" >}}
+
+
+---
+
+**Catatan tambahan:** kalau berkas hasil kerja di atas pada akhirnya dipakai untuk administrasi madrasah, versi ringkas template administrasinya (Data Siswa, Absensi, Keuangan Kas) bisa diunduh gratis di **[Template Administrasi Madrasah (Gratis)](/template-administrasi-madrasah-gratis/)**.
+<!-- umpan-admin-r8 -->

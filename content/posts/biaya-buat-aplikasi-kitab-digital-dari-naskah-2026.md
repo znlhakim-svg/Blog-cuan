@@ -87,3 +87,9 @@ Yang benar-benar memangkas biaya bukan menghindari manusia, tetapi **menyerahkan
 {{< bayar judul="Mulai dari Paket Konversi Naskah" nominal="Rp750.000" >}}
 
 Naskah yang Anda kirimkan hanya dipakai untuk mengerjakan pesanan Anda, dan hasil akhirnya menjadi milik Anda sepenuhnya. Kalau mau membicarakan kebutuhan naskah Anda lebih dulu, hubungi kami lewat [halaman Kontak](/contact/) — atau lihat [rincian paket](/jasa-olah-naskah/) dan [contoh pekerjaan ketik ulang naskah Arab berharakat](/posts/jasa-ketik-ulang-naskah-arab-berharakat-2026/).
+
+
+---
+
+**Catatan tambahan:** kalau berkas hasil kerja di atas pada akhirnya dipakai untuk administrasi madrasah, versi ringkas template administrasinya (Data Siswa, Absensi, Keuangan Kas) bisa diunduh gratis di **[Template Administrasi Madrasah (Gratis)](/template-administrasi-madrasah-gratis/)**.
+<!-- umpan-admin-r8 -->
