@@ -106,6 +106,8 @@ versinya Rp25.000 di halaman [Template Administrasi Madrasah 2026](/produk-templ
 
 Kalau lembaga Anda menyimpan arsip ijazah dan buku induk **lama** (bahkan yang sudah lapuk atau dimakan rayap) dan perlu dipindahkan menjadi berkas digital yang rapi dan bisa dicari, pekerjaan itu juga bisa dikerjakan — termasuk scan naskah dan pengetikan ulang dokumen Arab berharakat. Rinciannya di [halaman jasa olah naskah](/jasa-olah-naskah/).
 
+Baca juga: [Legalisir Ijazah 2026: Syarat, Biaya, dan Masa Berlaku](/posts/legalisir-ijazah-2026-syarat-biaya-masa-berlaku/)
+
 {{< bayar judul="Mulai Digitalisasi Arsip Ijazah & Buku Induk Madrasah" nominal="Rp750.000" >}}
 
 ## Ringkasan yang bisa dijawab ulang ke orang tua

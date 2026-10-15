@@ -109,6 +109,8 @@ Kalau kondisinya sudah masuk kategori rusak — tinta tembus, kertas lapuk, atau
 
 **Baca juga: [Nomor Ijazah Nasional (NIN) 2026: Letaknya di Mana, Cara Membacanya, dan Cara Cek Keasliannya](/posts/nomor-ijazah-nasional-nin-cara-cek-2026/)** — 15 angka, bedanya dengan NISN, dan cara verifikasi lewat portal resmi.
 
+Baca juga: [Legalisir Ijazah 2026: Syarat, Biaya, dan Masa Berlaku](/posts/legalisir-ijazah-2026-syarat-biaya-masa-berlaku/)
+
 {{< bayar nominal="Rp2.500.000" judul="Serahkan Arsip Lembaga Anda — Paket Digitalisasi Naskah" >}}
 
 ---

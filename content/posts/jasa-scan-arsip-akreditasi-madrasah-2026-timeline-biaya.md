@@ -116,6 +116,8 @@ Kalau tenggat akreditasi tinggal beberapa minggu, urutan yang paling hemat waktu
 
 Sisanya hanya soal konsistensi. Arsip yang dipindai sekali dengan penamaan yang rapi akan menghemat hari kerja pada setiap akreditasi, supervisi, dan permintaan salinan berikutnya — bukan hanya sekali ini.
 
+Baca juga: [Legalisir Ijazah 2026: Syarat, Biaya, dan Masa Berlaku](/posts/legalisir-ijazah-2026-syarat-biaya-masa-berlaku/)
+
 {{< bayar judul="Mulai dari Paket Pindai Arsip Naskah" nominal="Rp750.000" >}}
 
 Kalau sekolah punya anggaran terbatas dan ingin mencoba lebih dulu, ada [template administrasi madrasah yang bisa diunduh gratis](/template-administrasi-madrasah-gratis/) — berisi berkas Excel untuk rekap siswa, kehadiran, dan inventaris, yang bisa langsung dipakai tanpa memindai apa pun. Versi lengkapnya tersedia di [halaman produk](/produk-template-excel-madrasah-2026/).

@@ -123,3 +123,5 @@ versinya Rp25.000 di halaman [Template Administrasi Madrasah 2026](/produk-templ
 Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
 
 Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).
+
+Baca juga: [Legalisir Ijazah 2026: Syarat, Biaya, dan Masa Berlaku](/posts/legalisir-ijazah-2026-syarat-biaya-masa-berlaku/)
