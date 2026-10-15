@@ -134,7 +134,7 @@ Langkah paling mudah untuk memulai: **kirim satu bab contoh naskah Anda.** Dari 
 
 {{< bayar judul="Punya Naskah yang Ingin Dijadikan Aplikasi?" nominal="Rp750.000" >}}
 
-Kirim contoh naskah ke **jasa@radar9.my.id** dengan subjek **"Olah Naskah Kitab"**, atau lihat halaman [Jasa Olah Naskah Kitab](/jasa-olah-naskah/) untuk rincian paket lengkap.
+Kirim contoh naskah ke **znl.hakim.arisandi@gmail.com** dengan subjek **"Olah Naskah Kitab"**, atau lihat halaman [Jasa Olah Naskah Kitab](/jasa-olah-naskah/) untuk rincian paket lengkap.
 
 ---
 

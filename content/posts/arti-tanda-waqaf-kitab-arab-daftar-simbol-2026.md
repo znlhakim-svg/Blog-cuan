@@ -90,7 +90,7 @@ Kalau lembaga Anda punya kitab, catatan pengajian, atau naskah tulisan tangan ya
 
 Untuk melihat rincian paket dan kisaran biayanya, buka [Jasa Olah Naskah Kitab](/jasa-olah-naskah/) atau baca patokan harga per halaman di [Berapa Biaya Mengetik Ulang Kitab Arab Berharakat per Halaman](/posts/biaya-ketik-kitab-arab-berharakat-per-halaman-2026/).
 
-Langkah paling mudah: kirim **satu bab contoh** saja ke **jasa@radar9.my.id** dengan subjek **"Ketik Naskah Arab"**. Naskah yang dikirimkan hanya dipakai untuk mengerjakan pesanan lembaga Anda.
+Langkah paling mudah: kirim **satu bab contoh** saja ke **znl.hakim.arisandi@gmail.com** dengan subjek **"Ketik Naskah Arab"**. Naskah yang dikirimkan hanya dipakai untuk mengerjakan pesanan lembaga Anda.
 
 {{< bayar judul="Mulai dari Paket Konversi Naskah" nominal="Rp750.000" >}}
 

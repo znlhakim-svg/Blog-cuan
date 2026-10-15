@@ -60,7 +60,7 @@ Atau pesan lewat email (lihat bagian bawah halaman ini).
 
 **Cara pesan (pilih salah satu):**
 
-- **Email:** [edukasi.praktis@gmail.com](mailto:edukasi.praktis@gmail.com?subject=Pesan%20Template%20Excel%20Administrasi%20Madrasah%202026) — tulis subjek *"Pesan Template Excel"*, sertakan nama & sekolah
+- **Email:** [znl.hakim.arisandi@gmail.com](mailto:znl.hakim.arisandi@gmail.com?subject=Pesan%20Template%20Excel%20Administrasi%20Madrasah%202026) — tulis subjek *"Pesan Template Excel"*, sertakan nama & sekolah
 - **WhatsApp:** sebutkan nama dan sekolah Anda, file dikirim setelah pembayaran
 
 Setelah pembayaran dikonfirmasi, **file langsung dikirim** ke email/WhatsApp Anda.

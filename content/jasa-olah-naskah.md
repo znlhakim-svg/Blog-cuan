@@ -183,7 +183,7 @@ Langkah paling mudah: **kirim satu contoh naskah Anda.** Boleh satu halaman, sat
 Tidak ada kewajiban lanjut. Yang Anda dapat lebih dulu adalah gambaran jelas: naskah ini bisa jadi apa, berapa lama, dan berapa biayanya.
 
 **Cara menghubungi:**
-Kirim email ke **jasa@radar9.my.id** dengan subjek **"Olah Naskah Kitab"**, atau lihat halaman **[Kontak](/contact/)**.
+Kirim email ke **znl.hakim.arisandi@gmail.com** dengan subjek **"Olah Naskah Kitab"**, atau lihat halaman **[Kontak](/contact/)**.
 
 Sertakan:
 - jenis naskah (tulisan tangan, PDF, Word, atau foto),

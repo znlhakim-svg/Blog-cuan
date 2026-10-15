@@ -114,7 +114,7 @@ Sebelum mengunduh, ada baiknya Anda tahu persis isinya: halaman unduh itu mencan
 
 Sebagian sekolah dan madrasah memilih tidak mengerjakan sendiri, terutama ketika arsipnya menumpuk dan harus selesai sebelum jadwal akreditasi. Untuk pekerjaan seperti itu ada [layanan olah naskah dan arsip](/jasa-olah-naskah/) — mulai dari pengetikan naskah Arab berharakat, perbaikan hasil pindai, sampai penyusunan arsip digital dengan penamaan yang rapi.
 
-Yang perlu diketahui sebelum menghubungi: pekerjaan dimulai dari naskah atau arsip **milik pemesan**, dan hasilnya menjadi milik pemesan sepenuhnya. Untuk memperkirakan biaya, cukup kirim beberapa contoh halaman dan perkiraan jumlah halaman — estimasi bisa diberikan tanpa seluruh berkas harus dikirim lebih dulu. Kirim ke **jasa@radar9.my.id** dengan subjek **"Estimasi"**; balasan 1–2 hari kerja.
+Yang perlu diketahui sebelum menghubungi: pekerjaan dimulai dari naskah atau arsip **milik pemesan**, dan hasilnya menjadi milik pemesan sepenuhnya. Untuk memperkirakan biaya, cukup kirim beberapa contoh halaman dan perkiraan jumlah halaman — estimasi bisa diberikan tanpa seluruh berkas harus dikirim lebih dulu. Kirim ke **znl.hakim.arisandi@gmail.com** dengan subjek **"Estimasi"**; balasan 1–2 hari kerja.
 
 ## Urutan pengerjaan yang paling hemat waktu
 

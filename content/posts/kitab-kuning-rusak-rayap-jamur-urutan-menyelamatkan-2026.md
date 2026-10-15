@@ -96,7 +96,7 @@ Kalau Anda mengurus lemari kitab di pesantren atau madrasah, urutan paling murah
 
 Langkah 4 tidak mengikat. Yang Anda dapat lebih dulu adalah gambaran jelas: kitab itu masih bisa diselamatkan atau tidak, berapa lama, dan berapa biayanya.
 
-**Menghubungi:** kirim email ke **jasa@radar9.my.id** dengan subjek **"Kitab Rusak"**, sertakan foto satu halaman, perkiraan jumlah halaman, dan kondisi lemari saat ini. Balasan diberikan dalam 1–2 hari kerja. Untuk berkas besar, sebutkan di email — akan diberi tautan unggah yang lebih aman.
+**Menghubungi:** kirim email ke **znl.hakim.arisandi@gmail.com** dengan subjek **"Kitab Rusak"**, sertakan foto satu halaman, perkiraan jumlah halaman, dan kondisi lemari saat ini. Balasan diberikan dalam 1–2 hari kerja. Untuk berkas besar, sebutkan di email — akan diberi tautan unggah yang lebih aman.
 
 {{< bayar judul="Mulai Selamatkan Naskah — Paket Konversi" nominal="Rp750.000" >}}
 

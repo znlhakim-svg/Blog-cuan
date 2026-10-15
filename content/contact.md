@@ -10,8 +10,8 @@ description: "Hubungi Edukasi Praktis untuk pertanyaan, pesanan template, koreks
 Ada pertanyaan, ingin memesan produk, menemukan data yang perlu dikoreksi, atau ingin bekerja sama?
 Silakan hubungi:
 
-- **Email pesanan & pertanyaan:** [edukasi.praktis@gmail.com](mailto:edukasi.praktis@gmail.com)
-- **Email jasa olah naskah:** [jasa@radar9.my.id](mailto:jasa@radar9.my.id)
+- **Email pesanan & pertanyaan:** [znl.hakim.arisandi@gmail.com](mailto:znl.hakim.arisandi@gmail.com)
+- **Email jasa olah naskah:** [znl.hakim.arisandi@gmail.com](mailto:znl.hakim.arisandi@gmail.com?subject=Olah%20Naskah%20Kitab)
 
 Balasan diberikan dalam 1–2 hari kerja. Untuk mengirim naskah atau berkas besar, sebutkan di email
 — akan diberikan tautan unggah yang lebih aman daripada lampiran.

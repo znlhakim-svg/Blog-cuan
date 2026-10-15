@@ -84,7 +84,7 @@ Yang perlu Anda kirimkan sebagai langkah pertama: **satu bab contoh naskah** (5â
 
 {{< bayar judul="Mulai dari Paket Konversi Naskah" nominal="Rp750.000" >}}
 
-Kirim contoh naskah ke **jasa@radar9.my.id** dengan subjek **"Aplikasi dari Naskah"**, atau lihat rincian paket lengkap di halaman [Jasa Olah Naskah Kitab](/jasa-olah-naskah/).
+Kirim contoh naskah ke **znl.hakim.arisandi@gmail.com** dengan subjek **"Aplikasi dari Naskah"**, atau lihat rincian paket lengkap di halaman [Jasa Olah Naskah Kitab](/jasa-olah-naskah/).
 
 ## Pertanyaan yang sering diajukan
 

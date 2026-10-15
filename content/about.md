@@ -51,5 +51,5 @@ Keterangan paket dan cara memesan ada di halaman [Jasa Olah Naskah](/jasa-olah-n
 
 ## Kontak
 
-- Email: **edukasi.praktis@gmail.com** atau **jasa@radar9.my.id**
+- Email: **znl.hakim.arisandi@gmail.com**
 - Halaman kontak: [/contact/](/contact/)
