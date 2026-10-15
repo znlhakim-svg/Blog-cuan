@@ -80,7 +80,7 @@ Setelah penyedia terpilih, siapkan tiga hal ini supaya pekerjaannya lancar dan t
 2. **Contoh hasil yang Anda anggap benar.** Kalau ada halaman naskah lain yang salinannya sudah bagus, kirim sebagai acuan. Ini mengurangi perbedaan tafsir soal "rapi".
 3. **Cara penamaan berkas yang konsisten.** Misalnya `nama-kitab-hal-001.docx` supaya mudah dicocokkan dan tidak tertukar saat digabung.
 
-Estimasi biaya total seluruh pekerjaan (termasuk cara menghitung berapa halaman yang sebenarnya perlu dikerjakan) bisa dihitung dulu dengan pola di [panduan menghitung biaya digitalisasi kitab](/posts/berapa-biaya-digitalisasi-kitab-naskah-kuno-2026/).
+Estimasi biaya total seluruh pekerjaan (termasuk cara menghitung berapa halaman yang sebenarnya perlu dikerjakan) bisa dihitung dulu dengan pola di [panduan menghitung biaya digitalisasi kitab](/posts/biaya-jasa-digitalisasi-kitab-naskah-2026/).
 
 ## Siapa yang cocok memakai jasa dan siapa yang sebaiknya tidak
 
