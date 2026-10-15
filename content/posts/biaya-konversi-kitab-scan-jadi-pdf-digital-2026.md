@@ -100,6 +100,8 @@ Kalau naskah asli sudah tidak ada dan hasil pindainya juga sudah rendah mutu, pe
 
 Satu hal yang penting disepakati di awal: naskah yang dikirimkan tetap milik pemesannya. Pengerjaan hanya menghasilkan berkas baru untuk pemesan, dan naskah itu tidak dipakai untuk keperluan lain. Untuk pesantren, madrasah, atau perorangan yang mengirim naskah berisi catatan pengajian, hal ini biasanya menjadi pertimbangan pertama sebelum memesan.
 
+Karena itu, yang diserahkan kepada pihak pengerja hanya **naskah milik pemesan itu sendiri**. Tidak ada naskah pesantren lain yang dipakai sebagai contoh, tidak ada berkas dari pekerjaan sebelumnya yang dilampirkan, dan tidak ada salinan yang disimpan lebih lama dari waktu pengerjaan. Kalau Anda ingin melihat mutu hasil sebelum memutuskan, pilihannya dua: kirim beberapa halaman uji dari naskah Anda sendiri untuk dinilai, atau ajukan pertanyaan teknis sebanyak yang diperlukan. Keduanya tidak memerlukan apa pun selain naskah Anda.
+
 ## Jika naskah ingin dijadikan aplikasi
 
 Jika naskah hanya perlu dirapikan untuk arsip, pekerjaan berhenti di PDF. Tetapi beberapa pesantren memilih langkah berikutnya: mengubah naskah itu menjadi aplikasi Android sederhana yang bisa dibuka santri langsung dari HP, lengkap dengan pencarian, harakat, dan terjemahan.

@@ -102,3 +102,16 @@ Kalau sekolah/madrasah Anda belum mencoba Google Meet secara terpisah dari Whats
 Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
 
 Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).
+
+<!-- Blok Umpan Gratis -->
+<div class="blok-umpan">
+  <h3 class="blok-umpan__judul">Absensi kelas daring tidak perlu dicatat manual</h3>
+  <p>Kalau kelas daring rutin dipakai, absensi dan rekap kehadiran bisa memakai format yang sudah berjalan otomatis.</p>
+  <p>Versi ringkasnya bisa <strong>diunduh gratis</strong> — 3 sheet berisi data siswa, absensi,
+     dan kas dengan saldo berjalan otomatis. Berkas <code>.xlsx</code> tanpa makro, tanpa perlu
+     instal apa pun.</p>
+  <p><strong>→ <a href="/template-administrasi-madrasah-gratis/">Unduh gratis: Template Administrasi Madrasah 2026 (versi ringkas, 3 sheet)</a></strong></p>
+  <p>Kalau butuh yang lebih lengkap (8 sheet, termasuk daftar hadir guru, inventaris, dan rekap
+     nilai), versinya Rp25.000 ada di halaman
+     <a href="/produk-template-excel-madrasah-2026/">Template Administrasi Madrasah 2026</a>.</p>
+</div>
