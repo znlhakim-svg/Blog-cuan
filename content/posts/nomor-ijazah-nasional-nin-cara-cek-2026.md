@@ -1,6 +1,6 @@
 ---
 title: "Nomor Ijazah Nasional (NIN) 2026: Letaknya di Mana, Cara Membacanya, dan Cara Cek Keasliannya"
-date: "2026-10-15T19:40:00+07:00"
+date: "2026-10-15T18:35:00+07:00"
 draft: false
 description: "Panduan lengkap Nomor Ijazah Nasional (NIN) 2026: letak NIN di ijazah, arti 15 angkanya satu per satu, bedanya dengan NISN dan nomor induk, cara verifikasi keaslian lewat portal resmi, plus ketentuan cetak dan aturan pungutan menurut Permendikbudristek No. 58 Tahun 2024."
 tags: ["Nomor Ijazah Nasional", "NIN", "ijazah 2026", "NISN", "verifikasi ijazah", "administrasi sekolah"]
