@@ -88,6 +88,16 @@ Mulailah langkah kecil hari ini: pilih satu aplikasi gratis yang sesuai kebutuha
 
 ---
 
+## Kalau butuh formatnya, tidak perlu membuat dari nol
+
+Semua kolom di atas sudah jadi format siap pakai. Versi ringkasnya bisa **diunduh gratis** — tiga
+sheet berisi data siswa, absensi, dan kas dengan saldo berjalan otomatis:
+
+**→ [Unduh gratis: Template Administrasi Madrasah 2026 (versi ringkas, 3 sheet)](/template-administrasi-madrasah-gratis/)**
+
+Kalau butuh yang lebih lengkap (8 sheet, termasuk daftar hadir guru, inventaris, dan rekap nilai),
+versinya Rp25.000 di halaman [Template Administrasi Madrasah 2026](/produk-template-excel-madrasah-2026/).
+
 ## Butuh naskah atau kitab dijadikan aplikasi?
 
 Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
