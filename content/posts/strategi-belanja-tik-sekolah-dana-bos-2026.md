@@ -120,3 +120,7 @@ versinya Rp25.000 di halaman [Template Administrasi Madrasah 2026](/produk-templ
 Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
 
 Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).
+
+## Koperasi sekolah dan pencatatan kasnya
+
+Kalau di sekolah Anda koperasi siswa atau kios sekolah ikut mengelola uang, cara membukukan modal awal, sisa hasil usaha, dan penetapan harga ada di artikel terpisah: [Koperasi Sekolah 2026: Mendirikan, Membukukan, dan Menetapkan Harga](/posts/koperasi-sekolah-2026-panduan-pendirian-pembukuan-harga/).
