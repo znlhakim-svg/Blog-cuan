@@ -106,6 +106,9 @@ Sebagian madrasah memilih mengerjakan bertahap dengan pemindai yang sudah ada. J
 
 Kalau kondisinya sudah masuk kategori rusak — tinta tembus, kertas lapuk, atau jamur — menyerahkan ke penyedia yang berpengalaman lebih hemat daripada memaksakan alat sekolah, karena halaman yang salah dipindai bisa membuat lembar aslinya semakin rusak.
 
+
+**Baca juga: [Nomor Ijazah Nasional (NIN) 2026: Letaknya di Mana, Cara Membacanya, dan Cara Cek Keasliannya](/posts/nomor-ijazah-nasional-nin-cara-cek-2026/)** — 15 angka, bedanya dengan NISN, dan cara verifikasi lewat portal resmi.
+
 {{< bayar nominal="Rp2.500.000" judul="Serahkan Arsip Lembaga Anda — Paket Digitalisasi Naskah" >}}
 
 ---

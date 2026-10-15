@@ -181,3 +181,5 @@ versinya Rp25.000 di halaman [Template Administrasi Madrasah 2026](/produk-templ
 Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
 
 Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).
+
+**Baca juga: [Nomor Ijazah Nasional (NIN) 2026: Letaknya di Mana, Cara Membacanya, dan Cara Cek Keasliannya](/posts/nomor-ijazah-nasional-nin-cara-cek-2026/)** — 15 angka, bedanya dengan NISN, dan cara verifikasi lewat portal resmi.
