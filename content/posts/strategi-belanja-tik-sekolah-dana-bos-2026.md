@@ -124,3 +124,5 @@ Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/j
 ## Koperasi sekolah dan pencatatan kasnya
 
 Kalau di sekolah Anda koperasi siswa atau kios sekolah ikut mengelola uang, cara membukukan modal awal, sisa hasil usaha, dan penetapan harga ada di artikel terpisah: [Koperasi Sekolah 2026: Mendirikan, Membukukan, dan Menetapkan Harga](/posts/koperasi-sekolah-2026-panduan-pendirian-pembukuan-harga/).
+
+**Baca juga:** [Tata cara belanja barang/jasa sekolah 2026 menurut Permendikdasmen No. 15 Tahun 2026](/posts/tata-cara-belanja-barang-jasa-sekolah-permendikdasmen-15-2026/) — aturan yang menggantikan Permendikbudristek 18/2022.

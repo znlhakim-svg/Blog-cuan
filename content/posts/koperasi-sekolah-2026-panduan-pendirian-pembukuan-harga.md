@@ -146,3 +146,5 @@ Kalau butuh yang lebih lengkap (8 sheet, termasuk daftar hadir guru, inventaris,
 Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berbentuk PDF scan atau tulisan tangan, kami mengerjakan pengubahan naskah itu menjadi aplikasi Android yang bisa dibuka langsung dari HP — lengkap dengan pencarian, harakat, dan terjemahan. Naskah yang dikirimkan hanya dipakai untuk pesanan lembaga Anda.
 
 Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).
+
+**Baca juga:** [Tata cara belanja barang/jasa sekolah 2026 menurut Permendikdasmen No. 15 Tahun 2026](/posts/tata-cara-belanja-barang-jasa-sekolah-permendikdasmen-15-2026/) — aturan yang menggantikan Permendikbudristek 18/2022.
