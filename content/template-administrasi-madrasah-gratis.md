@@ -24,7 +24,7 @@ Halaman ini menyediakan **versi ringkas gratis** dari Template Administrasi Madr
 
 ## Unduh Sekarang (Gratis)
 
-👉 **[Unduh Template Administrasi Madrasah 2026 — Versi Ringkas](/unduh/Template_Administrasi_Madrasah_RINGKAS.xlsx)**
+👉 **[Unduh Template Administrasi Madrasah 2026 — Versi Ringkas](/unduh/Template-Administrasi-Madrasah-Ringkas-2026.xlsx)**
 
 Tidak perlu daftar, tidak perlu email. Klik, unduh, pakai.
 

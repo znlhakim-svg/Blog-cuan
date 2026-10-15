@@ -73,9 +73,37 @@ class Blog(BaseHTTPRequestHandler):
             tipe = "image/x-icon"
         elif berkas.endswith(".txt"):
             tipe = "text/plain; charset=utf-8"
+        elif berkas.endswith(".xlsx"):
+            tipe = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        elif berkas.endswith(".xls"):
+            tipe = "application/vnd.ms-excel"
+        elif berkas.endswith(".docx"):
+            tipe = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        elif berkas.endswith(".pdf"):
+            tipe = "application/pdf"
+        elif berkas.endswith(".zip"):
+            tipe = "application/zip"
+        elif berkas.endswith(".apk"):
+            tipe = "application/vnd.android.package-archive"
         with open(berkas, "rb") as f:
             isi = f.read()
+        # Berkas unduhan: paksa jadi unduhan, jangan ditafsirkan sebagai halaman.
+        if tipe.startswith("application/") and not tipe.endswith("xml; charset=utf-8") and not tipe.endswith("json; charset=utf-8"):
+            self._kirim_unduh(200, isi, tipe, os.path.basename(berkas))
+            return
         self._kirim(200, isi, tipe)
+
+    def _kirim_unduh(self, kode, isi, tipe, nama):
+        """Kirim berkas sebagai unduhan sah: Content-Type benar + Content-Disposition."""
+        self.send_response(kode)
+        self.send_header("Content-Type", tipe)
+        self.send_header("Content-Length", str(len(isi)))
+        self.send_header("Content-Disposition", 'attachment; filename="%s"' % nama)
+        self.send_header("X-Content-Type-Options", "nosniff")
+        self.send_header("Cache-Control", "public, max-age=600")
+        self.end_headers()
+        if self.command != "HEAD":
+            self.wfile.write(isi)
 
     def log_message(self, format, *args):
         """Catat akses ke berkas, supaya pengunduhan & kunjungan bisa dipantau.
