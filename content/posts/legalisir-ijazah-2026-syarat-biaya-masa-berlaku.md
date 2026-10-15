@@ -133,6 +133,11 @@ termasuk yang kertasnya sudah menguning atau rusak — pekerjaan pindai dan pena
 dikerjakan, baik dokumen berbahasa Indonesia maupun berkas Arab berharakat. Rinciannya di
 [halaman jasa olah naskah](/jasa-olah-naskah/).
 
+
+## Baca juga
+
+Sebelum mengurus legalisir, pastikan nomor induk siswa sudah benar. Caranya di [Cek NISN Online 2026: Cara Mencari NISN Siswa & Solusi Kalau Tidak Ketemu](/posts/cek-nisn-online-2026-cara-mencari-dan-solusi-tidak-ketemu/).
+
 {{< bayar judul="Mulai Digitalisasi Arsip Ijazah, Rapor & Buku Induk" nominal="Rp750.000" >}}
 
 ## Ringkasan Langkah

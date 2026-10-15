@@ -183,3 +183,7 @@ Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berben
 Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).
 
 **Baca juga: [Nomor Ijazah Nasional (NIN) 2026: Letaknya di Mana, Cara Membacanya, dan Cara Cek Keasliannya](/posts/nomor-ijazah-nasional-nin-cara-cek-2026/)** — 15 angka, bedanya dengan NISN, dan cara verifikasi lewat portal resmi.
+
+## Baca juga
+
+Saat memindahkan buku induk ke spreadsheet, sekalian simpan NISN tiap siswa. Cara mencari dan memastikan nomornya benar: [Cek NISN Online 2026: Cara Mencari NISN Siswa](/posts/cek-nisn-online-2026-cara-mencari-dan-solusi-tidak-ketemu/).

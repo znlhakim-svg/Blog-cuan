@@ -125,3 +125,7 @@ Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berben
 Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).
 
 Baca juga: [Legalisir Ijazah 2026: Syarat, Biaya, dan Masa Berlaku](/posts/legalisir-ijazah-2026-syarat-biaya-masa-berlaku/)
+
+## Baca juga
+
+Satu berkas yang paling sering tertahan saat SPMB adalah NISN calon peserta didik yang tidak ketemu. Langkah penelusurannya ada di [Cek NISN Online 2026: Cara Mencari & Solusi Kalau Tidak Ketemu](/posts/cek-nisn-online-2026-cara-mencari-dan-solusi-tidak-ketemu/).

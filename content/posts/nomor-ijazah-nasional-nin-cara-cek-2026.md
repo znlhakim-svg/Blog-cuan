@@ -108,6 +108,11 @@ Kalau lembaga Anda menyimpan arsip ijazah dan buku induk **lama** (bahkan yang s
 
 Baca juga: [Legalisir Ijazah 2026: Syarat, Biaya, dan Masa Berlaku](/posts/legalisir-ijazah-2026-syarat-biaya-masa-berlaku/)
 
+
+## Baca juga
+
+NISN dan NIN sering tertukar karena keduanya sepuluh digit. Bedanya: NISN identitas siswa selama bersekolah, NIN tercetak di ijazah. Kalau pertanyaan Anda soal yang di ijazah, lihat [Nomor Ijazah Nasional (NIN) 2026: Letaknya, Cara Membaca & Cek Keasliannya](/posts/nomor-ijazah-nasional-nin-cara-cek-2026/).
+
 {{< bayar judul="Mulai Digitalisasi Arsip Ijazah & Buku Induk Madrasah" nominal="Rp750.000" >}}
 
 ## Ringkasan yang bisa dijawab ulang ke orang tua
