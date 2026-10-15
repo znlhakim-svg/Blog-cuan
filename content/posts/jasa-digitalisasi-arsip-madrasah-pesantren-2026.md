@@ -98,7 +98,7 @@ Untuk pekerjaan seperti itu, yang dibutuhkan bukan sekadar pemindai, melainkan o
 
 Sebelum memutuskan penyedia, lakukan satu langkah ini: **hitung dulu jumlah halamannya dan pisahkan menjadi tiga kelompok** — yang rapi, yang perlu diperbaiki, dan yang perlu ditranskrip. Dengan daftar itu, permintaan penawaran Anda menjadi jelas, dan setiap penyedia bisa memberi harga yang bisa dibandingkan secara adil. Tanpa daftar itu, semua penawaran akan berupa angka kasar yang tidak bisa diperbandingkan.
 
-Kalau arsipnya termasuk kelompok Arab berharakat atau bertulisan tangan lama, atau Anda ingin hasil yang sekaligus bisa dicari teksnya dan dipakai untuk aplikasi digital, saya sanggup mengerjakan naskah yang Anda kirimkan: dari foto/scan sampai keluaran PDF yang rapi, lengkap dengan penamaan berkas yang bisa dicari. Anda kirimkan naskahnya, hasilnya menjadi milik lembaga Anda.
+Kalau arsipnya termasuk kelompok Arab berharakat atau bertulisan tangan lama, atau Anda ingin hasil yang sekaligus bisa dicari teksnya dan dipakai untuk aplikasi digital, saya sanggup mengerjakan naskah yang Anda kirimkan: dari foto/scan sampai keluaran PDF yang rapi, lengkap dengan penamaan berkas yang bisa dicari. Anda kirimkan naskahnya, hasilnya menjadi milik lembaga Anda. Rincian paket dan cara menyerahkan naskah ada di halaman **[Jasa Olah Naskah](/jasa-olah-naskah/)**.
 
 {{< bayar nominal="Rp750.000" judul="Mulai Digitalisasi Arsip Lembaga Anda" >}}
 
