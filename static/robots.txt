@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://blog-cuan.pages.dev/sitemap.xml
+Sitemap: https://radar9.my.id/sitemap.xml
