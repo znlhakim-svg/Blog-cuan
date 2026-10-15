@@ -129,3 +129,5 @@ Baca juga: [Legalisir Ijazah 2026: Syarat, Biaya, dan Masa Berlaku](/posts/legal
 ## Baca juga
 
 Satu berkas yang paling sering tertahan saat SPMB adalah NISN calon peserta didik yang tidak ketemu. Langkah penelusurannya ada di [Cek NISN Online 2026: Cara Mencari & Solusi Kalau Tidak Ketemu](/posts/cek-nisn-online-2026-cara-mencari-dan-solusi-tidak-ketemu/).
+
+Baca juga: [Jumlah Murid per Kelas & Rombel Sekolah 2026: Batas Resmi SD 28, SMP 32, SMA 36](https://radar9.my.id/posts/jumlah-murid-per-rombel-sekolah-2026-batas-resmi-daya-tampung/) — batas baru SD 28, SMP 32, SMA 36 murid per kelas, cara menghitung daya tampung SPMB, dan langkah mengajukan kondisi pengecualian.

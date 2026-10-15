@@ -146,3 +146,5 @@ Kalau lembaga Anda punya naskah, kitab, atau catatan pengajian yang masih berben
 Rincian paket dan estimasi biaya: [Jasa Olah Naskah Arab](https://radar9.my.id/jasa-olah-naskah/) (mulai Rp750.000).
 
 Membaca juga: [Migrasi Simpatika ke EMIS GTK 2026: Urutan Kerja Operator Madrasah, Syarat Aktivasi, dan Berkas yang Wajib Disiapkan](/posts/migrasi-simpatika-ke-emis-gtk-2026/)
+
+Baca juga: [Jumlah Murid per Kelas & Rombel Sekolah 2026: Batas Resmi SD 28, SMP 32, SMA 36](https://radar9.my.id/posts/jumlah-murid-per-rombel-sekolah-2026-batas-resmi-daya-tampung/) — batas baru SD 28, SMP 32, SMA 36 murid per kelas, cara menghitung daya tampung SPMB, dan langkah mengajukan kondisi pengecualian.
