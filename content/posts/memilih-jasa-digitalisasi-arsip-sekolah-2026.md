@@ -105,4 +105,7 @@ Pekerjaan digitalisasi arsip jarang gagal karena mesin pemindai, dan hampir sela
 
 **Butuh arsip atau naskah sekolah/madrasah dipindai jadi berkas digital yang bisa dicari?** Sekolah menyerahkan berkasnya, kami kerjakan pemindaian, teks yang bisa dicari, penamaan berkas, serta penyerahan berkas siap pakai. Rincian paket dan cara mengirim berkas ada di halaman **[Jasa Olah Naskah](/jasa-olah-naskah/)**.
 
+
+Untuk koleksi berskala perpustakaan, kampus, atau penerbitan — yang volumenya jauh lebih besar dan anggarannya disusun terpisah — kerangka proyek dan angka biayanya dibahas di [Digitalisasi Koleksi Naskah untuk Perpustakaan & Kampus 2026](/posts/digitalisasi-koleksi-naskah-perpustakaan-kampus-2026/).
+
 {{< bayar judul="Pesan Digitalisasi Arsip Sekolah" nominal="Rp750.000" >}}

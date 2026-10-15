@@ -119,6 +119,9 @@ Kalau naskah Anda masih berupa tumpukan kertas atau tulisan tangan yang belum te
 
 Kalau sudah tahu paket mana yang cocok, pembayaran bisa dilakukan langsung di sini:
 
+
+Untuk koleksi berskala perpustakaan, kampus, atau penerbitan — yang volumenya jauh lebih besar dan anggarannya disusun terpisah — kerangka proyek dan angka biayanya dibahas di [Digitalisasi Koleksi Naskah untuk Perpustakaan & Kampus 2026](/posts/digitalisasi-koleksi-naskah-perpustakaan-kampus-2026/).
+
 {{< bayar judul="Mulai dari Paket Perapian Naskah" nominal="Rp750.000" >}}
 
 *Ditulis oleh Edukasi Praktis — mengerjakan pengolahan naskah Arab, harakat, terjemah, dan konversi ke aplikasi untuk pesantren, madrasah, dan perorangan.*
