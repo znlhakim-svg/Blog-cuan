@@ -111,7 +111,7 @@ Baca juga: [Legalisir Ijazah 2026: Syarat, Biaya, dan Masa Berlaku](/posts/legal
 
 ## Baca juga
 
-NISN dan NIN sering tertukar karena keduanya sepuluh digit. Bedanya: NISN identitas siswa selama bersekolah, NIN tercetak di ijazah. Kalau pertanyaan Anda soal yang di ijazah, lihat [Nomor Ijazah Nasional (NIN) 2026: Letaknya, Cara Membaca & Cek Keasliannya](/posts/nomor-ijazah-nasional-nin-cara-cek-2026/).
+NIN adalah identitas yang tercetak di ijazah dan berlaku selama dokumen itu ada. Jangan tertukar dengan NISN — identitas siswa selama bersekolah, yang juga sepuluh digit. Cara mencari NISN siswa yang tidak ketemu saat dicek ada di [Cek NISN Online 2026: Cara Mencari NISN Siswa & Solusi Kalau Tidak Ketemu](/posts/cek-nisn-online-2026-cara-mencari-dan-solusi-tidak-ketemu/).
 
 {{< bayar judul="Mulai Digitalisasi Arsip Ijazah & Buku Induk Madrasah" nominal="Rp750.000" >}}
 
