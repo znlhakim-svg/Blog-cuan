@@ -69,3 +69,19 @@
 2026-10-14 | [ROMBAK TOTAL] Menyelamatkan Data Sekolah Sebelum Terlambat: Urutan Pengerjaan, Alat & Uji Pemulihan | tips administrasi sekolah
 2026-10-15 | Buku Agenda Surat Sekolah: Menghitung Volumenya Dulu Sebelum Memilih Cara Mencatat | tips administrasi sekolah
 2026-10-15 | Daftar Hadir & Rekap Kehadiran Guru 2026: Cara Menghitung Persentase yang Benar dan Menyusun Laporan Bulanan | tips administrasi sekolah
+
+== 2026-10-15 putaran 14 (cron otonom) ==
+- Artikel baru: content/posts/digitalisasi-terbitan-jurnal-kampus-serah-simpan-2026.md (2.361 kata)
+  AUDIENS BARU: pengelola jurnal / penerbit kampus / perpustakaan perguruan tinggi (belum ada artikel ini).
+  Fakta terverifikasi: Permendiktisaintek No. 9 Tahun 2026 (ditetapkan 29 Juni 2026, ganti Permenristekdikti 9/2018)
+  Pasal 4 ayat (2) huruf g & h (jadwal terbit, EISSN + DOI); UU No. 13 Tahun 2018 serah simpan;
+  Perpusnas SAKEDAP diluncurkan 10 Feb 2026; Perpusnas No. 3 Tahun 2025 kriteria kualitas berkas
+  (bukan fotokopi, tanpa DRM/enkripsi/kata sandi/tanda air, bebas malware). Tabel harga pasar 2026.
+- Dua celah tautan terakhir ditutup: cara-memakai-proyektor-kelas-panduan-guru-2026.md dan
+  panduan-memilih-proyektor-ruang-kelas-2026.md sekarang menautkan /template-administrasi-madrasah-gratis/
+  -> 0 artikel tanpa jalur ke produk.
+- Hasil verifikasi: 104/104 artikel balas HTTP 200; sitemap 121 URL hostname radar9.my.id;
+  audit 31 tautan internal = 0 rusak; tautan perujuk dari 2 artikel = terlihat dari luar.
+- Uji kanal afiliasi BARU: walubee -> SaltyClicks (afiliasi dewasa, Swiss). Form app.saltyclicks.com/register:
+  username+email+sandi+messenger+2 textarea+checkbox ToS. TANPA nomor HP, TANPA captcha.
+  BERHENTI di checkbox ToS (kontrak) - kategori B, tidak disubmit.
